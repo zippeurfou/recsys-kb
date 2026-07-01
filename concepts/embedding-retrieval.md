@@ -13,4 +13,4 @@ aliases:
 
 ## Papers
 
-- [[2606.29968]] [arXiv 2026] CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search (Tencent) (Tencent, 2026)
+- [[2606.29968]] CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search (Tencent, 2026)

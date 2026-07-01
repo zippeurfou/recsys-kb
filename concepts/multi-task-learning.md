@@ -14,4 +14,4 @@ aliases:
 
 ## Papers
 
-- [[2606.30932]] [arXiv 2026] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin) (Linkedin, 2026)
+- [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
