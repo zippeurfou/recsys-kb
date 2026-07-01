@@ -1,0 +1,23 @@
+# Concept vocabulary for the recsys industry knowledge base.
+# Format:  canonical-slug: [alias, alias, ...]
+# - Aliases and slugs are matched case-insensitively with '-' treated as space.
+# - This file is the ONLY vocabulary-dependent input to canonicalization.
+#   Editing it and re-running `--canonicalize` retroactively re-tags all papers
+#   WITHOUT re-reading them (see design doc section 8).
+# - Grow it by reviewing `unmapped_concepts.md` and promoting frequent terms.
+
+two-tower-retrieval: [two-tower, two tower, dual-encoder, dual encoder, two-tower model, two tower model]
+cold-start: [cold start, item cold-start, user cold-start, entity cold start]
+sequential-recommendation: [sequential rec, session-based recommendation, sequence modeling, sequential modeling]
+generative-recommendation: [generative rec, genrec, semantic ids, semantic id, generative retrieval]
+negative-sampling: [in-batch negatives, in-batch negative sampling, hard negative mining, negative sampling]
+calibration: [probability calibration, calibrated ranking, ranking calibration]
+knowledge-distillation: [distillation, teacher-student, knowledge distillation]
+multi-task-learning: [mmoe, ple, multi-gate mixture-of-experts, multi-task, multitask learning]
+target-attention: [din, deep interest network, target attention, user interest modeling]
+whole-page-optimization: [page-level optimization, slate optimization, whole page optimization]
+rl-for-recsys: [rl post-training, reinforcement learning recommendation, bandits, contextual bandits]
+learning-to-rank: [ltr, learning to rank, pairwise ranking, listwise ranking]
+embedding-retrieval: [ann, approximate nearest neighbor, vector search, dense retrieval]
+ctr-prediction: [click-through rate, ctr, conversion prediction, cvr]
+uplift-modeling: [uplift, causal uplift, incremental modeling, treatment effect]

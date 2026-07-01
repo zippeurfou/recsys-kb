@@ -1,0 +1,7 @@
+# Local full-text cache (re-derivable from arXiv id; never committed)
+.cache/
+fulltext/
+*.pdf
+
+# OS / editor
+.DS_Store
