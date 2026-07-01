@@ -13,6 +13,11 @@ aliases:
 
 ## Papers
 
+- [[2309.13896]] Follow-ups Also Matter: Improving Contextual Bandits via Post-serving
+  Contexts (Google, 2023)
+- [[2407.18488]] Conversational Dueling Bandits in Generalized Linear Models (Bytedance, 2024)
+- [[2502.21304]] Clustering Context in Off-Policy Evaluation (Amazon, 2025)
+- [[2504.21362]] Enhancing New-item Fairness in Dynamic Recommender Systems (Alibaba-inc, 2025)
 - [[2506.05069]] Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance
   LLM Recommendation (Meta, 2025)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
