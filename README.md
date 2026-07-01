@@ -48,10 +48,41 @@ last_built: <YYYY-MM-DD>
 actually discusses. `concepts` is cheap and re-derivable: change `vocabulary.yaml`, re-run
 `--canonicalize`, and every paper is re-tagged with no re-reading.
 
-## Refresh
+## Refresh (ongoing — a few new papers)
+
+Extraction is **agent-driven** (an LLM agent reads each new paper). Use the
+`recsys-industry-kb` OpenCode skill, or run the loop manually:
 
 ```bash
 git pull
+# 1) fetch + cache full text for new papers (no LLM)
 uv run --project ~/Projects/arxiv_rec_finder python -m kb.build \
-    --incremental --repo zippeurfou/arxiv_rec_finder --kb-dir ~/Projects/recsys-kb
+    --kb-dir ~/Projects/recsys-kb prepare --repo zippeurfou/arxiv_rec_finder --incremental
+# 2) AGENT reads .pending.jsonl -> writes .extractions.jsonl  (arxiv_id, concepts_raw, technical_note)
+# 3) build notes + index, then commit
+uv run --project ~/Projects/arxiv_rec_finder python -m kb.build \
+    --kb-dir ~/Projects/recsys-kb ingest --extractions ~/Projects/recsys-kb/.extractions.jsonl
+git push
 ```
+
+## Backfill (one-time, batched, resumable)
+
+Same loop with `--limit N` per batch; the `state.json` watermark advances on each
+`ingest`, so batches march through the corpus (oldest issue first) without skipping.
+Repeat until `prepare` reports `prepared=0`. For a batch, split `.pending.jsonl`
+across parallel extraction subagents (each writing its own file), concatenate, then
+`ingest`.
+
+```bash
+uv run --project ~/Projects/arxiv_rec_finder python -m kb.build \
+    --kb-dir ~/Projects/recsys-kb prepare --repo zippeurfou/arxiv_rec_finder --incremental --limit 40
+# ... agent extraction -> .extractions.jsonl ...
+uv run --project ~/Projects/arxiv_rec_finder python -m kb.build \
+    --kb-dir ~/Projects/recsys-kb ingest --extractions ~/Projects/recsys-kb/.extractions.jsonl
+```
+
+Retry papers that had no usable full text (recorded in `state.json.failures`):
+`... prepare --retry-failed` then extract + ingest.
+
+**Progress:** ~38 papers ingested (watermark at issue 40); ~2,415 remain.
+

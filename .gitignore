@@ -3,5 +3,9 @@
 fulltext/
 *.pdf
 
+# Transient build artifacts (prepare/ingest hand-off files)
+.pending*.jsonl
+.extractions*.jsonl
+
 # OS / editor
 .DS_Store
