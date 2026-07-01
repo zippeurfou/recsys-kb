@@ -1,5 +1,10 @@
 {
-  "failures": [],
-  "ingested": 5,
-  "last_issue": 2460
+  "failures": [
+    "2504.12308",
+    "2506.01910",
+    "2505.16121",
+    "2505.05989"
+  ],
+  "ingested": 36,
+  "last_issue": 40
 }
