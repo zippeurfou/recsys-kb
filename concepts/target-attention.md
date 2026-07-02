@@ -86,3 +86,8 @@ aliases:
 - [[2604.05314]] Next-Scale Generative Reranking: A Tree-based Generative Rerank Method at Meituan (Meituan, 2026)
 - [[2604.13737]] TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds (Tencent, 2026)
 - [[2604.26760]] Factorized Latent Reasoning for LLM-based Recommendation (Meituan, 2026)
+- [[2605.25583]] LENS: A Staged Design for Interaction Granularityin Sequential CTR Prediction (Tencent, 2026)
+- [[2605.25726]] SIREN: Unified Multi-Granularity Semantic Interaction for Multi-Modal Lifelong User Interest Modeling (Tencent, 2026)
+- [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
+- [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
+- [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)

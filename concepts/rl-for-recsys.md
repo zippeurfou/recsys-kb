@@ -49,6 +49,8 @@ aliases:
 - [[2605.11169]] OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents (Adobe, 2026)
 - [[2605.15108]] Logging Policy Design for Off-Policy Evaluation (Spotify, 2026)
 - [[2605.17788]] Uncertainty-Calibrated Recommendations for Low-Active Users (Bytedance, 2026)
+- [[2606.08480]] Adaptive Loss Balancing for Noise-Robust GRPO in Generative Recommendation (Jd, 2026)
+- [[2606.19004]] Spotlight: Synergizing Seed Exploration and Spot GPUs for DiT RL Post-Training (Alibaba-inc, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
 - [[2606.31612]] What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States (Alibaba-inc, 2026)

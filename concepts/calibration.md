@@ -36,3 +36,7 @@ aliases:
 - [[2604.12096]] LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks (Walmart, 2026)
 - [[2604.24717]] Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling (Linkedin, 2026)
 - [[2605.17788]] Uncertainty-Calibrated Recommendations for Low-Active Users (Bytedance, 2026)
+- [[2606.17312]] Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty (Amazon, 2026)
+- [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
+- [[2606.24020]] You Don't Need to Run Every Eval (Microsoft, 2026)
+- [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)

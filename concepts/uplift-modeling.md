@@ -21,4 +21,5 @@ aliases:
 - [[2604.21675]] Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion (Alibaba-inc, 2026)
 - [[2604.24116]] Closing the Loop: A Software Framework for AI to Support Business Decision Making (Airbnb, 2026)
 - [[2605.17994]] Towards Sustainable Growth: A Multi-Value-Aware Retrieval Framework for E-Commerce Search (Alibaba-inc, 2026)
+- [[2606.26690]] Attributed, But Not Incremental: Cannibalization-Corrected Attribution for Large-Scale Advertising (Bytedance, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
