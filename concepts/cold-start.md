@@ -124,4 +124,7 @@ aliases:
 - [[2511.10962]] LEMUR: Large scale End-to-end MUltimodal Recommendation (Bytedance, 2025)
 - [[2511.20177]] Enhancing Sequential Recommendation with World Knowledge from Large Language Models (Alibaba-inc, 2025)
 - [[2511.21989]] Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation (Google, 2025)
+- [[2512.17277]] Warmer for Less: A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest (Pinterest, 2025)
+- [[2512.21595]] LLM-I2I: Boost Your Small Item2Item Recommendation Model with Large Language Model (Alibaba-inc, 2025)
+- [[2601.22694]] Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens (Bytedance, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

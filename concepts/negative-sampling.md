@@ -62,3 +62,5 @@ aliases:
 - [[2512.02555]] ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce (Jd, 2025)
 - [[2512.06381]] Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework (Alibaba-inc, 2025)
 - [[2512.13074]] A Simple and Effective Framework for Symmetric Consistent Indexing in Large-Scale Dense Retrieval (Jd, 2025)
+- [[2512.24943]] RAIR: A Rule-Aware Benchmark Uniting Challenging Long-Tail and Visual Salience Subset for E-commerce Relevance Assessment (Alibaba-inc, 2025)
+- [[2602.04731]] Less Finetuning, Better Retrieval: Rethinking LLM Adaptation for Biomedical Retrievers via Synthetic Data and Model Merging (Microsoft, 2026)

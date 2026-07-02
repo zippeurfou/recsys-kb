@@ -21,3 +21,5 @@ aliases:
 - [[2510.07621]] Retentive Relevance: Capturing Long-Term User Value in Recommendation
   Systems (Meta, 2025)
 - [[2510.19586]] Uncertainty evaluation of segmentation models for Earth observation (Google, 2025)
+- [[2601.20307]] Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches (Alibaba-inc, 2026)
+- [[2602.07987]] Learning to Alleviate Familiarity Bias in Video Recommendation (Google, 2026)

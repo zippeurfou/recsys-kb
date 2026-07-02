@@ -69,4 +69,8 @@ aliases:
 - [[2512.06381]] Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework (Alibaba-inc, 2025)
 - [[2512.13300]] No One Left Behind: How to Exploit the Incomplete and Skewed Multi-Label Data for Conversion Rate Prediction (Huawei, 2025)
 - [[2512.13396]] Automated Information Flow Selection for Multi-scenario Multi-task Recommendation (Tencent, 2025)
+- [[2512.17277]] Warmer for Less: A Cost-Efficient Strategy for Cold-Start Recommendations at Pinterest (Pinterest, 2025)
+- [[2512.23647]] Nested Browser-Use Learning for Agentic Information Seeking (Alibaba-inc, 2025)
+- [[2601.20307]] Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches (Alibaba-inc, 2026)
+- [[2602.05408]] Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search (Baidu, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)

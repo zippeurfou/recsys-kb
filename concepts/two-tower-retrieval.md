@@ -69,3 +69,8 @@ aliases:
 - [[2512.07216]] MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling (Alibaba-inc, 2025)
 - [[2512.12309]] WeDetect: Fast Open-Vocabulary Object Detection as Retrieval (Tencent, 2025)
 - [[2512.13074]] A Simple and Effective Framework for Symmetric Consistent Indexing in Large-Scale Dense Retrieval (Jd, 2025)
+- [[2601.20131]] Taxonomy of the Retrieval System Framework: Pitfalls and Paradigms (Google, 2026)
+- [[2601.20199]] MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation (Bytedance, 2026)
+- [[2602.02961]] Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth (Pinterest, 2026)
+- [[2602.06654]] Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan (Meituan, 2026)
+- [[2602.08575]] RankGR: Rank-Enhanced Generative Retrieval with Listwise Direct Preference Optimization in Recommendation (Alibaba-inc, 2026)

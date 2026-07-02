@@ -75,3 +75,4 @@ aliases:
 - [[2511.21095]] Generative Early Stage Ranking (Meta, 2025)
 - [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
 - [[2512.07216]] MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling (Alibaba-inc, 2025)
+- [[2602.01865]] GRAB: An LLM-Inspired Sequence-First Click-Through Rate Prediction Modeling Paradigm (Baidu, 2026)
