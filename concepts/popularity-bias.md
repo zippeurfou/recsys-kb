@@ -16,6 +16,7 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 
 - [[2101.04526]] Measuring Recommender System Effects with Simulated Users (Google, 2021)
 - [[2204.12176]] Cross Pairwise Ranking for Unbiased Item Recommendation (Huawei, 2022)
+- [[2210.14309]] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN) (Google, 2022)
 - [[2211.01154]] Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective (Bytedance, 2022)
 - [[2403.06447]] CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation (Adobe, 2024)
 - [[2410.16823]] Bridging Search and Recommendation in Generative Retrieval: Does One

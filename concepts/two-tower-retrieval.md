@@ -17,6 +17,7 @@ Retrieval architecture with separate user/query and item/document encoders whose
 
 - [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)
 - [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
+- [[2210.14309]] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN) (Google, 2022)
 - [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
 - [[2401.06633]] Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations (Microsoft, 2024)
 - [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
