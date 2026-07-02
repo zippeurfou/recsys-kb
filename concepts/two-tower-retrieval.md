@@ -79,3 +79,7 @@ aliases:
 - [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)
 - [[2603.24963]] Design Once, Deploy at Scale: Template-Driven ML Development for Large Model Ecosystems (Meta, 2026)
 - [[2603.25891]] Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods (Huawei, 2026)
+- [[2604.07930]] Unified Supervision for Walmarts Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling (Walmart, 2026)
+- [[2604.12965]] Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation (Meta, 2026)
+- [[2604.17878]] RankUp: Towards High-rank Representations for Large Scale Advertising Recommender Systems (Tencent, 2026)
+- [[2604.22280]] Beyond Chain-of-Thought: Rewrite as a Universal Interface for Generative Multimodal Embeddings (Tencent, 2026)

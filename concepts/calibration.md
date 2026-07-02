@@ -33,3 +33,6 @@ aliases:
 - [[2603.10369]] Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems (Linkedin, 2026)
 - [[2603.26100]] Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems (Alibaba-inc, 2026)
 - [[2604.01036]] Aligning Recommendations with User Popularity Preferences (Amazon, 2026)
+- [[2604.12096]] LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks (Walmart, 2026)
+- [[2604.24717]] Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling (Linkedin, 2026)
+- [[2605.17788]] Uncertainty-Calibrated Recommendations for Low-Active Users (Bytedance, 2026)

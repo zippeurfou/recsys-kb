@@ -83,3 +83,6 @@ aliases:
 - [[2603.11927]] CogSearch: A Cognitive-Aligned Multi-Agent Framework for Proactive Decision Support in E-Commerce Search (Jd, 2026)
 - [[2603.12578]] Bridging Sequential and Contextual Features with a Dual-View of Fine-grained Core-Behaviors and Global Interest-Distribution (Alibaba-inc, 2026)
 - [[2603.22916]] GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation (Alibaba-inc, 2026)
+- [[2604.05314]] Next-Scale Generative Reranking: A Tree-based Generative Rerank Method at Meituan (Meituan, 2026)
+- [[2604.13737]] TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds (Tencent, 2026)
+- [[2604.26760]] Factorized Latent Reasoning for LLM-based Recommendation (Meituan, 2026)

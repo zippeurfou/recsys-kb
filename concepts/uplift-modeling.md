@@ -18,4 +18,7 @@ aliases:
 - [[2602.18640]] Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System (Meta, 2026)
 - [[2602.20383]] Detecting and Mitigating Group Bias in Heterogeneous Treatment Effects (Spotify, 2026)
 - [[2604.02472]] VALOR: Value-Aware Revenue Uplift Modeling with Treatment-Gated Representation for B2B Sales (Google, 2026)
+- [[2604.21675]] Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion (Alibaba-inc, 2026)
+- [[2604.24116]] Closing the Loop: A Software Framework for AI to Support Business Decision Making (Airbnb, 2026)
+- [[2605.17994]] Towards Sustainable Growth: A Multi-Value-Aware Retrieval Framework for E-Commerce Search (Alibaba-inc, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)

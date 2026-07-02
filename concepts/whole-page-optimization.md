@@ -25,4 +25,5 @@ aliases:
 - [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
 - [[2512.24787]] HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment (Tencent, 2025)
 - [[2602.03324]] SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation (Alibaba-inc, 2026)
+- [[2605.11118]] A Cascaded Generative Approach for e-Commerce Recommendations (Instacart, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
