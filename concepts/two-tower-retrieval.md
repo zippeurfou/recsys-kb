@@ -74,3 +74,6 @@ aliases:
 - [[2602.02961]] Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth (Pinterest, 2026)
 - [[2602.06654]] Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan (Meituan, 2026)
 - [[2602.08575]] RankGR: Rank-Enhanced Generative Retrieval with Listwise Direct Preference Optimization in Recommendation (Alibaba-inc, 2026)
+- [[2602.17654]] Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval (Doordash, 2026)
+- [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)
+- [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)

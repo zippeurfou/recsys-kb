@@ -64,3 +64,8 @@ aliases:
 - [[2512.13074]] A Simple and Effective Framework for Symmetric Consistent Indexing in Large-Scale Dense Retrieval (Jd, 2025)
 - [[2512.24943]] RAIR: A Rule-Aware Benchmark Uniting Challenging Long-Tail and Visual Salience Subset for E-commerce Relevance Assessment (Alibaba-inc, 2025)
 - [[2602.04731]] Less Finetuning, Better Retrieval: Rethinking LLM Adaptation for Biomedical Retrievers via Synthetic Data and Model Merging (Microsoft, 2026)
+- [[2602.17410]] Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers (Meituan, 2026)
+- [[2602.17654]] Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval (Doordash, 2026)
+- [[2602.20676]] PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization (Taobao, 2026)
+- [[2603.01471]] Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (Baidu, 2026)
+- [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)

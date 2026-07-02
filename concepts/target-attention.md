@@ -76,3 +76,7 @@ aliases:
 - [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
 - [[2512.07216]] MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling (Alibaba-inc, 2025)
 - [[2602.01865]] GRAB: An LLM-Inspired Sequence-First Click-Through Rate Prediction Modeling Paradigm (Baidu, 2026)
+- [[2602.09387]] Query-Mixed Interest Extraction and Heterogeneous Interaction: A Scalable CTR Model for Industrial Recommender Systems (Alibaba-inc, 2026)
+- [[2602.12354]] An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking (Linkedin, 2026)
+- [[2602.15005]] Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation (Microsoft, 2026)
+- [[2602.17058]] A Long-term Value Prediction Framework In Video Ranking (Alibaba-inc, 2026)
