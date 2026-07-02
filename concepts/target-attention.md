@@ -5,14 +5,16 @@ aliases:
 - deep interest network
 - target attention
 - user interest modeling
+- attention pooling
 ---
 
 ## What it is
 
-
+Attention that conditions on the candidate/target item to model user interest from behavior history (e.g. DIN).
 
 ## Papers
 
+- [[1905.12480]] NRPA: Neural Recommendation with Personalized Attention (Microsoft, 2019)
 - [[2106.08934]] Personalized News Recommendation: Methods and Challenges (Microsoft, 2021)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
 - [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
@@ -29,6 +31,8 @@ aliases:
   Recommenders (Bytedance, 2025)
 - [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate
   Prediction (Wechat, 2025)
+- [[2503.22049]] HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next
+  POI Recommendation (Meta, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems
   with Semantic ID (Meta, 2025)
 - [[2504.16454]] Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a
@@ -80,6 +84,7 @@ aliases:
 - [[2602.12354]] An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking (Linkedin, 2026)
 - [[2602.15005]] Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation (Microsoft, 2026)
 - [[2602.17058]] A Long-term Value Prediction Framework In Video Ranking (Alibaba-inc, 2026)
+- [[2603.10369]] Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems (Linkedin, 2026)
 - [[2603.11927]] CogSearch: A Cognitive-Aligned Multi-Agent Framework for Proactive Decision Support in E-Commerce Search (Jd, 2026)
 - [[2603.12578]] Bridging Sequential and Contextual Features with a Dual-View of Fine-grained Core-Behaviors and Global Interest-Distribution (Alibaba-inc, 2026)
 - [[2603.22916]] GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation (Alibaba-inc, 2026)

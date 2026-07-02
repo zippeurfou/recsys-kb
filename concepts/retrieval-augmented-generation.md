@@ -1,0 +1,137 @@
+---
+slug: retrieval-augmented-generation
+aliases:
+- rag
+- retrieval augmented generation
+- retrieval-augmented
+---
+
+## What it is
+
+Grounding LLM generation in retrieved documents/items -- increasingly used in LLM-based recommendation and search.
+
+## Papers
+
+- [[2408.09017]] Meta Knowledge for Retrieval Augmented Large Language Models (Amazon, 2024)
+- [[2410.16780]] Beyond Retrieval: Generating Narratives in Conversational Recommender
+  Systems (Amazon, 2024)
+- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
+  Recommender Systems (Reddit, 2025)
+- [[2502.15698]] Developing an Artificial Intelligence Tool for Personalized Breast
+  Cancer Treatment Plans based on the NCCN Guidelines (Microsoft, 2025)
+- [[2504.10489]] Roamify: Designing and Evaluating an LLM Based Google Chrome Extension
+  for Personalised Itinerary Planning (Google, 2025)
+- [[2505.20773]] Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented
+  Generation (Meta, 2025)
+- [[2506.20815]] Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI
+  Applications (Microsoft, 2025)
+- [[2506.21934]] CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware
+  Layout Design (Walmart, 2025)
+- [[2507.17927]] SMARTAPS: Tool-augmented LLMs for Operations Management (Huawei, 2025)
+- [[2507.21142]] Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for
+  Compliance AI Agents (Meta, 2025)
+- [[2508.02342]] Agentic Personalized Fashion Recommendation in the Age of Generative AI:
+  Challenges, Opportunities, and Evaluation (Zalando, 2025)
+- [[2508.13423]] AdaptJobRec: Enhancing Conversational Career Recommendation through an
+  LLM-Powered Agentic System (Walmart, 2025)
+- [[2509.23874]] Multi-Value-Product Retrieval-Augmented Generation for Industrial
+  Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2510.08935]] Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval (Huawei, 2025)
+- [[2510.20260]] Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM
+  Recommendation Updates (Google, 2025)
+- [[2511.13046]] Knowing Ourselves Through Others: Reflecting with AI in Digital Human Debates (Microsoft, 2025)
+- [[2511.17833]] Learning to Debug: LLM-Organized Knowledge Trees for Solving RTL Assertion Failures (Nvidia, 2025)
+- [[2511.18659]] CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning (Apple, 2025)
+- [[2511.20513]] DesignPref: Capturing Personal Preferences in Visual Design Generation (Apple, 2025)
+- [[2512.00997]] IndiMathBench: Autoformalizing Mathematical Reasoning Problems with a Human Touch (Microsoft, 2025)
+- [[2512.03887]] A Hierarchical Tree-based approach for creating Configurable and Static Deep Research Agent (Static-DRA) (Google, 2025)
+- [[2512.06464]] Modeling Contextual Passage Utility for Multihop Question Answering (Adobe, 2025)
+- [[2512.07436]] LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services (Meituan, 2025)
+- [[2512.08867]] SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA (Huawei, 2025)
+- [[2512.09695]] Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries (Microsoft, 2025)
+- [[2512.10114]] AgriRegion: Region-Aware Retrieval for High-Fidelity Agricultural Advice (Amazon, 2025)
+- [[2512.11303]] Unifying Dynamic Tool Creation and Cross-Task Experience Sharing through Cognitive Memory Architecture (Jd, 2025)
+- [[2512.13573]] MMhops-R1: Multimodal Multi-hop Reasoning (Tencent, 2025)
+- [[2512.16171]] Science Consultant Agent (Amazon, 2025)
+- [[2512.16822]] MEPIC: Memory Efficient Position Independent Caching for LLM Serving (Huawei, 2025)
+- [[2512.17220]] Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding (Tencent, 2025)
+- [[2512.17309]] RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models (Huawei, 2025)
+- [[2512.18060]] Graph-based Nearest Neighbors with Dynamic Updates via Random Walks (Amazon, 2025)
+- [[2512.19997]] BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations (Huawei, 2025)
+- [[2512.21828]] Contextual Biasing for LLM-Based ASR with Hotword Retrieval and Reinforcement Learning (Alibaba-inc, 2025)
+- [[2512.23836]] Retrieval Augmented Question Answering: When Should LLMs Admit Ignorance? (Google, 2025)
+- [[2512.23959]] Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling (Tencent, 2025)
+- [[2601.20615]] DRAINCODE: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning (Huawei, 2026)
+- [[2601.21208]] When should I search more: Adaptive Complex Query Optimization with Reinforcement Learning (Tencent, 2026)
+- [[2601.21937]] Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities (Bytedance, 2026)
+- [[2601.23129]] Evaluating the Utility of Grounding Documents with Reference-Free LLM-based Metrics (Amazon, 2026)
+- [[2602.03304]] To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention (Huawei, 2026)
+- [[2602.03315]] Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity (Microsoft, 2026)
+- [[2602.03992]] Nemotron ColEmbed V2: Top-Performing Late Interaction embedding models for Visual Document Retrieval (Nvidia, 2026)
+- [[2602.04731]] Less Finetuning, Better Retrieval: Rethinking LLM Adaptation for Biomedical Retrievers via Synthetic Data and Model Merging (Microsoft, 2026)
+- [[2602.08070]] IRB: Automated Generation of Robust Factuality Benchmarks (Nvidia, 2026)
+- [[2602.08742]] Welfarist Formulations for Diverse Similarity Search (Microsoft, 2026)
+- [[2602.09723]] AI-Assisted Scientific Assessment: A Case Study on Climate Change (Google, 2026)
+- [[2602.10577]] Campaign-2-PT-RAG: LLM-Guided Semantic Product Type Attribution for Scalable Campaign Ranking (Walmart, 2026)
+- [[2602.11550]] TS-Memory: Plug-and-Play Memory for Time Series Foundation Models (Tencent, 2026)
+- [[2602.11551]] SIGHT: Reinforcement Learning with Self-Evidence and Information-Gain Diverse Branching for Search Agent (Alibaba-inc, 2026)
+- [[2602.12192]] Query-focused and Memory-aware Reranker for Long Context Processing (Tencent, 2026)
+- [[2602.12640]] ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models (Amazon, 2026)
+- [[2602.19001]] A Benchmark and Knowledge-Grounded Framework for Advanced Multimodal Personalization Study (Google, 2026)
+- [[2602.20799]] Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs (Tencent, 2026)
+- [[2602.22584]] Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA (Tencent, 2026)
+- [[2602.23061]] MoDora: Tree-Based Semi-Structured Document Analysis System (Microsoft, 2026)
+- [[2603.00801]] The Synthetic Web: Adversarially-Curated Mini-Internets for Diagnosing Epistemic Weaknesses of Language Agents (Microsoft, 2026)
+- [[2603.01289]] Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data (Microsoft, 2026)
+- [[2603.01966]] AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations (Meituan, 2026)
+- [[2603.05974]] Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading (Tencent, 2026)
+- [[2603.12396]] Test-Time Strategies for More Efficient and Accurate Agentic RAG (Adobe, 2026)
+- [[2603.16110]] VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support (Amazon, 2026)
+- [[2603.17668]] Halo: Domain-Aware Query Optimization for Long-Context Question Answering (Amazon, 2026)
+- [[2603.18631]] D-Mem: A Dual-Process Memory System for LLM Agents (Amazon, 2026)
+- [[2603.25164]] PIDP-Attack: Combining Prompt Injection with Database Poisoning Attacks on Retrieval-Augmented Generation Systems (Taobao, 2026)
+- [[2604.05350]] DQA: Diagnostic Question Answering for IT Support (Amazon, 2026)
+- [[2604.06008]] Designing Around Stigma: Human-Centered LLMs for Menstrual Health (Google, 2026)
+- [[2604.06097]] Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG (Adobe, 2026)
+- [[2604.07487]] CLEAR: Context Augmentation from Contrastive Learning of Experience via Agentic Reflection (Amazon, 2026)
+- [[2604.08046]] Guaranteeing Knowledge Integration with Joint Decoding for Retrieval-Augmented Generation (Tencent, 2026)
+- [[2604.08082]] From Binary Groundedness to Support Relations: Towards a Reader-Centred Taxonomy for Comprehension of AI Output (Microsoft, 2026)
+- [[2604.13660]] VRAG-DFD: Verifiable Retrieval-Augmentation for MLLM-based Deepfake Detection (Tencent, 2026)
+- [[2604.14339]] Shuffle the Context: RoPE-Perturbed Self-Distillation for Long-Context Adaptation (Microsoft, 2026)
+- [[2604.14362]] APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI (Amazon, 2026)
+- [[2604.18257]] DocQAC: Adaptive Trie-Guided Decoding for Effective In-Document Query Auto-Completion (Microsoft, 2026)
+- [[2604.19685]] An Answer is just the Start: Related Insight Generation for Open-Ended Document-Grounded QA (Adobe, 2026)
+- [[2604.21193]] Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models (Adobe, 2026)
+- [[2604.25683]] K-CARE: Knowledge-driven Symmetrical Contextual Anchoring and Analogical Prototype Reasoning for E-commerce Relevance (Jd, 2026)
+- [[2604.26197]] Hierarchical Long-Term Semantic Memory for LinkedIn's Hiring Agent (Linkedin, 2026)
+- [[2604.27934]] MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection (Amazon, 2026)
+- [[2605.04495]] CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation (Tencent, 2026)
+- [[2605.07957]] Similar Pattern Annotation via Retrieval Knowledge for LLM-Based Test Code Fault Localization (Huawei, 2026)
+- [[2605.10530]] Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery (Huawei, 2026)
+- [[2605.11118]] A Cascaded Generative Approach for e-Commerce Recommendations (Instacart, 2026)
+- [[2605.11807]] Why Users Go There: World Knowledge-Augmented Generative Next POI Recommendation (Alibaba-inc, 2026)
+- [[2605.13052]] RAG-Enhanced Large Language Models for Dynamic Content Expiration Prediction in Web Search (Baidu, 2026)
+- [[2605.17617]] GraphMind: From Operational Traces to Self-Evolving Workflow Automation (Microsoft, 2026)
+- [[2605.25382]] AuthTrace: Diagnosing Evidence Construction in Thematically Dense Single-Author Corpora (Tencent, 2026)
+- [[2605.25480]] Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki (Tencent, 2026)
+- [[2605.27860]] C-MIG: Multi-view Information Gain-based Retrieval-Augmented Generation for Clinical Diagnosis Reasoning (Baidu, 2026)
+- [[2605.30107]] Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking (Google, 2026)
+- [[2605.31086]] Beyond Static Dialogues: Benchmarking Realistic, Heterogeneous, and Evolving Long-Term Memory (Microsoft, 2026)
+- [[2606.01697]] RCEM: Embedder Equipped with Query Rewriting Skill for Robust Conversational Search in Distributional Shift (Microsoft, 2026)
+- [[2606.04557]] Cartridges at Scale: Training Modular KV Caches over Large Document Collections (Amazon, 2026)
+- [[2606.05894]] EMBER: Efficient Memory via Budgeted Evidence Retention for Long-Horizon Agents (Nvidia, 2026)
+- [[2606.06779]] Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations (Doordash, 2026)
+- [[2606.12018]] MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning (Huawei, 2026)
+- [[2606.13680]] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning (Meta, 2026)
+- [[2606.14275]] WikiKV: Schema-Evolving Path-Indexed Storage for Hierarchical Knowledge Navigation (Tencent, 2026)
+- [[2606.16175]] PAL-Bench: Evidence-Grounded Profile Reconstruction from Longitudinal Personal Albums (Tencent, 2026)
+- [[2606.16316]] RL-Index: Reinforcement Learning for Retrieval Index Reasoning (Adobe, 2026)
+- [[2606.16903]] Directory-Aware Query and Maintenance in Vector Databases (Bytedance, 2026)
+- [[2606.17637]] Brick-DICL: Dynamic In-Context Learning for Automated Brick Schema Classification (Amazon, 2026)
+- [[2606.18947]] Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents (Doordash, 2026)
+- [[2606.21963]] Holmes: Multimodal Agentic Diagnosis for Mixed-Language Mobile Crashes at Industrial Scale (Tencent, 2026)
+- [[2606.23915]] Do LLM Attribution Metrics Transfer? Auditing Retrieval-Augmented Generation Evaluation Across Datasets and Constructs (Amazon, 2026)
+- [[2606.24976]] Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval (Google, 2026)
+- [[2606.25632]] Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents (Alibaba-inc, 2026)
+- [[2606.25656]] Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization (Amazon, 2026)
+- [[2606.28070]] JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications (Jd, 2026)

@@ -3,12 +3,13 @@ slug: knowledge-distillation
 aliases:
 - distillation
 - teacher-student
+- teacher student
 - knowledge distillation
 ---
 
 ## What it is
 
-
+Training a smaller/faster student model to match a teacher's outputs or representations, for quality or serving efficiency.
 
 ## Papers
 

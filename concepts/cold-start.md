@@ -5,11 +5,13 @@ aliases:
 - item cold-start
 - user cold-start
 - entity cold start
+- new item
+- new user
 ---
 
 ## What it is
 
-
+Recommending for new users or items that have little or no interaction history.
 
 ## Papers
 

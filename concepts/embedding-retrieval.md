@@ -3,13 +3,18 @@ slug: embedding-retrieval
 aliases:
 - ann
 - approximate nearest neighbor
+- approximate nearest neighbor search
 - vector search
 - dense retrieval
+- embedding based retrieval
+- hnsw
+- ivf
+- faiss
 ---
 
 ## What it is
 
-
+Dense / approximate-nearest-neighbor retrieval over learned embeddings for candidate generation.
 
 ## Papers
 
@@ -37,6 +42,9 @@ aliases:
   Multi-Modal AI for Web-Scale Discovery (Pinterest, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)
+- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems (Pinterest, 2025)
+- [[2504.21838]] Learning Universal User Representations Leveraging Cross-domain User
+  Intent at Snapchat (Snap, 2025)
 - [[2505.00560]] Efficient Recommendation with Millions of Items by Dynamic Pruning of
   Sub-Item Embeddings (Tmall, 2025)
 - [[2505.03336]] Avoid Recommending Out-of-Domain Items: Constrained Generative
@@ -49,6 +57,7 @@ aliases:
   Item-to-Item Retrieval in Recommendation (Meta, 2025)
 - [[2506.15267]] Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative
   Next-User Modeling (Bytedance, To Read, 2025)
+- [[2506.21931]] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation (Walmart, 2025)
 - [[2506.23060]] Synergizing Implicit and Explicit User Interests: A Multi-Embedding
   Retrieval Framework at Pinterest (Pinterest, 2025)
 - [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
@@ -79,6 +88,8 @@ aliases:
 - [[2511.03298]] KScaNN: Scalable Approximate Nearest Neighbor Search on Kunpeng (Huawei, 2025)
 - [[2511.13885]] TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search (Alibaba-inc, 2025)
 - [[2511.13994]] Hint-Augmented Re-ranking: Efficient Product Search using LLM-Based Query Decomposition (Amazon, 2025)
+- [[2511.14881]] SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs (Meta, 2025)
+- [[2511.16921]] δ-EMG: A Monotonic Graph Index for Approximate Nearest Neighbor Search (Huawei, 2025)
 - [[2511.18413]] Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations (Adobe, 2025)
 - [[2511.18659]] CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning (Apple, 2025)
 - [[2511.19780]] NOEM$^{3}$A: A Neuro-Symbolic Ontology-Enhanced Method for Multi-Intent Understanding in Mobile Agents (Huawei, 2025)
@@ -86,12 +97,15 @@ aliases:
 - [[2511.23021]] Masked Diffusion for Generative Recommendation (Snap, 2025)
 - [[2512.03219]] Perch 2.0 transfers 'whale' to underwater tasks (Google, 2025)
 - [[2512.06381]] Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework (Alibaba-inc, 2025)
+- [[2512.09695]] Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries (Microsoft, 2025)
 - [[2512.10114]] AgriRegion: Region-Aware Retrieval for High-Fidelity Agricultural Advice (Amazon, 2025)
+- [[2512.11254]] FAIR: Focused Attention Is All You Need for Generative Recommendation (Huawei, 2025)
 - [[2512.12458]] Breaking the Curse of Dimensionality: On the Stability of Modern Vector Retrieval (Google, 2025)
 - [[2512.12980]] Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views (Alibaba-inc, 2025)
 - [[2512.13074]] A Simple and Effective Framework for Symmetric Consistent Indexing in Large-Scale Dense Retrieval (Jd, 2025)
 - [[2512.17220]] Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding (Tencent, 2025)
 - [[2512.17309]] RecipeMasterLLM: Revisiting RoboEarth in the Era of Large Language Models (Huawei, 2025)
+- [[2512.18060]] Graph-based Nearest Neighbors with Dynamic Updates via Random Walks (Amazon, 2025)
 - [[2601.20131]] Taxonomy of the Retrieval System Framework: Pitfalls and Paradigms (Google, 2026)
 - [[2601.22288]] PersonaCite: VoC-Grounded Interviewable Agentic Synthetic AI Personas for Verifiable User and Design Research (Adobe, 2026)
 - [[2601.23129]] Evaluating the Utility of Grounding Documents with Reference-Free LLM-based Metrics (Amazon, 2026)

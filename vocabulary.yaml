@@ -1,23 +1,188 @@
 # Concept vocabulary for the recsys industry knowledge base.
-# Format:  canonical-slug: [alias, alias, ...]
-# - Aliases and slugs are matched case-insensitively with '-' treated as space.
-# - This file is the ONLY vocabulary-dependent input to canonicalization.
-#   Editing it and re-running `--canonicalize` retroactively re-tags all papers
-#   WITHOUT re-reading them (see design doc section 8).
-# - Grow it by reviewing `unmapped_concepts.md` and promoting frequent terms.
+#
+# Each entry maps a canonical slug to:
+#   aliases: phrases (matched case-insensitively, '-' treated as space) that
+#            canonicalize to this slug.
+#   intro:   1-2 sentence description rendered at the top of concepts/<slug>.md.
+#
+# This file is the ONLY vocabulary-dependent input to canonicalization. Edit it
+# and run `python -m kb.build --kb-dir <kb> canonicalize` to retroactively re-tag
+# ALL papers and regenerate concept notes -- no re-reading, no LLM (design doc s8).
+# Grow it by reviewing unmapped_concepts.md and promoting frequent recsys terms.
+# The legacy `slug: [aliases]` list form is still supported.
 
-two-tower-retrieval: [two-tower, two tower, dual-encoder, dual encoder, two-tower model, two tower model]
-cold-start: [cold start, item cold-start, user cold-start, entity cold start]
-sequential-recommendation: [sequential rec, session-based recommendation, sequence modeling, sequential modeling]
-generative-recommendation: [generative rec, genrec, semantic ids, semantic id, generative retrieval]
-negative-sampling: [in-batch negatives, in-batch negative sampling, hard negative mining, negative sampling]
-calibration: [probability calibration, calibrated ranking, ranking calibration]
-knowledge-distillation: [distillation, teacher-student, knowledge distillation]
-multi-task-learning: [mmoe, ple, multi-gate mixture-of-experts, multi-task, multitask learning]
-target-attention: [din, deep interest network, target attention, user interest modeling]
-whole-page-optimization: [page-level optimization, slate optimization, whole page optimization]
-rl-for-recsys: [rl post-training, reinforcement learning recommendation, bandits, contextual bandits]
-learning-to-rank: [ltr, learning to rank, pairwise ranking, listwise ranking]
-embedding-retrieval: [ann, approximate nearest neighbor, vector search, dense retrieval]
-ctr-prediction: [click-through rate, ctr, conversion prediction, cvr]
-uplift-modeling: [uplift, causal uplift, incremental modeling, treatment effect]
+two-tower-retrieval:
+  aliases: [two-tower, two tower, dual-encoder, dual encoder, two-tower model, two tower model]
+  intro: >-
+    Retrieval architecture with separate user/query and item/document encoders
+    whose embeddings are scored by dot product or cosine, enabling large-scale
+    approximate-nearest-neighbor candidate generation.
+
+embedding-retrieval:
+  aliases: [ann, approximate nearest neighbor, approximate nearest neighbor search,
+    vector search, dense retrieval, embedding based retrieval, hnsw, ivf, faiss]
+  intro: >-
+    Dense / approximate-nearest-neighbor retrieval over learned embeddings for
+    candidate generation.
+
+sequential-recommendation:
+  aliases: [sequential rec, session-based recommendation, session based recommendation,
+    sequence modeling, sequential modeling, next-item prediction, next item prediction,
+    sasrec, bert4rec, user behavior sequence]
+  intro: >-
+    Modeling a user's chronological interaction sequence (often with transformers
+    or RNNs) to predict the next item.
+
+generative-recommendation:
+  aliases: [generative rec, genrec, generative retrieval, hstu, generative ranking, tiger]
+  intro: >-
+    Framing recommendation as sequence generation -- autoregressively generating
+    item identifiers or whole slates rather than scoring a fixed candidate set.
+
+semantic-ids:
+  aliases: [semantic id, semantic ids, rq-vae, rq vae, residual quantization,
+    vector quantization, codebook, tokenization of items]
+  intro: >-
+    Discrete, hierarchical item identifiers learned by quantizing item embeddings
+    (e.g. RQ-VAE), used as generation targets in generative recommendation.
+
+cold-start:
+  aliases: [cold start, item cold-start, user cold-start, entity cold start, new item, new user]
+  intro: >-
+    Recommending for new users or items that have little or no interaction history.
+
+ctr-prediction:
+  aliases: [click-through rate, click through rate, ctr, conversion prediction, cvr,
+    conversion rate, pctr]
+  intro: >-
+    Predicting click-through (and conversion) probability for ranking -- central to
+    ads and feed ranking.
+
+learning-to-rank:
+  aliases: [ltr, learning to rank, pairwise ranking, listwise ranking, ranknet,
+    lambdamart, ranking loss]
+  intro: >-
+    Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of
+    candidate items.
+
+negative-sampling:
+  aliases: [in-batch negatives, in batch negatives, hard negative mining, hard negatives,
+    sampled softmax, negative sampling]
+  intro: >-
+    Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking
+    models efficiently.
+
+target-attention:
+  aliases: [din, deep interest network, target attention, user interest modeling,
+    attention pooling]
+  intro: >-
+    Attention that conditions on the candidate/target item to model user interest
+    from behavior history (e.g. DIN).
+
+multi-task-learning:
+  aliases: [mmoe, ple, multi-gate mixture-of-experts, multi-task, multitask learning,
+    auxiliary task]
+  intro: >-
+    Jointly learning multiple objectives with shared or expert-gated representations
+    (e.g. MMoE, PLE).
+
+mixture-of-experts:
+  aliases: [moe, sparse moe, expert routing, mixture of experts, switch transformer]
+  intro: >-
+    Conditional computation that routes each input to specialized expert
+    subnetworks, scaling capacity without proportional compute.
+
+knowledge-distillation:
+  aliases: [distillation, teacher-student, teacher student, knowledge distillation]
+  intro: >-
+    Training a smaller/faster student model to match a teacher's outputs or
+    representations, for quality or serving efficiency.
+
+calibration:
+  aliases: [probability calibration, calibrated ranking, ranking calibration, calibrated]
+  intro: >-
+    Aligning predicted scores with true probabilities (e.g. for pCTR), important
+    for auctions, blending, and business rules.
+
+whole-page-optimization:
+  aliases: [page-level optimization, page level optimization, slate optimization,
+    whole page optimization, slate recommendation, re-ranking, reranking]
+  intro: >-
+    Optimizing an entire page/slate jointly (diversity, interactions, layout)
+    rather than scoring items independently.
+
+rl-for-recsys:
+  aliases: [rl post-training, reinforcement learning for recommendation, bandits,
+    contextual bandits, grpo, group relative policy optimization, ppo, rlhf, dpo,
+    direct preference optimization, off-policy]
+  intro: >-
+    Reinforcement learning, bandits, and preference-optimization methods for
+    recommendation and LLM post-training (long-term reward, exploration).
+
+uplift-modeling:
+  aliases: [uplift, causal uplift, incremental modeling, treatment effect, cate,
+    heterogeneous treatment effect]
+  intro: >-
+    Estimating individual treatment effects / incrementality to target
+    interventions where they change behavior.
+
+collaborative-filtering:
+  aliases: [collaborative filtering, matrix factorization, cf, implicit feedback,
+    bpr, bayesian personalized ranking]
+  intro: >-
+    Recommending from user-item interaction patterns via matrix factorization,
+    neighborhood, or latent-factor models.
+
+graph-neural-networks:
+  aliases: [gnn, graph neural network, gcn, graph convolution, lightgcn, message passing,
+    graph convolutional network]
+  intro: >-
+    Graph neural networks over the user-item (and side-information) interaction
+    graph for representation learning.
+
+feature-interaction:
+  aliases: [feature interaction, feature crossing, factorization machine, deepfm,
+    cross network, dcn, feature cross]
+  intro: >-
+    Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM,
+    DeepFM, cross networks).
+
+conversational-recommendation:
+  aliases: [conversational recommendation, conversational recommender, crs,
+    dialogue recommendation]
+  intro: >-
+    Multi-turn dialog systems that elicit user preferences and recommend
+    interactively.
+
+popularity-bias:
+  aliases: [popularity bias, popularity debiasing, debiasing, exposure bias, selection bias]
+  intro: >-
+    Bias toward popular items in feedback/exposure, and methods to debias training
+    and evaluation.
+
+contrastive-learning:
+  aliases: [contrastive learning, infonce, contrastive loss, self-supervised learning,
+    ssl, simclr]
+  intro: >-
+    Self-supervised representation learning by contrasting positive against
+    negative pairs (e.g. InfoNCE).
+
+retrieval-augmented-generation:
+  aliases: [rag, retrieval augmented generation, retrieval-augmented]
+  intro: >-
+    Grounding LLM generation in retrieved documents/items -- increasingly used in
+    LLM-based recommendation and search.
+
+llm-for-recommendation:
+  aliases: [llm based recommendation, llm-based recommendation, llm recommender,
+    llm4rec, large language model recommendation]
+  intro: >-
+    Using large language models as or within recommenders (as rankers, feature/
+    profile generators, or reasoning agents).
+
+online-experimentation:
+  aliases: [a/b testing, ab testing, online a/b testing, online experiment,
+    interleaving, off-policy evaluation, offline evaluation]
+  intro: >-
+    Online A/B testing, interleaving, and off-policy/offline evaluation of
+    recommender changes.

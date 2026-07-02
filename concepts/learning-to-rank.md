@@ -5,11 +5,14 @@ aliases:
 - learning to rank
 - pairwise ranking
 - listwise ranking
+- ranknet
+- lambdamart
+- ranking loss
 ---
 
 ## What it is
 
-
+Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of candidate items.
 
 ## Papers
 

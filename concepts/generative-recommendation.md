@@ -3,14 +3,15 @@ slug: generative-recommendation
 aliases:
 - generative rec
 - genrec
-- semantic ids
-- semantic id
 - generative retrieval
+- hstu
+- generative ranking
+- tiger
 ---
 
 ## What it is
 
-
+Framing recommendation as sequence generation -- autoregressively generating item identifiers or whole slates rather than scoring a fixed candidate set.
 
 ## Papers
 
@@ -18,8 +19,6 @@ aliases:
 - [[2310.10553]] TacticAI: an AI assistant for football tactics (Google, 2023)
 - [[2410.16823]] Bridging Search and Recommendation in Generative Retrieval: Does One
   Task Help the Other? (Youtube, Spotify, Netflix, 2024)
-- [[2411.01785]] Transferable Sequential Recommendation via Vector Quantized Meta
-  Learning (Meta, 2024)
 - [[2411.13789]] LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display
   Advertisement Recommender System (Wechat, 2024)
 - [[2411.18814]] Unifying Generative and Dense Retrieval for Sequential Recommendation (Meta, 2024)
@@ -49,15 +48,14 @@ aliases:
   Sub-Item Embeddings (Tmall, 2025)
 - [[2505.03336]] Avoid Recommending Out-of-Domain Items: Constrained Generative
   Recommendation with LLMs (Microsoft, 2025)
+- [[2505.16752]] Action is All You Need: Dual-Flow Generative Ranking Network for
+  Recommendation (Bing, Meta, 2025)
 - [[2505.17549]] EGA-V2: An End-to-end Generative Framework for Industrial Advertising (Meituan, 2025)
 - [[2505.18654]] MTGR: Industrial-Scale Generative Recommendation Framework in Meituan (Meituan, 2025)
-- [[2505.22238]] Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval (Yandex, 2025)
+- [[2506.00450]] DV365: Extremely Long User History Modeling at Instagram (Instagram, 2025)
 - [[2506.05781]] Generating Long Semantic IDs in Parallel for Recommendation (Meta, 2025)
 - [[2506.16683]] A Simple Contrastive Framework Of Item Tokenization For Generative
   Recommendation (Alibaba-inc, 2025)
-- [[2506.16698]] SIDE: Semantic ID Embedding for effective learning from sequences (Meta, 2025)
-- [[2506.21599]] Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next
-  Point-of-Interest Recommendation (Nvidia, 2025)
 - [[2506.23643]] Act-With-Think: Chunk Auto-Regressive Modeling for Generative
   Recommendation (Huawei, 2025)
 - [[2507.06121]] Unconditional Diffusion for Generative Sequential Recommendation (Bytedance, 2025)
@@ -67,9 +65,6 @@ aliases:
 - [[2507.14758]] GRACE: Generative Recommendation via Journey-Aware Sparse Attention on
   Chain-of-Thought Tokenization (Walmart, 2025)
 - [[2507.18800]] Semantic IDs for Music Recommendation (Spotify, 2025)
-- [[2508.00450]] When Relevance Meets Novelty: Dual-Stable Periodic Optimization for
-  Exploratory Recommendation (Meituan, 2025)
-- [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
 - [[2508.02342]] Agentic Personalized Fashion Recommendation in the Age of Generative AI:
   Challenges, Opportunities, and Evaluation (Zalando, 2025)
 - [[2508.04711]] Scaling Generative Recommendations with Context Parallelism on
@@ -89,15 +84,12 @@ aliases:
   Recommendation Systems (Alibaba-inc, 2025)
 - [[2508.16126]] Spacetime-GR: A Spacetime-Aware Generative Model for Large Scale Online
   POI Recommendation (Alibaba-inc, 2025)
-- [[2508.18166]] PCR-CA: Parallel Codebook Representations with Contrastive Alignment for
-  Multiple-Category App Recommendation (Microsoft, 2025)
+- [[2508.20945]] Efficient Large-Scale Cross-Domain Sequential Recommendation with
+  Dynamic State Representations (Huawei, 2025)
 - [[2509.02017]] Empowering Large Language Model for Sequential Recommendation via
   Multimodal Embeddings and Semantic IDs (Tencent, 2025)
 - [[2509.03746]] Efficient Item ID Generation for Large-Scale LLM-based Recommendation (Google, 2025)
-- [[2509.10397]] RecoWorld: Building Simulated Environments for Agentic Recommender
-  Systems (Meta, 2025)
 - [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
-- [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
 - [[2509.17749]] A Generative Framework for Personalized Sticker Retrieval (Tencent, 2025)
 - [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
 - [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
@@ -113,9 +105,8 @@ aliases:
 - [[2511.10492]] Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding (Meta, 2025)
 - [[2511.10962]] LEMUR: Large scale End-to-end MUltimodal Recommendation (Bytedance, 2025)
 - [[2511.15122]] Multi-Aspect Cross-modal Quantization for Generative Recommendation (Meituan, 2025)
-- [[2511.18805]] STORE: Semantic Tokenization, Orthogonal Rotation and Efficient Attention for Scaling Up Ranking Models (Alibaba-inc, 2025)
 - [[2511.21095]] Generative Early Stage Ranking (Meta, 2025)
-- [[2511.21989]] Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation (Google, 2025)
+- [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
 - [[2511.23021]] Masked Diffusion for Generative Recommendation (Snap, 2025)
 - [[2512.03025]] LORE: A Large Generative Model for Search Relevance (Alibaba-inc, 2025)
 - [[2512.11254]] FAIR: Focused Attention Is All You Need for Generative Recommendation (Huawei, 2025)
@@ -123,7 +114,6 @@ aliases:
 - [[2512.13074]] A Simple and Effective Framework for Symmetric Consistent Indexing in Large-Scale Dense Retrieval (Jd, 2025)
 - [[2512.22386]] OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation (Jd, 2025)
 - [[2512.24787]] HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment (Tencent, 2025)
-- [[2601.02807]] COFFEE: COdesign Framework for Feature Enriched Embeddings in Ads-Ranking Systems (Meta, 2026)
 - [[2601.20199]] MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation (Bytedance, 2026)
 - [[2601.22694]] Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens (Bytedance, 2026)
 - [[2602.01865]] GRAB: An LLM-Inspired Sequence-First Click-Through Rate Prediction Modeling Paradigm (Baidu, 2026)
@@ -132,14 +122,11 @@ aliases:
 - [[2602.04460]] DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan (Meituan, 2026)
 - [[2602.05945]] AgenticTagger: Structured Item Representation for Recommendation with LLM Agents (Google, 2026)
 - [[2602.06654]] Multimodal Generative Retrieval Model with Staged Pretraining for Food Delivery on Meituan (Meituan, 2026)
-- [[2602.07333]] High Fidelity Textual User Representation over Heterogeneous Sources via Reinforcement Learning (Linkedin, 2026)
 - [[2602.08575]] RankGR: Rank-Enhanced Generative Retrieval with Listwise Direct Preference Optimization in Recommendation (Alibaba-inc, 2026)
-- [[2602.09744]] DiffuReason: Bridging Latent Reasoning and Generative Refinement for Sequential Recommendation (Tencent, 2026)
 - [[2602.10411]] GeoGR: A Generative Retrieval Framework for Spatio-Temporal Aware POI Recommendation (Taobao, 2026)
 - [[2602.10430]] Breaking the Curse of Repulsion: Optimistic Distributionally Robust Policy Optimization for Off-Policy Generative Recommendation (Tencent, 2026)
 - [[2602.10606]] S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage (Tencent, 2026)
 - [[2602.10699]] Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation (Tencent, 2026)
-- [[2602.10811]] EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling (Alibaba-inc, 2026)
 - [[2602.11410]] CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer (Linkedin, 2026)
 - [[2602.12354]] An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking (Linkedin, 2026)
 - [[2602.12593]] RQ-GMM: Residual Quantized Gaussian Mixture Model for Multimodal Semantic Discretization in CTR Prediction (Tencent, 2026)
@@ -148,7 +135,6 @@ aliases:
 - [[2602.17410]] Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers (Meituan, 2026)
 - [[2602.18283]] HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation (Tencent, 2026)
 - [[2602.20995]] Generative Pseudo-Labeling for Pre-Ranking with LLMs (Taobao, 2026)
-- [[2602.21009]] HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders (Taobao, 2026)
 - [[2602.22647]] Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators (Google, 2026)
 - [[2602.22913]] SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress (Alibaba-inc, 2026)
 - [[2602.23639]] Learning to Reflect and Correct: Towards Better Decoding Trajectories for Large-Scale Generative Recommendation (Alibaba-inc, 2026)
@@ -159,7 +145,6 @@ aliases:
 - [[2603.07725]] Verifiable Reasoning for LLM-based Generative Recommendation (Meta, 2026)
 - [[2603.10369]] Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems (Linkedin, 2026)
 - [[2603.10409]] Differentiable Geometric Indexing for End-to-End Generative Retrieval (Alibaba-inc, 2026)
-- [[2603.12586]] Deferred is Better: A Framework for Multi-Granularity Deferred Interaction of Heterogeneous Features (Alibaba-inc, 2026)
 - [[2603.17533]] A Unified Language Model for Large Scale Search, Recommendation, and Reasoning (Spotify, 2026)
 - [[2603.17540]] Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify (Spotify, 2026)
 - [[2603.18697]] OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation (Jd, 2026)
@@ -198,12 +183,10 @@ aliases:
 - [[2605.23312]] Towards Generalizable and Efficient Large-Scale Generative Recommenders (Netflix, 2026)
 - [[2605.24986]] Self-Balancing Gradient Allocation for Heterogeneity-Aware Feature Generation in Click-Through Rate Prediction (Alibaba-inc, 2026)
 - [[2605.25514]] From Item-Only to Query-Item: Query-Conditioned Generative Search with QGS in Quark (Alibaba-inc, 2026)
-- [[2605.25726]] SIREN: Unified Multi-Granularity Semantic Interaction for Multi-Modal Lifelong User Interest Modeling (Tencent, 2026)
 - [[2605.25749]] DeGRe: Dense-supervised Generative Reranking for Recommendation (Alibaba-inc, 2026)
 - [[2606.01396]] Quantizing Intent: Cross-Domain Semantic IDs from Organic Activity for Industrial Ranking (Linkedin, 2026)
 - [[2606.06970]] SSRLive: Live Streaming Recommendation with Dynamic Semantic ID (Alibaba-inc, 2026)
 - [[2606.08480]] Adaptive Loss Balancing for Noise-Robust GRPO in Generative Recommendation (Jd, 2026)
-- [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
 - [[2606.10375]] SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers (Huawei, 2026)
 - [[2606.14142]] Implicit Reasoning for Large Language Model-based Generative Recommendation (Snap, 2026)
 - [[2606.15331]] HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation (Jd, 2026)

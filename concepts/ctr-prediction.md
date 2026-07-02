@@ -2,14 +2,17 @@
 slug: ctr-prediction
 aliases:
 - click-through rate
+- click through rate
 - ctr
 - conversion prediction
 - cvr
+- conversion rate
+- pctr
 ---
 
 ## What it is
 
-
+Predicting click-through (and conversion) probability for ranking -- central to ads and feed ranking.
 
 ## Papers
 
@@ -148,6 +151,7 @@ aliases:
 - [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
 - [[2511.22460]] An Efficient Embedding Based Ad Retrieval with GPU-Powered Feature Interaction (Tencent, 2025)
 - [[2512.02555]] ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce (Jd, 2025)
+- [[2512.04009]] Learning to Comparison-Shop (Airbnb, 2025)
 - [[2512.07216]] MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling (Alibaba-inc, 2025)
 - [[2512.12295]] Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates (Bytedance, 2025)
 - [[2512.13300]] No One Left Behind: How to Exploit the Incomplete and Skewed Multi-Label Data for Conversion Rate Prediction (Huawei, 2025)
@@ -196,6 +200,7 @@ aliases:
 - [[2604.18146]] Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations (Huawei, 2026)
 - [[2604.21675]] Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion (Alibaba-inc, 2026)
 - [[2605.00324]] Intelligent Elastic Feature Fading: Enabling Model Retrain-Free Feature Efficiency Rollouts at Scale (Meta, 2026)
+- [[2605.14205]] SimPersona: Learning Discrete Buyer Personas from Raw Clickstreams for Grounded E-Commerce Agents (Shopify, 2026)
 - [[2605.17788]] Uncertainty-Calibrated Recommendations for Low-Active Users (Bytedance, 2026)
 - [[2605.21752]] PEARL: Unbiased Percentile Estimation via Contrastive Learning for Industrial-Scale Livestream Recommendation (Bytedance, 2026)
 - [[2605.23191]] Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation (Tencent, 2026)

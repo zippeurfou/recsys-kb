@@ -6,15 +6,17 @@ aliases:
 - multi-gate mixture-of-experts
 - multi-task
 - multitask learning
+- auxiliary task
 ---
 
 ## What it is
 
-
+Jointly learning multiple objectives with shared or expert-gated representations (e.g. MMoE, PLE).
 
 ## Papers
 
 - [[1902.09154]] Deep Bayesian Multi-Target Learning for Recommender Systems (Alibaba-inc, 2019)
+- [[2008.02930]] Zero-Shot Heterogeneous Transfer Learning from Recommender Systems to Cold-Start Search Retrieval (Google, 2020)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
 - [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
 - [[2410.02604]] Long-Sequence Recommendation Models Need Decoupled Embeddings (Tencent, 2024)

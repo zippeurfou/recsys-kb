@@ -2,14 +2,16 @@
 slug: negative-sampling
 aliases:
 - in-batch negatives
-- in-batch negative sampling
+- in batch negatives
 - hard negative mining
+- hard negatives
+- sampled softmax
 - negative sampling
 ---
 
 ## What it is
 
-
+Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking models efficiently.
 
 ## Papers
 
@@ -17,6 +19,7 @@ aliases:
 - [[2009.12192]] Tuning Word2vec for Large Scale Recommendation Systems (Twitter, 2020)
 - [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)
 - [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
+- [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
 - [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
 - [[2410.17276]] Evaluating Performance and Bias of Negative Sampling in Large-Scale
   Sequential Recommendation Models (Apple, 2024)
@@ -38,10 +41,15 @@ aliases:
 - [[2506.00107]] Gated Multimodal Graph Learning for Personalized Recommendation (Amazon, 2025)
 - [[2506.02267]] TransAct V2: Lifelong User Action Sequence Modeling on Pinterest
   Recommendation (Pinterest, 2025)
+- [[2506.03699]] Scaling Transformers for Discriminative Recommendation via Generative
+  Pretraining (Alibaba-inc, 2025)
 - [[2506.12588]] Are We Really Measuring Progress? Transferring Insights from Evaluating
   Recommender Systems to Temporal Link Prediction (Microsoft, 2025)
 - [[2507.06503]] USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for
   Large-Scale Homepage Recommendations (Alibaba-inc, 2025)
+- [[2507.09566]] Identifying Offline Metrics that Predict Online Impact: A Pragmatic
+  Strategy for Real-World Recommender Systems (Otto, 2025)
+- [[2507.10097]] User Long-Term Multi-Interest Retrieval Model for Recommendation (Alibaba-inc, 2025)
 - [[2507.21142]] Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for
   Compliance AI Agents (Meta, 2025)
 - [[2508.09653]] On Negative-aware Preference Optimization for Recommendation (Meituan, 2025)
@@ -58,6 +66,7 @@ aliases:
 - [[2510.12211]] Reinforced Preference Optimization for Recommendation (Alibaba-inc, 2025)
 - [[2511.11305]] MOON Embedding: Multimodal Representation Learning for E-commerce Search Advertising (Alibaba-inc, 2025)
 - [[2511.13885]] TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search (Alibaba-inc, 2025)
+- [[2511.14403]] Infer As You Train: A Symmetric Paradigm of Masked Generative for Click-Through Rate Prediction (Alibaba-inc, 2025)
 - [[2511.16106]] Incorporating Token Importance in Multi-Vector Retrieval (Microsoft, 2025)
 - [[2512.02555]] ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce (Jd, 2025)
 - [[2512.06381]] Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework (Alibaba-inc, 2025)
@@ -69,17 +78,18 @@ aliases:
 - [[2602.20676]] PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization (Taobao, 2026)
 - [[2603.01471]] Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (Baidu, 2026)
 - [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)
+- [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)
 - [[2603.08648]] CAST: Modeling Visual State Transitions for Consistent Video Retrieval (Google, 2026)
 - [[2603.16455]] Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval (Alibaba-inc, 2026)
 - [[2603.17205]] OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation (Amazon, 2026)
 - [[2603.22779]] KARMA: Knowledge-Action Regularized Multimodal Alignment for Personalized Search at Taobao (Taobao, 2026)
 - [[2603.25891]] Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods (Huawei, 2026)
 - [[2604.05253]] Spike Hijacking in Late-Interaction Retrieval (Adobe, 2026)
-- [[2604.06163]] Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers (Baidu, 2026)
 - [[2604.07419]] ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment (Alibaba-inc, 2026)
 - [[2604.07930]] Unified Supervision for Walmarts Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling (Walmart, 2026)
 - [[2604.12148]] ViLL-E: Video LLM Embeddings for Retrieval (Amazon, 2026)
 - [[2604.21300]] Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI (Adobe, 2026)
+- [[2604.25273]] Combating Visual Neglect and Semantic Drift in Large Multimodal Models for Enhanced Cross-Modal Retrieval (Baidu, 2026)
 - [[2605.00327]] DynamicPO: Dynamic Preference Optimization for Recommendation (Meituan, 2026)
 - [[2605.00380]] ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning (Meituan, 2026)
 - [[2605.10784]] MASS-DPO: Multi-negative Active Sample Selection for Direct Policy Optimization (Adobe, 2026)

@@ -3,13 +3,19 @@ slug: sequential-recommendation
 aliases:
 - sequential rec
 - session-based recommendation
+- session based recommendation
 - sequence modeling
 - sequential modeling
+- next-item prediction
+- next item prediction
+- sasrec
+- bert4rec
+- user behavior sequence
 ---
 
 ## What it is
 
-
+Modeling a user's chronological interaction sequence (often with transformers or RNNs) to predict the next item.
 
 ## Papers
 
@@ -18,6 +24,7 @@ aliases:
 - [[2004.04816]] CSRN: Collaborative Sequential Recommendation Networks for News Retrieval (Tencent, 2020)
 - [[2005.09347]] Controllable Multi-Interest Framework for Recommendation (Alibaba-inc, 2020)
 - [[2011.06237]] Goal-driven Command Recommendations for Analysts (Adobe, 2020)
+- [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
 - [[2209.13422]] Efficient On-Device Session-Based Recommendation (Baidu, 2022)
 - [[2210.08435]] On the User Behavior Leakage from Recommender System Exposure (Meituan, 2022)
 - [[2301.06777]] Reusable Self-Attention Recommender Systems in Fashion Industry Applications (Zalando, 2023)
@@ -72,6 +79,8 @@ aliases:
   Recommender (Amazon, Meta, 2025)
 - [[2504.19178]] Relative Contrastive Learning for Sequential Recommendation with
   Similarity-based Positive Pair Selection (Meituan, 2025)
+- [[2504.20859]] X-Cross: Dynamic Integration of Language Models for Cross-Domain
+  Sequential Recommendation (Amazon, 2025)
 - [[2505.00560]] Efficient Recommendation with Millions of Items by Dynamic Pruning of
   Sub-Item Embeddings (Tmall, 2025)
 - [[2505.00953]] Enhancing User Sequence Modeling through Barlow Twins-based
@@ -87,6 +96,7 @@ aliases:
   Recommendation with Large Language Models (Microsoft, 2025)
 - [[2505.20773]] Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented
   Generation (Meta, 2025)
+- [[2505.21811]] Revisiting Self-attention for Cross-domain Sequential Recommendation (Snap, 2025)
 - [[2505.22130]] ConsRec: Denoising Sequential Recommendation through User-Consistent
   Preference Modeling (Amazon, 2025)
 - [[2505.22238]] Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval (Yandex, 2025)
@@ -111,6 +121,8 @@ aliases:
 - [[2507.03789]] Efficient and Effective Query Context-Aware Learning-to-Rank Model for
   Sequential Recommendation (Zalando, 2025)
 - [[2507.06121]] Unconditional Diffusion for Generative Sequential Recommendation (Bytedance, 2025)
+- [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
+  Language Models (Alibaba-inc, 2025)
 - [[2507.09566]] Identifying Offline Metrics that Predict Online Impact: A Pragmatic
   Strategy for Real-World Recommender Systems (Otto, 2025)
 - [[2507.10097]] User Long-Term Multi-Interest Retrieval Model for Recommendation (Alibaba-inc, 2025)
@@ -150,6 +162,7 @@ aliases:
 - [[2510.14257]] Synergistic Integration and Discrepancy Resolution of Contextualized
   Knowledge for Personalized Recommendation (Taobao, 2025)
 - [[2510.21333]] CausalRec: A CausalBoost Attention Model for Sequential Recommendation (Alibaba-inc, 2025)
+- [[2510.21714]] Practice on Long Behavior Sequence Modeling in Tencent Advertising (Tencent, 2025)
 - [[2510.22049]] Massive Memorization with Hundreds of Trillions of Parameters for
   Sequential Transducer Generative Recommenders (Meta, 2025)
 - [[2510.25285]] Revisiting scalable sequential recommendation with Multi-Embedding
@@ -187,6 +200,7 @@ aliases:
 - [[2603.00980]] Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations (Huawei, 2026)
 - [[2603.07725]] Verifiable Reasoning for LLM-based Generative Recommendation (Meta, 2026)
 - [[2603.10369]] Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems (Linkedin, 2026)
+- [[2603.12578]] Bridging Sequential and Contextual Features with a Dual-View of Fine-grained Core-Behaviors and Global Interest-Distribution (Alibaba-inc, 2026)
 - [[2603.12942]] ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries (Huawei, 2026)
 - [[2603.16088]] RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems (Jd, 2026)
 - [[2603.22231]] One Model, Two Markets: Bid-Aware Generative Recommendation (Google, 2026)
@@ -204,6 +218,7 @@ aliases:
 - [[2604.13737]] TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds (Tencent, 2026)
 - [[2604.14972]] SAGER: Self-Evolving User Policy Skills for Recommendation Agent (Tencent, 2026)
 - [[2604.15650]] Sample Is Feature: Beyond Item-Level, Toward Sample-Level Tokens for Unified Large Recommender Models (Meituan, 2026)
+- [[2604.22169]] ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation (Huawei, 2026)
 - [[2604.24717]] Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling (Linkedin, 2026)
 - [[2604.24806]] Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale (Meta, 2026)
 - [[2604.26760]] Factorized Latent Reasoning for LLM-based Recommendation (Meituan, 2026)
@@ -220,10 +235,12 @@ aliases:
 - [[2605.25514]] From Item-Only to Query-Item: Query-Conditioned Generative Search with QGS in Quark (Alibaba-inc, 2026)
 - [[2605.25583]] LENS: A Staged Design for Interaction Granularityin Sequential CTR Prediction (Tencent, 2026)
 - [[2605.25726]] SIREN: Unified Multi-Granularity Semantic Interaction for Multi-Modal Lifelong User Interest Modeling (Tencent, 2026)
+- [[2605.27103]] MuChator: Enabling Active Music Discovery via Conversational Music LLMs in Douyin Music (Bytedance, 2026)
 - [[2605.29280]] LoopFM: Learning frOm HistOrical RePresentations of Foundation Model for Recommendation (Meta, 2026)
 - [[2605.30772]] FOSTER: First-order Dataset Distillation for Text-based Sequential Recommendation (Amazon, 2026)
 - [[2606.01396]] Quantizing Intent: Cross-Domain Semantic IDs from Organic Activity for Industrial Ranking (Linkedin, 2026)
 - [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
+- [[2606.14142]] Implicit Reasoning for Large Language Model-based Generative Recommendation (Snap, 2026)
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
 - [[2606.15331]] HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation (Jd, 2026)
 - [[2606.19108]] JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling (Airbnb, 2026)

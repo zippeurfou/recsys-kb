@@ -4,11 +4,12 @@ aliases:
 - probability calibration
 - calibrated ranking
 - ranking calibration
+- calibrated
 ---
 
 ## What it is
 
-
+Aligning predicted scores with true probabilities (e.g. for pCTR), important for auctions, blending, and business rules.
 
 ## Papers
 

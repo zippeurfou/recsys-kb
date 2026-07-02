@@ -5,11 +5,13 @@ aliases:
 - causal uplift
 - incremental modeling
 - treatment effect
+- cate
+- heterogeneous treatment effect
 ---
 
 ## What it is
 
-
+Estimating individual treatment effects / incrementality to target interventions where they change behavior.
 
 ## Papers
 

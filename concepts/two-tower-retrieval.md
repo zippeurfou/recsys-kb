@@ -11,7 +11,7 @@ aliases:
 
 ## What it is
 
-
+Retrieval architecture with separate user/query and item/document encoders whose embeddings are scored by dot product or cosine, enabling large-scale approximate-nearest-neighbor candidate generation.
 
 ## Papers
 
