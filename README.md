@@ -15,7 +15,7 @@ Design & implementation plan: see `arxiv_rec_finder/docs/plans/2026-07-01-recsys
 index.jsonl            # 1 line/paper: id, title, year, companies, concepts[], url, issue#
 papers/<arxiv_id>.md   # per-paper note (see schema below)
 concepts/<slug>.md     # per canonical concept; intro + machine-generated backlinks
-vocabulary.yaml        # canonical concept slug <-> aliases (edit + re-canonicalize to re-tag)
+vocabulary.yaml        # canonical slug -> {aliases, intro} (edit + re-canonicalize to re-tag)
 unmapped_concepts.md   # generated: raw concepts with no canonical mapping, ranked by frequency
 state.json             # last-built issue number/date, for incremental refresh
 ```
@@ -55,9 +55,11 @@ Extraction is **agent-driven** (an LLM agent reads each new paper). Use the
 
 ```bash
 git pull
-# 1) fetch + cache full text for new papers (no LLM)
+# 1) fetch + cache full text for new papers (no LLM); --recsys-only filters out
+#    off-domain papers, --enrich (optional) adds Semantic Scholar references
 uv run --project ~/Projects/arxiv_rec_finder python -m kb.build \
-    --kb-dir ~/Projects/recsys-kb prepare --repo zippeurfou/arxiv_rec_finder --incremental
+    --kb-dir ~/Projects/recsys-kb prepare --repo zippeurfou/arxiv_rec_finder \
+    --incremental --recsys-only
 # 2) AGENT reads .pending.jsonl -> writes .extractions.jsonl  (arxiv_id, concepts_raw, technical_note)
 # 3) build notes + index, then commit
 uv run --project ~/Projects/arxiv_rec_finder python -m kb.build \
