@@ -9,3 +9,8 @@ fulltext/
 
 # OS / editor
 .DS_Store
+
+# Stray subagent temp scripts
+.build_part*.py
+.write_part*.py
+*.py
