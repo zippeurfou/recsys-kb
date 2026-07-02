@@ -71,12 +71,48 @@ aliases:
   Next-User Modeling (Bytedance, To Read, 2025)
 - [[2506.20815]] Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI
   Applications (Microsoft, 2025)
-- [[2506.21931]] ARAG: Agentic Retrieval Augmented Generation for Personalized
-  Recommendation (Walmart, 2025)
 - [[2506.23060]] Synergizing Implicit and Explicit User Interests: A Multi-Embedding
   Retrieval Framework at Pinterest (Pinterest, 2025)
 - [[2507.03789]] Efficient and Effective Query Context-Aware Learning-to-Rank Model for
   Sequential Recommendation (Zalando, 2025)
 - [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
   Language Models (Alibaba-inc, 2025)
+- [[2507.09423]] Item-centric Exploration for Cold Start Problem (Google, 2025)
+- [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
+- [[2507.12704]] PinFM: Foundation Model for User Activity Sequences at a Billion-scale
+  Visual Discovery Platform (Pinterest, 2025)
+- [[2507.18800]] Semantic IDs for Music Recommendation (Spotify, 2025)
+- [[2507.19346]] Short-Form Video Recommendations with Multimodal Embeddings: Addressing
+  Cold-Start and Bias Challenges (Zalando, 2025)
+- [[2507.22268]] Multi-modal Relational Item Representation Learning for Inferring
+  Substitutable and Complementary Items (Amazon, 2025)
+- [[2508.01115]] A hierarchy tree data structure for behavior-based user segment
+  representation (Meta, 2025)
+- [[2508.01128]] Towards Bridging Review Sparsity in Recommendation with Textual Edge
+  Graph Representation (Adobe, 2025)
+- [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
+- [[2508.02342]] Agentic Personalized Fashion Recommendation in the Age of Generative AI:
+  Challenges, Opportunities, and Evaluation (Zalando, 2025)
+- [[2508.08777]] Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge (Spotify, 2025)
+- [[2508.09789]] Describe What You See with Multimodal Large Language Models to Enhance
+  Video Recommendations (Spotify, 2025)
+- [[2508.10478]] Semantic IDs for Joint Generative Search and Recommendation (Spotify, 2025)
+- [[2508.14485]] Distribution-Guided Auto-Encoder for User Multimodal Interest Cross
+  Fusion (Alibaba-inc, 2025)
+- [[2508.14948]] Large Foundation Model for Ads Recommendation (Tencent, 2025)
+- [[2508.15281]] MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID
+  Generation and User Behavioral Adaptation (Alibaba-inc, 2025)
+- [[2508.18166]] PCR-CA: Parallel Codebook Representations with Contrastive Alignment for
+  Multiple-Category App Recommendation (Microsoft, 2025)
+- [[2508.18812]] STARec: An Efficient Agent Framework for Recommender Systems via
+  Autonomous Deliberate Reasoning (Huawei, 2025)
+- [[2508.20396]] BiListing: Modality Alignment for Listings (Airbnb, 2025)
+- [[2510.09393]] ChoirRec: Semantic User Grouping via LLMs for Conversion Rate Prediction
+  of Low-Activity Users (Alibaba-inc, 2025)
+- [[2510.12015]] Asking Clarifying Questions for Preference Elicitation With Large
+  Language Models (Google, 2025)
+- [[2510.14223]] Large Scale Retrieval for the LinkedIn Feed using Causal Language Models (Linkedin, 2025)
+- [[2510.23077]] Think before Recommendation: Autonomous Reasoning-enhanced Recommender (Alibaba-inc, 2025)
+- [[2510.25622]] MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for
+  Semantic IDs Learning in Recommendation (Alibaba-inc, 2025)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

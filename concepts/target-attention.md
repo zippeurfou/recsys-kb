@@ -38,3 +38,34 @@ aliases:
 - [[2506.08283]] Serendipitous Recommendation with Multimodal LLM (Google, To Read, 2025)
 - [[2506.16942]] Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for
   Sequential Recommendation (Bytedance, To Read, 2025)
+- [[2507.10097]] User Long-Term Multi-Interest Retrieval Model for Recommendation (Alibaba-inc, 2025)
+- [[2508.00450]] When Relevance Meets Novelty: Dual-Stable Periodic Optimization for
+  Exploratory Recommendation (Meituan, 2025)
+- [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
+- [[2508.02451]] Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for
+  Local-Life Service Recommendation (Meituan, 2025)
+- [[2508.09664]] Multimodal Fusion And Sparse Attention-based Alignment Model for Long
+  Sequential Recommendation (Baidu, 2025)
+- [[2508.14420]] You Only Evaluate Once: A Tree-based Rerank Method at Meituan (Meituan, 2025)
+- [[2508.14485]] Distribution-Guided Auto-Encoder for User Multimodal Interest Cross
+  Fusion (Alibaba-inc, 2025)
+- [[2508.15311]] Modeling Long-term User Behaviors with Diffusion-driven Multi-interest
+  Network for CTR Prediction (Meituan, 2025)
+- [[2508.15326]] Exploring Scaling Laws of CTR Model for Online Performance Improvement (Meituan, 2025)
+- [[2508.18166]] PCR-CA: Parallel Codebook Representations with Contrastive Alignment for
+  Multiple-Category App Recommendation (Microsoft, 2025)
+- [[2508.21801]] DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for
+  Lifelong User Post-click Behaviors (Meituan, 2025)
+- [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
+- [[2510.11066]] Decoupled Multimodal Fusion for User Interest Modeling in Click-Through
+  Rate Prediction (Alibaba-inc, 2025)
+- [[2510.11100]] HoMer: Addressing Heterogeneities by Modeling Sequential and Set-wise
+  Contexts for CTR Prediction (Meituan, 2025)
+- [[2510.11317]] Next Interest Flow: A Generative Pre-training Paradigm for Recommender
+  Systems by Modeling All-domain Movelines (Taobao, 2025)
+- [[2510.18239]] LIME: Link-based user-item Interaction Modeling with decoupled xor
+  attention for Efficient test time scaling (Meta, 2025)
+- [[2510.21333]] CausalRec: A CausalBoost Attention Model for Sequential Recommendation (Alibaba-inc, 2025)
+- [[2510.21714]] Practice on Long Behavior Sequence Modeling in Tencent Advertising (Tencent, 2025)
+- [[2510.22049]] Massive Memorization with Hundreds of Trillions of Parameters for
+  Sequential Transducer Generative Recommenders (Meta, 2025)

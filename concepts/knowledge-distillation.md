@@ -12,6 +12,7 @@ aliases:
 
 ## Papers
 
+- [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
 - [[2410.17152]] Improving Pinterest Search Relevance Using Large Language Models (Pinterest, 2024)
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)
 - [[2411.00556]] LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language
@@ -32,3 +33,19 @@ aliases:
   Recommendation with Large Language Models (Microsoft, 2025)
 - [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for
   Item-to-Item Retrieval in Recommendation (Meta, 2025)
+- [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
+  Language Models (Alibaba-inc, 2025)
+- [[2508.15326]] Exploring Scaling Laws of CTR Model for Online Performance Improvement (Meituan, 2025)
+- [[2508.18812]] STARec: An Efficient Agent Framework for Recommender Systems via
+  Autonomous Deliberate Reasoning (Huawei, 2025)
+- [[2509.12076]] AEFS: Adaptive Early Feature Selection for Deep Recommender Systems (Tencent, 2025)
+- [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
+- [[2510.06657]] LLM-Powered Nuanced Video Attribute Annotation for Enhanced
+  Recommendations (Google, 2025)
+- [[2510.09393]] ChoirRec: Semantic User Grouping via LLMs for Conversion Rate Prediction
+  of Low-Activity Users (Alibaba-inc, 2025)
+- [[2510.16076]] BPL: Bias-adaptive Preference Distillation Learning for Recommender
+  System (Microsoft, 2025)
+- [[2510.20150]] Rank-GRPO: Training LLM-based Conversational Recommender Systems with
+  Reinforcement Learning (Netflix, 2025)
+- [[2510.23077]] Think before Recommendation: Autonomous Reasoning-enhanced Recommender (Alibaba-inc, 2025)

@@ -13,8 +13,11 @@ aliases:
 
 ## Papers
 
+- [[1904.06813]] Personalized Re-ranking for Recommendation (Alibaba-inc, 2019)
+- [[2304.07450]] Intent-aware Ranking Ensemble for Personalized Recommendation (Meituan, 2023)
 - [[2404.10207]] HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit
   problem and cold start problem in recommender system (Meta, 2024)
+- [[2406.09882]] Harm Mitigation in Recommender Systems under User Preference Dynamics (Meta, 2024)
 - [[2409.12740]] HLLM: Enhancing Sequential Recommendations via Hierarchical Large
   Language Models for Item and User Modeling (Amazon, Bytedance, 2024)
 - [[2410.02604]] Long-Sequence Recommendation Models Need Decoupled Embeddings (Tencent, 2024)
@@ -75,3 +78,55 @@ aliases:
   Optimization (Huawei, 2025)
 - [[2507.03895]] TayFCS: Towards Light Feature Combination Selection for Deep Recommender
   Systems (Huawei, 2025)
+- [[2507.06503]] USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for
+  Large-Scale Homepage Recommendations (Alibaba-inc, 2025)
+- [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation
+  Systems (Snap, 2025)
+- [[2507.15551]] RankMixer: Scaling Up Ranking Models in Industrial Recommenders (Bytedance, 2025)
+- [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
+- [[2508.02451]] Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for
+  Local-Life Service Recommendation (Meituan, 2025)
+- [[2508.02609]] Entity Representation Learning Through Onsite-Offsite Graph for
+  Pinterest Ads (Pinterest, 2025)
+- [[2508.05700]] Multi-Faceted Large Embedding Tables for Pinterest Ads Ranking (Pinterest, 2025)
+- [[2508.14420]] You Only Evaluate Once: A Tree-based Rerank Method at Meituan (Meituan, 2025)
+- [[2508.14485]] Distribution-Guided Auto-Encoder for User Multimodal Interest Cross
+  Fusion (Alibaba-inc, 2025)
+- [[2508.14493]] Global-Distribution Aware Scenario-Specific Variational Representation
+  Learning Framework (Alibaba-inc, 2025)
+- [[2508.14500]] DGenCTR: Towards a Universal Generative Paradigm for Click-Through Rate
+  Prediction via Discrete Diffusion (Alibaba-inc, 2025)
+- [[2508.14948]] Large Foundation Model for Ads Recommendation (Tencent, 2025)
+- [[2508.15311]] Modeling Long-term User Behaviors with Diffusion-driven Multi-interest
+  Network for CTR Prediction (Meituan, 2025)
+- [[2508.15326]] Exploring Scaling Laws of CTR Model for Online Performance Improvement (Meituan, 2025)
+- [[2508.18166]] PCR-CA: Parallel Codebook Representations with Contrastive Alignment for
+  Multiple-Category App Recommendation (Microsoft, 2025)
+- [[2508.18700]] Taming the One-Epoch Phenomenon in Online Recommendation System by
+  Two-stage Contrastive ID Pre-training (Pinterest, 2025)
+- [[2508.21801]] DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for
+  Lifelong User Post-click Behaviors (Meituan, 2025)
+- [[2509.05292]] Deep Reinforcement Learning for Ranking Utility Tuning in the Ad
+  Recommender System at Pinterest (Pinterest, 2025)
+- [[2509.12076]] AEFS: Adaptive Early Feature Selection for Deep Recommender Systems (Tencent, 2025)
+- [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
+- [[2510.02215]] C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale
+  Recommendation Systems (Meta, 2025)
+- [[2510.09393]] ChoirRec: Semantic User Grouping via LLMs for Conversion Rate Prediction
+  of Low-Activity Users (Alibaba-inc, 2025)
+- [[2510.10432]] Hierarchical LoRA MoE for Efficient CTR Model Scaling (Meta, 2025)
+- [[2510.11066]] Decoupled Multimodal Fusion for User Interest Modeling in Click-Through
+  Rate Prediction (Alibaba-inc, 2025)
+- [[2510.11100]] HoMer: Addressing Heterogeneities by Modeling Sequential and Set-wise
+  Contexts for CTR Prediction (Meituan, 2025)
+- [[2510.11317]] Next Interest Flow: A Generative Pre-training Paradigm for Recommender
+  Systems by Modeling All-domain Movelines (Taobao, 2025)
+- [[2510.15286]] MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for
+  Large-Scale Recommendation (Meituan, 2025)
+- [[2510.18239]] LIME: Link-based user-item Interaction Modeling with decoupled xor
+  attention for Efficient test time scaling (Meta, 2025)
+- [[2510.21714]] Practice on Long Behavior Sequence Modeling in Tencent Advertising (Tencent, 2025)
+- [[2510.26104]] OneTrans: Unified Feature Interaction and Sequence Modeling with One
+  Transformer in Industrial Recommender (Bytedance, 2025)
+- [[2511.01404]] A Soft-partitioned Semi-supervised Collaborative Transfer Learning
+  Approach for Multi-Domain Recommendation (Meituan, 2025)

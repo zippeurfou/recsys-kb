@@ -14,8 +14,8 @@ aliases:
 
 ## Papers
 
+- [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
 - [[2310.10553]] TacticAI: an AI assistant for football tactics (Google, 2023)
-- [[2408.06883]] Diffusion Model for Slate Recommendation (Spotify, 2024)
 - [[2410.16823]] Bridging Search and Recommendation in Generative Retrieval: Does One
   Task Help the Other? (Youtube, Spotify, Netflix, 2024)
 - [[2411.01785]] Transferable Sequential Recommendation via Vector Quantized Meta
@@ -62,4 +62,50 @@ aliases:
 - [[2507.06121]] Unconditional Diffusion for Generative Sequential Recommendation (Bytedance, 2025)
 - [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
   Language Models (Alibaba-inc, 2025)
+- [[2507.12871]] Generative Multi-Target Cross-Domain Recommendation (Tencent, 2025)
+- [[2507.14758]] GRACE: Generative Recommendation via Journey-Aware Sparse Attention on
+  Chain-of-Thought Tokenization (Walmart, 2025)
+- [[2507.18800]] Semantic IDs for Music Recommendation (Spotify, 2025)
+- [[2508.00450]] When Relevance Meets Novelty: Dual-Stable Periodic Optimization for
+  Exploratory Recommendation (Meituan, 2025)
+- [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
+- [[2508.02342]] Agentic Personalized Fashion Recommendation in the Age of Generative AI:
+  Challenges, Opportunities, and Evaluation (Zalando, 2025)
+- [[2508.04711]] Scaling Generative Recommendations with Context Parallelism on
+  Hierarchical Sequential Transducers (Meta, 2025)
+- [[2508.09789]] Describe What You See with Multimodal Large Language Models to Enhance
+  Video Recommendations (Spotify, 2025)
+- [[2508.10478]] Semantic IDs for Joint Generative Search and Recommendation (Spotify, 2025)
+- [[2508.10615]] FuXi-β: Towards a Lightweight and Fast Large-Scale Generative
+  Recommendation Model (Huawei, 2025)
+- [[2508.11977]] TBGRecall: A Generative Retrieval Model for E-commerce Recommendation
+  Scenarios (Alibaba-inc, 2025)
+- [[2508.14500]] DGenCTR: Towards a Universal Generative Paradigm for Click-Through Rate
+  Prediction via Discrete Diffusion (Alibaba-inc, 2025)
+- [[2508.15281]] MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID
+  Generation and User Behavioral Adaptation (Alibaba-inc, 2025)
+- [[2508.15308]] REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale
+  Recommendation Systems (Alibaba-inc, 2025)
+- [[2508.16126]] Spacetime-GR: A Spacetime-Aware Generative Model for Large Scale Online
+  POI Recommendation (Alibaba-inc, 2025)
+- [[2508.18166]] PCR-CA: Parallel Codebook Representations with Contrastive Alignment for
+  Multiple-Category App Recommendation (Microsoft, 2025)
+- [[2509.02017]] Empowering Large Language Model for Sequential Recommendation via
+  Multimodal Embeddings and Semantic IDs (Tencent, 2025)
+- [[2509.03746]] Efficient Item ID Generation for Large-Scale LLM-based Recommendation (Google, 2025)
+- [[2509.10397]] RecoWorld: Building Simulated Environments for Agentic Recommender
+  Systems (Meta, 2025)
+- [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
+- [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
+- [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
+- [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
+  Generative Recommendations (Google, 2025)
+- [[2510.12211]] Reinforced Preference Optimization for Recommendation (Alibaba-inc, 2025)
+- [[2510.14702]] Cognitive-Aligned Spatio-Temporal Large Language Models For Next
+  Point-of-Interest Prediction (Alibaba-inc, 2025)
+- [[2510.20815]] Generative Reasoning Recommendation via LLMs (Huawei, 2025)
+- [[2510.25622]] MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for
+  Semantic IDs Learning in Recommendation (Alibaba-inc, 2025)
+- [[2511.00530]] Listwise Preference Diffusion Optimization for User Behavior
+  Trajectories Prediction (Adobe, 2025)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

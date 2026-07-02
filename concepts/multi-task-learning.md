@@ -40,4 +40,21 @@ aliases:
   Notification at LinkedIn (Linkedin, 2025)
 - [[2506.18735]] An Audio-centric Multi-task Learning Framework for Streaming Ads
   Targeting on Spotify (Spotify, 2025)
+- [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
+  Language Models (Alibaba-inc, 2025)
+- [[2507.09101]] S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe (Walmart, 2025)
+- [[2507.09566]] Identifying Offline Metrics that Predict Online Impact: A Pragmatic
+  Strategy for Real-World Recommender Systems (Otto, 2025)
+- [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
+- [[2507.15395]] Hierarchical Graph Information Bottleneck for Multi-Behavior
+  Recommendation (Tencent, 2025)
+- [[2507.22268]] Multi-modal Relational Item Representation Learning for Inferring
+  Substitutable and Complementary Items (Amazon, 2025)
+- [[2508.14493]] Global-Distribution Aware Scenario-Specific Variational Representation
+  Learning Framework (Alibaba-inc, 2025)
+- [[2508.14948]] Large Foundation Model for Ads Recommendation (Tencent, 2025)
+- [[2510.02215]] C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale
+  Recommendation Systems (Meta, 2025)
+- [[2510.09857]] MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight
+  Ranking at Pinterest (Pinterest, 2025)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)

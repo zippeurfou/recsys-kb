@@ -20,6 +20,15 @@ aliases:
 - [[2504.21362]] Enhancing New-item Fairness in Dynamic Recommender Systems (Alibaba-inc, 2025)
 - [[2506.05069]] Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance
   LLM Recommendation (Meta, 2025)
+- [[2507.17528]] Generalized Low-Rank Matrix Contextual Bandits with Graph Information (Microsoft, 2025)
+- [[2507.21274]] Large Language Model-Enhanced Reinforcement Learning for Diverse and
+  Novel Recommendations (Amazon, 2025)
+- [[2508.00201]] RecoMind: A Reinforcement Learning Framework for Optimizing In-Session
+  User Satisfaction in Recommendation Systems (Pinterest, 2025)
+- [[2508.08420]] Regret minimization in Linear Bandits with offline data via extended
+  D-optimal exploration (Google, 2025)
+- [[2509.05292]] Deep Reinforcement Learning for Ranking Utility Tuning in the Ad
+  Recommender System at Pinterest (Pinterest, 2025)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
 - [[2606.31612]] What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States (Alibaba-inc, 2026)

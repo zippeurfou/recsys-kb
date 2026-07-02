@@ -12,6 +12,8 @@ aliases:
 
 ## Papers
 
+- [[2408.06883]] Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate
+  Generation (Spotify, 2024)
 - [[2411.00395]] DivNet: Diversity-Aware Self-Correcting Sequential Recommendation
   Networks (Meta, 2024)
 - [[2502.06097]] NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized

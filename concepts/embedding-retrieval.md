@@ -13,6 +13,8 @@ aliases:
 
 ## Papers
 
+- [[2009.12192]] Tuning Word2vec for Large Scale Recommendation Systems (Twitter, 2020)
+- [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
 - [[2410.16458]] STAR: A Simple Training-free Approach for Recommendations using Large
   Language Models (Amazon, 2024)
 - [[2411.13789]] LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display
@@ -45,6 +47,32 @@ aliases:
   Item-to-Item Retrieval in Recommendation (Meta, 2025)
 - [[2506.15267]] Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative
   Next-User Modeling (Bytedance, To Read, 2025)
+- [[2506.21931]] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation (Walmart, 2025)
 - [[2506.23060]] Synergizing Implicit and Explicit User Interests: A Multi-Embedding
   Retrieval Framework at Pinterest (Pinterest, 2025)
+- [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
+- [[2507.10097]] User Long-Term Multi-Interest Retrieval Model for Recommendation (Alibaba-inc, 2025)
+- [[2507.11907]] SIEVE: Effective Filtered Vector Search with Collection of Indexes (Bytedance, 2025)
+- [[2507.17080]] VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and
+  LLM-Augmented CLIP Embeddings (Walmart, 2025)
+- [[2507.17927]] SMARTAPS: Tool-augmented LLMs for Operations Management (Huawei, 2025)
+- [[2507.21142]] Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for
+  Compliance AI Agents (Meta, 2025)
+- [[2508.11977]] TBGRecall: A Generative Retrieval Model for E-commerce Recommendation
+  Scenarios (Alibaba-inc, 2025)
+- [[2508.15486]] LongRetriever: Towards Ultra-Long Sequence based Candidate Retrieval for
+  Recommendation (Bytedance, 2025)
+- [[2508.16793]] Bootstrapping Conditional Retrieval for User-to-Item Recommendations (Pinterest, 2025)
+- [[2508.20396]] BiListing: Modality Alignment for Listings (Airbnb, 2025)
+- [[2509.02942]] RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain
+  Recommendation (Meta, 2025)
+- [[2509.03746]] Efficient Item ID Generation for Large-Scale LLM-based Recommendation (Google, 2025)
+- [[2509.12086]] SAQ: Pushing the Limits of Vector Quantization through Code Adjustment
+  and Dimension Segmentation (Huawei, 2025)
+- [[2509.23874]] Multi-Value-Product Retrieval-Augmented Generation for Industrial
+  Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2510.14223]] Large Scale Retrieval for the LinkedIn Feed using Causal Language Models (Linkedin, 2025)
+- [[2510.18239]] LIME: Link-based user-item Interaction Modeling with decoupled xor
+  attention for Efficient test time scaling (Meta, 2025)
+- [[2511.03298]] KScaNN: Scalable Approximate Nearest Neighbor Search on Kunpeng (Huawei, 2025)
 - [[2606.29968]] CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search (Tencent, 2026)

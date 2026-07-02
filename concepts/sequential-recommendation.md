@@ -13,6 +13,8 @@ aliases:
 
 ## Papers
 
+- [[1908.08327]] Session-based Complementary Fashion Recommendations (Zalando, 2019)
+- [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
 - [[2310.09123]] Automatic Music Playlist Generation via Simulation-based Reinforcement
   Learning (Spotify, 2023)
 - [[2409.12740]] HLLM: Enhancing Sequential Recommendations via Hierarchical Large
@@ -94,12 +96,56 @@ aliases:
   Sequential Recommendation (Bytedance, To Read, 2025)
 - [[2506.17966]] LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential
   Recommendation (Microsoft, 2025)
-- [[2506.21931]] ARAG: Agentic Retrieval Augmented Generation for Personalized
-  Recommendation (Walmart, 2025)
+- [[2506.21931]] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation (Walmart, 2025)
 - [[2506.23643]] Act-With-Think: Chunk Auto-Regressive Modeling for Generative
   Recommendation (Huawei, 2025)
 - [[2507.03789]] Efficient and Effective Query Context-Aware Learning-to-Rank Model for
   Sequential Recommendation (Zalando, 2025)
 - [[2507.06121]] Unconditional Diffusion for Generative Sequential Recommendation (Bytedance, 2025)
-- [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
-  Language Models (Alibaba-inc, 2025)
+- [[2507.09566]] Identifying Offline Metrics that Predict Online Impact: A Pragmatic
+  Strategy for Real-World Recommender Systems (Otto, 2025)
+- [[2507.10097]] User Long-Term Multi-Interest Retrieval Model for Recommendation (Alibaba-inc, 2025)
+- [[2507.12704]] PinFM: Foundation Model for User Activity Sequences at a Billion-scale
+  Visual Discovery Platform (Pinterest, 2025)
+- [[2507.12871]] Generative Multi-Target Cross-Domain Recommendation (Tencent, 2025)
+- [[2507.14758]] GRACE: Generative Recommendation via Journey-Aware Sparse Attention on
+  Chain-of-Thought Tokenization (Walmart, 2025)
+- [[2507.18800]] Semantic IDs for Music Recommendation (Spotify, 2025)
+- [[2508.02451]] Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for
+  Local-Life Service Recommendation (Meituan, 2025)
+- [[2508.09653]] On Negative-aware Preference Optimization for Recommendation (Meituan, 2025)
+- [[2508.09664]] Multimodal Fusion And Sparse Attention-based Alignment Model for Long
+  Sequential Recommendation (Baidu, 2025)
+- [[2508.10615]] FuXi-β: Towards a Lightweight and Fast Large-Scale Generative
+  Recommendation Model (Huawei, 2025)
+- [[2508.12645]] Diagnostic-Guided Dynamic Profile Optimization for LLM-based User
+  Simulators in Sequential Recommendation (Bytedance, 2025)
+- [[2508.15308]] REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale
+  Recommendation Systems (Alibaba-inc, 2025)
+- [[2508.16126]] Spacetime-GR: A Spacetime-Aware Generative Model for Large Scale Online
+  POI Recommendation (Alibaba-inc, 2025)
+- [[2508.20945]] Efficient Large-Scale Cross-Domain Sequential Recommendation with
+  Dynamic State Representations (Huawei, 2025)
+- [[2509.02017]] Empowering Large Language Model for Sequential Recommendation via
+  Multimodal Embeddings and Semantic IDs (Tencent, 2025)
+- [[2509.03746]] Efficient Item ID Generation for Large-Scale LLM-based Recommendation (Google, 2025)
+- [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
+- [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
+- [[2509.22807]] MTRec: Learning to Align with User Preferences via Mental Reward Models (Huawei, 2025)
+- [[2510.03038]] CHORD: Customizing Hybrid-precision On-device Model for Sequential
+  Recommendation with Device-cloud Collaboration (Huawei, 2025)
+- [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
+  Generative Recommendations (Google, 2025)
+- [[2510.09435]] Cross-attention Secretly Performs Orthogonal Alignment in Recommendation
+  Models (Meta, 2025)
+- [[2510.14257]] Synergistic Integration and Discrepancy Resolution of Contextualized
+  Knowledge for Personalized Recommendation (Taobao, 2025)
+- [[2510.21333]] CausalRec: A CausalBoost Attention Model for Sequential Recommendation (Alibaba-inc, 2025)
+- [[2510.22049]] Massive Memorization with Hundreds of Trillions of Parameters for
+  Sequential Transducer Generative Recommenders (Meta, 2025)
+- [[2510.25285]] Revisiting scalable sequential recommendation with Multi-Embedding
+  Approach and Mixture-of-Experts (Huawei, 2025)
+- [[2510.26095]] ORBIT -- Open Recommendation Benchmark for Reproducible Research with
+  Hidden Tests (Meta, 2025)
+- [[2511.00530]] Listwise Preference Diffusion Optimization for User Behavior
+  Trajectories Prediction (Adobe, 2025)
