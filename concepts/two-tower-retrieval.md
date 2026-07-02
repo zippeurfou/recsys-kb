@@ -15,9 +15,10 @@ aliases:
 
 ## Papers
 
+- [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)
+- [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
 - [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
-- [[2501.16450]] 360Brew: A Decoder-only Foundation Model for Personalized Ranking and
-  Recommendation (Linkedin, 2025)
+- [[2401.06633]] Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations (Microsoft, 2024)
 - [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
   Recommendation (Meituan, 2025)
 - [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale
@@ -28,8 +29,7 @@ aliases:
   for Static Link Prediction (aka Personalized Item Recommendation) (Amazon, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)
-- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for
-  Industry-Scale Recommendation Systems (Pinterest, 2025)
+- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems (Pinterest, 2025)
 - [[2504.13572]] Contextualizing Spotify's Audiobook List Recommendations with
   Descriptive Shelves (Meta, Spotify, 2025)
 - [[2505.00953]] Enhancing User Sequence Modeling through Barlow Twins-based
@@ -49,6 +49,7 @@ aliases:
   Recommendation (Bytedance, 2025)
 - [[2508.16793]] Bootstrapping Conditional Retrieval for User-to-Item Recommendations (Pinterest, 2025)
 - [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
+- [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
 - [[2510.09857]] MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight
   Ranking at Pinterest (Pinterest, 2025)
 - [[2510.14223]] Large Scale Retrieval for the LinkedIn Feed using Causal Language Models (Linkedin, 2025)

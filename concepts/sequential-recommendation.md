@@ -13,10 +13,20 @@ aliases:
 
 ## Papers
 
+- [[1908.08284]] Two-Stage Session-based Recommendations with Candidate Rank Embeddings (Zalando, 2019)
 - [[1908.08327]] Session-based Complementary Fashion Recommendations (Zalando, 2019)
+- [[2004.04816]] CSRN: Collaborative Sequential Recommendation Networks for News Retrieval (Tencent, 2020)
+- [[2005.09347]] Controllable Multi-Interest Framework for Recommendation (Alibaba-inc, 2020)
+- [[2011.06237]] Goal-driven Command Recommendations for Analysts (Adobe, 2020)
+- [[2209.13422]] Efficient On-Device Session-Based Recommendation (Baidu, 2022)
+- [[2210.08435]] On the User Behavior Leakage from Recommender System Exposure (Meituan, 2022)
+- [[2301.06777]] Reusable Self-Attention Recommender Systems in Fashion Industry Applications (Zalando, 2023)
 - [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
+- [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
 - [[2310.09123]] Automatic Music Playlist Generation via Simulation-based Reinforcement
   Learning (Spotify, 2023)
+- [[2401.06633]] Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations (Microsoft, 2024)
+- [[2407.16828]] Pareto Front Approximation for Multi-Objective Session-Based Recommender Systems (Otto, 2024)
 - [[2409.12740]] HLLM: Enhancing Sequential Recommendations via Hierarchical Large
   Language Models for Item and User Modeling (Amazon, Bytedance, 2024)
 - [[2410.11150]] Optimizing Encoder-Only Transformers for Session-Based Recommendation
@@ -31,6 +41,7 @@ aliases:
   Networks (Meta, 2024)
 - [[2411.01785]] Transferable Sequential Recommendation via Vector Quantized Meta
   Learning (Meta, 2024)
+- [[2411.18814]] Unifying Generative and Dense Retrieval for Sequential Recommendation (Meta, 2024)
 - [[2412.00714]] Scaling New Frontiers: Insights into Large Recommendation Models (Meta, 2024)
 - [[2412.06949]] Bridging Conversational and Collaborative Signals for Conversational
   Recommendation (Reddit, 2024)
@@ -56,8 +67,7 @@ aliases:
   Reranking (Meta, 2025)
 - [[2504.04386]] Decoding Recommendation Behaviors of In-Context Learning LLMs Through
   Gradient Descent (Amazon, 2025)
-- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for
-  Industry-Scale Recommendation Systems (Pinterest, 2025)
+- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems (Pinterest, 2025)
 - [[2504.10545]] HSTU-BLaIR: Lightweight Contrastive Text Embedding for Generative
   Recommender (Amazon, Meta, 2025)
 - [[2504.19178]] Relative Contrastive Learning for Sequential Recommendation with
@@ -96,7 +106,6 @@ aliases:
   Sequential Recommendation (Bytedance, To Read, 2025)
 - [[2506.17966]] LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential
   Recommendation (Microsoft, 2025)
-- [[2506.21931]] ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation (Walmart, 2025)
 - [[2506.23643]] Act-With-Think: Chunk Auto-Regressive Modeling for Generative
   Recommendation (Huawei, 2025)
 - [[2507.03789]] Efficient and Effective Query Context-Aware Learning-to-Rank Model for

@@ -13,6 +13,8 @@ aliases:
 ## Papers
 
 - [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
+- [[2209.13422]] Efficient On-Device Session-Based Recommendation (Baidu, 2022)
+- [[2401.11478]] D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems (Huawei, 2024)
 - [[2410.17152]] Improving Pinterest Search Relevance Using Large Language Models (Pinterest, 2024)
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)
 - [[2411.00556]] LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language

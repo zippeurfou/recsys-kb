@@ -13,6 +13,13 @@ aliases:
 
 ## Papers
 
+- [[1908.07371]] Hierarchical Bayesian Personalized Recommendation: A Case Study and Beyond (Jd, 2019)
+- [[2008.02930]] Zero-Shot Heterogeneous Transfer Learning from Recommender Systems to Cold-Start Search Retrieval (Google, 2020)
+- [[2106.08934]] Personalized News Recommendation: Methods and Challenges (Microsoft, 2021)
+- [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)
+- [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
+- [[2301.06777]] Reusable Self-Attention Recommender Systems in Fashion Industry Applications (Zalando, 2023)
+- [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
 - [[2404.10207]] HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit
   problem and cold start problem in recommender system (Meta, 2024)
 - [[2407.18488]] Conversational Dueling Bandits in Generalized Linear Models (Bytedance, 2024)
@@ -32,8 +39,7 @@ aliases:
 - [[2501.07761]] Impatient Bandits: Optimizing for the Long-Term Without Delay (Spotify, 2025)
 - [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in
   Recommendation System (Meta, 2025)
-- [[2501.16450]] 360Brew: A Decoder-only Foundation Model for Personalized Ranking and
-  Recommendation (Linkedin, 2025)
+- [[2501.16450]] 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation (Linkedin, 2025)
 - [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior
   Modeling (Taobao, 2025)
 - [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational

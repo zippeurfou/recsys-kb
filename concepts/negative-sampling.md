@@ -13,8 +13,11 @@ aliases:
 
 ## Papers
 
+- [[1908.08327]] Session-based Complementary Fashion Recommendations (Zalando, 2019)
 - [[2009.12192]] Tuning Word2vec for Large Scale Recommendation Systems (Twitter, 2020)
-- [[2211.01154]] Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective (Bytedance, 2022)
+- [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)
+- [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
+- [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
 - [[2410.17276]] Evaluating Performance and Bias of Negative Sampling in Large-Scale
   Sequential Recommendation Models (Apple, 2024)
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)

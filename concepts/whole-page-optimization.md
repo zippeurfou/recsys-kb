@@ -12,6 +12,8 @@ aliases:
 
 ## Papers
 
+- [[1904.06813]] Personalized Re-ranking for Recommendation (Alibaba-inc, 2019)
+- [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
 - [[2408.06883]] Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate
   Generation (Spotify, 2024)
 - [[2411.00395]] DivNet: Diversity-Aware Self-Correcting Sequential Recommendation

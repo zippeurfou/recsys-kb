@@ -22,10 +22,12 @@ aliases:
   Learning (Meta, 2024)
 - [[2411.13789]] LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display
   Advertisement Recommender System (Wechat, 2024)
+- [[2411.18814]] Unifying Generative and Dense Retrieval for Sequential Recommendation (Meta, 2024)
 - [[2412.00714]] Scaling New Frontiers: Insights into Large Recommendation Models (Meta, 2024)
 - [[2412.08604]] Preference Discerning with LLM-Enhanced Generative Retrieval (Meta, 2024)
 - [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction
   Enhanced Transformer (Huawei, 2025)
+- [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)
 - [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
   Recommendation (Meituan, 2025)
 - [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative
@@ -36,8 +38,7 @@ aliases:
   with Semantic ID (Meta, 2025)
 - [[2504.07363]] Towards Distribution Matching between Collaborative and Language Spaces
   for Generative Recommendation (Meta, 2025)
-- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for
-  Industry-Scale Recommendation Systems (Pinterest, 2025)
+- [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems (Pinterest, 2025)
 - [[2504.10545]] HSTU-BLaIR: Lightweight Contrastive Text Embedding for Generative
   Recommender (Amazon, Meta, 2025)
 - [[2504.16420]] A Survey of Foundation Model-Powered Recommender Systems: From
@@ -97,6 +98,7 @@ aliases:
   Systems (Meta, 2025)
 - [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
 - [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
+- [[2509.17749]] A Generative Framework for Personalized Sticker Retrieval (Tencent, 2025)
 - [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
 - [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
   Generative Recommendations (Google, 2025)
@@ -108,4 +110,5 @@ aliases:
   Semantic IDs Learning in Recommendation (Alibaba-inc, 2025)
 - [[2511.00530]] Listwise Preference Diffusion Optimization for User Behavior
   Trajectories Prediction (Adobe, 2025)
+- [[2511.10492]] Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding (Meta, 2025)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

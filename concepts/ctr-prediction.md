@@ -13,11 +13,20 @@ aliases:
 
 ## Papers
 
+- [[1902.09154]] Deep Bayesian Multi-Target Learning for Recommender Systems (Alibaba-inc, 2019)
 - [[1904.06813]] Personalized Re-ranking for Recommendation (Alibaba-inc, 2019)
-- [[2304.07450]] Intent-aware Ranking Ensemble for Personalized Recommendation (Meituan, 2023)
+- [[1909.04823]] Distributed Equivalent Substitution Training for Large-Scale Recommender Systems (Tencent, 2019)
+- [[2108.13299]] Incremental Learning for Personalized Recommender Systems (Linkedin, 2021)
+- [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
+- [[2210.08803]] Merlin HugeCTR: GPU-accelerated Recommender System Training and Inference (Nvidia, 2022)
+- [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
+- [[2308.11131]] ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2023)
+- [[2401.11478]] D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems (Huawei, 2024)
 - [[2404.10207]] HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit
   problem and cold start problem in recommender system (Meta, 2024)
+- [[2405.12892]] Retrievable Domain-Sensitive Feature Memory for Multi-Domain Recommendation (Huawei, 2024)
 - [[2406.09882]] Harm Mitigation in Recommender Systems under User Preference Dynamics (Meta, 2024)
+- [[2408.03533]] Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation (Huawei, 2024)
 - [[2409.12740]] HLLM: Enhancing Sequential Recommendations via Hierarchical Large
   Language Models for Item and User Modeling (Amazon, Bytedance, 2024)
 - [[2410.02604]] Long-Sequence Recommendation Models Need Decoupled Embeddings (Tencent, 2024)

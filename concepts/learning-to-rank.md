@@ -15,6 +15,11 @@ aliases:
 
 - [[1807.08061]] A Line in the Sand: Recommendation or Ad-hoc Retrieval? (Microsoft, 2018)
 - [[1904.06813]] Personalized Re-ranking for Recommendation (Alibaba-inc, 2019)
+- [[2102.06343]] Personalized Visualization Recommendation (Adobe, 2021)
+- [[2111.12929]] Unbiased Pairwise Learning to Rank in Recommender Systems (Tencent, 2021)
+- [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
+- [[2304.07450]] Intent-aware Ranking Ensemble for Personalized Recommendation (Meituan, 2023)
+- [[2409.17711]] Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation (Amazon, 2024)
 - [[2410.05763]] Information Discovery in e-Commerce (Amazon, Alibaba, Airbnb, 2024)
 - [[2410.05806]] A Parameter Update Balancing Algorithm for Multi-task Ranking Models in
   Recommendation Systems (Huawei, 2024)

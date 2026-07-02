@@ -14,6 +14,9 @@ aliases:
 
 ## Papers
 
+- [[1902.09154]] Deep Bayesian Multi-Target Learning for Recommender Systems (Alibaba-inc, 2019)
+- [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
+- [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
 - [[2410.02604]] Long-Sequence Recommendation Models Need Decoupled Embeddings (Tencent, 2024)
 - [[2410.05806]] A Parameter Update Balancing Algorithm for Multi-task Ranking Models in
   Recommendation Systems (Huawei, 2024)
@@ -26,6 +29,7 @@ aliases:
 - [[2412.01985]] Improving feature interactions at Pinterest under industry constraints (Pinterest, 2024)
 - [[2501.06985]] Graph Contrastive Learning on Multi-label Classification for
   Recommendations (Amazon, 2025)
+- [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and
   Narratives (Amazon, 2025)
 - [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
