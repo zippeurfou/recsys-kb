@@ -32,6 +32,8 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2504.16454]] Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a
   Single Generative Recommendation Model (Huawei, 2025)
 - [[2504.21362]] Enhancing New-item Fairness in Dynamic Recommender Systems (Alibaba-inc, 2025)
+- [[2505.07245]] REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for
+  Imbalanced Prediction (Meta, 2025)
 - [[2505.18120]] Bidirectional Knowledge Distillation for Enhancing Sequential
   Recommendation with Large Language Models (Microsoft, 2025)
 - [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for
@@ -84,6 +86,7 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2603.09181]] Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft Database Tuning Advisor (Microsoft, 2026)
 - [[2603.19665]] GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce (Jd, 2026)
 - [[2603.26556]] When Perplexity Lies: Generation-Focused Distillation of Hybrid Sequence Models (Huawei, 2026)
+- [[2603.28994]] Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music (Google, 2026)
 - [[2604.06070]] Short Data, Long Context: Distilling Positional Knowledge in Transformers (Meta, 2026)
 - [[2604.07930]] Unified Supervision for Walmarts Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling (Walmart, 2026)
 - [[2604.08933]] IAT: Instance-As-Token Compression for Historical User Sequence Modeling in Industrial Recommender Systems (Bytedance, 2026)
@@ -107,6 +110,7 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2606.04944]] Dual-Stream MLP is All You Need for CTR Prediction (Meituan, 2026)
 - [[2606.12018]] MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning (Huawei, 2026)
 - [[2606.12198]] LLM-Based User Personas for Recommendations at Scale (Google, 2026)
+- [[2606.19037]] Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation (Baidu, 2026)
 - [[2606.23889]] INSPIRE: Intent-aware Neural Sponsored Product Retrieval for E-commerce (Walmart, 2026)
 - [[2606.24747]] Scaling Laws for Task-Specific LLM Distillation (Nvidia, 2026)
 - [[2606.25871]] AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search (Walmart, 2026)

@@ -23,6 +23,8 @@ Self-supervised representation learning by contrasting positive against negative
   Meta-Learning (Meta, 2024)
 - [[2411.11508]] Collaborative Contrastive Network for Click-Through Rate Prediction (Taobao, 2024)
 - [[2412.18735]] Automatic Self-supervised Learning for Social Recommendations (Meta, 2024)
+- [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
+  Fusion (Meta, 2025)
 - [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
   Recommendation Systems (Jd, 2025)
 - [[2504.05694]] Large Language Models Enhanced Hyperbolic Space Recommender Systems (Meta, 2025)
@@ -70,6 +72,7 @@ Self-supervised representation learning by contrasting positive against negative
   E-Commerce (Huawei, 2025)
 - [[2511.13415]] Attention Grounded Enhancement for Visual Document Retrieval (Taobao, 2025)
 - [[2511.15122]] Multi-Aspect Cross-modal Quantization for Generative Recommendation (Meituan, 2025)
+- [[2511.19344]] Annotation-Free Class-Incremental Learning (Microsoft, 2025)
 - [[2511.20997]] FANoise: Singular Value-Adaptive Noise Modulation for Robust Multimodal Representation Learning (Jd, 2025)
 - [[2512.03219]] Perch 2.0 transfers 'whale' to underwater tasks (Google, 2025)
 - [[2512.06381]] Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework (Alibaba-inc, 2025)

@@ -101,6 +101,7 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2603.11525]] MDS-VQA: Model-Informed Data Selection for Video Quality Assessment (Google, 2026)
 - [[2603.19665]] GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce (Jd, 2026)
 - [[2603.22455]] SkillRouter: Retrieve-and-Rerank Skill Selection for LLM Agents at Scale (Alibaba-inc, 2026)
+- [[2603.28994]] Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music (Google, 2026)
 - [[2604.02472]] VALOR: Value-Aware Revenue Uplift Modeling with Treatment-Gated Representation for B2B Sales (Google, 2026)
 - [[2604.07930]] Unified Supervision for Walmarts Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling (Walmart, 2026)
 - [[2604.14972]] SAGER: Self-Evolving User Policy Skills for Recommendation Agent (Tencent, 2026)

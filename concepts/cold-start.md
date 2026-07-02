@@ -31,6 +31,7 @@ Recommending for new users or items that have little or no interaction history.
   Evaluate Preference Elicitation Policies (Youtube, 2024)
 - [[2410.07654]] Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and
   Homogeneous Graphs for Recommendation (Amazon, 2024)
+- [[2410.13374]] Context-aware adaptive personalised recommendation: a meta-hybrid (Meta, 2024)
 - [[2410.16458]] STAR: A Simple Training-free Approach for Recommendations using Large
   Language Models (Amazon, 2024)
 - [[2410.22136]] SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation
@@ -44,6 +45,8 @@ Recommending for new users or items that have little or no interaction history.
 - [[2501.16450]] 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation (Linkedin, 2025)
 - [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior
   Modeling (Taobao, 2025)
+- [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
+  Fusion (Meta, 2025)
 - [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
   Recommender Systems (Reddit, 2025)
 - [[2502.16924]] FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start
@@ -73,6 +76,8 @@ Recommending for new users or items that have little or no interaction history.
   Generation (Meta, 2025)
 - [[2506.00107]] Gated Multimodal Graph Learning for Personalized Recommendation (Amazon, 2025)
 - [[2506.00954]] AliBoost: Ecological Boosting Framework in Alibaba Platform (Alibaba, 2025)
+- [[2506.01910]] GLoSS: Generative Language Models with Semantic Search for Sequential
+  Recommendation (Amazon, 2025)
 - [[2506.04551]] PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for
   Recommender System Evaluation (Amazon, Meta, 2025)
 - [[2506.15267]] Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative
@@ -101,6 +106,7 @@ Recommending for new users or items that have little or no interaction history.
 - [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
 - [[2508.02342]] Agentic Personalized Fashion Recommendation in the Age of Generative AI:
   Challenges, Opportunities, and Evaluation (Zalando, 2025)
+- [[2508.07241]] SocRipple: A Two-Stage Framework for Cold-Start Video Recommendations (Meta, 2025)
 - [[2508.08777]] Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge (Spotify, 2025)
 - [[2508.09789]] Describe What You See with Multimodal Large Language Models to Enhance
   Video Recommendations (Spotify, 2025)

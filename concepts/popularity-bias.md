@@ -24,15 +24,22 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
   Sequential Recommendation Models (Apple, 2024)
 - [[2411.00395]] DivNet: Diversity-Aware Self-Correcting Sequential Recommendation
   Networks (Meta, 2024)
+- [[2411.13653]] No Free Delivery Service: Epistemic limits of passive data collection in
+  complex social systems (Meta, 2024)
 - [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in
   Recommendation System (Meta, 2025)
 - [[2503.08750]] Exposing Product Bias in LLM Investment Recommendation (Microsoft, Apple, 2025)
+- [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
 - [[2504.20879]] The Leaderboard Illusion (Google, Meta, 2025)
 - [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity
   Perspective (Snap, 2025)
+- [[2505.16121]] Emotion-based Recommender System (Amazon, 2025)
 - [[2506.00954]] AliBoost: Ecological Boosting Framework in Alibaba Platform (Alibaba, 2025)
 - [[2506.06162]] Recommender systems, stigmergy, and the tyranny of popularity (Google, 2025)
+- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video
+  Recommendations (Meta, 2025)
 - [[2507.09423]] Item-centric Exploration for Cold Start Problem (Google, 2025)
+- [[2508.07241]] SocRipple: A Two-Stage Framework for Cold-Start Video Recommendations (Meta, 2025)
 - [[2508.08777]] Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge (Spotify, 2025)
 - [[2508.09653]] On Negative-aware Preference Optimization for Recommendation (Meituan, 2025)
 - [[2508.11086]] Relative Advantage Debiasing for Watch-Time Prediction in Short-Video

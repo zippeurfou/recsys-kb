@@ -29,6 +29,7 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2210.08435]] On the User Behavior Leakage from Recommender System Exposure (Meituan, 2022)
 - [[2301.06777]] Reusable Self-Attention Recommender Systems in Fashion Industry Applications (Zalando, 2023)
 - [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
+- [[2305.07622]] PALR: Personalization Aware LLMs for Recommendation (Amazon, 2023)
 - [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
 - [[2310.09123]] Automatic Music Playlist Generation via Simulation-based Reinforcement
   Learning (Spotify, 2023)
@@ -101,6 +102,8 @@ Modeling a user's chronological interaction sequence (often with transformers or
   Preference Modeling (Amazon, 2025)
 - [[2505.22238]] Yambda-5B -- A Large-Scale Multi-modal Dataset for Ranking And Retrieval (Yandex, 2025)
 - [[2506.00450]] DV365: Extremely Long User History Modeling at Instagram (Instagram, 2025)
+- [[2506.01910]] GLoSS: Generative Language Models with Semantic Search for Sequential
+  Recommendation (Amazon, 2025)
 - [[2506.02267]] TransAct V2: Lifelong User Action Sequence Modeling on Pinterest
   Recommendation (Pinterest, 2025)
 - [[2506.03699]] Scaling Transformers for Discriminative Recommendation via Generative
@@ -153,6 +156,8 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
 - [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
 - [[2509.22807]] MTRec: Learning to Align with User Preferences via Mental Reward Models (Huawei, 2025)
+- [[2509.25522]] Understanding Generative Recommendation with Semantic IDs from a
+  Model-scaling View (Snap, 2025)
 - [[2510.03038]] CHORD: Customizing Hybrid-precision On-device Model for Sequential
   Recommendation with Device-cloud Collaboration (Huawei, 2025)
 - [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
@@ -244,5 +249,6 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
 - [[2606.15331]] HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation (Jd, 2026)
 - [[2606.19108]] JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling (Airbnb, 2026)
+- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)

@@ -36,8 +36,11 @@ Retrieval architecture with separate user/query and item/document encoders whose
   Self-Supervised Learning (Google, 2025)
 - [[2505.02120]] Tricolore: Multi-Behavior User Profiling for Enhanced Candidate
   Generation in Recommender Systems (Tencent, 2025)
+- [[2506.07261]] RADAR: Recall Augmentation through Deferred Asynchronous Retrieval (Meta, 2025)
 - [[2506.23060]] Synergizing Implicit and Explicit User Interests: A Multi-Embedding
   Retrieval Framework at Pinterest (Pinterest, 2025)
+- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video
+  Recommendations (Meta, 2025)
 - [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
 - [[2507.19346]] Short-Form Video Recommendations with Multimodal Embeddings: Addressing
   Cold-Start and Bias Challenges (Zalando, 2025)

@@ -71,6 +71,8 @@ Discrete, hierarchical item identifiers learned by quantizing item embeddings (e
 - [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
 - [[2509.16931]] Equip Pre-ranking with Target Attention by Residual Quantization (Alibaba-inc, 2025)
 - [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
+- [[2509.25522]] Understanding Generative Recommendation with Semantic IDs from a
+  Model-scaling View (Snap, 2025)
 - [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
   Generative Recommendations (Google, 2025)
 - [[2510.14257]] Synergistic Integration and Discrepancy Resolution of Contextualized
@@ -155,5 +157,6 @@ Discrete, hierarchical item identifiers learned by quantizing item embeddings (e
 - [[2606.14142]] Implicit Reasoning for Large Language Model-based Generative Recommendation (Snap, 2026)
 - [[2606.15331]] HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation (Jd, 2026)
 - [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
+- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.23291]] URecJPQ: Memory-efficient Multimodal Recommendation Models through RecJPQ in Large-Scale Scenarios (Spotify, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)

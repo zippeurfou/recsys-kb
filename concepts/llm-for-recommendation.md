@@ -14,6 +14,7 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 
 ## Papers
 
+- [[2305.07622]] PALR: Personalization Aware LLMs for Recommendation (Amazon, 2023)
 - [[2410.20642]] Collaborative Knowledge Fusion: A Novel Approach for Multi-task
   Recommender Systems via LLMs (Meta, 2024)
 - [[2502.02966]] FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for

@@ -26,6 +26,7 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)
 - [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
   Recommendation Systems (Jd, 2025)
+- [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)
 - [[2504.10545]] HSTU-BLaIR: Lightweight Contrastive Text Embedding for Generative
@@ -47,6 +48,8 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
   Recommender Systems to Temporal Link Prediction (Microsoft, 2025)
 - [[2507.06503]] USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for
   Large-Scale Homepage Recommendations (Alibaba-inc, 2025)
+- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video
+  Recommendations (Meta, 2025)
 - [[2507.09566]] Identifying Offline Metrics that Predict Online Impact: A Pragmatic
   Strategy for Real-World Recommender Systems (Otto, 2025)
 - [[2507.10097]] User Long-Term Multi-Interest Retrieval Model for Recommendation (Alibaba-inc, 2025)

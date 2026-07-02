@@ -21,6 +21,7 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[1908.07371]] Hierarchical Bayesian Personalized Recommendation: A Case Study and Beyond (Jd, 2019)
 - [[1908.08284]] Two-Stage Session-based Recommendations with Candidate Rank Embeddings (Zalando, 2019)
 - [[2007.07203]] Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations (Bytedance, 2020)
+- [[2008.13528]] Microsoft Recommenders: Tools to Accelerate Developing Recommender Systems (Microsoft, 2020)
 - [[2101.04526]] Measuring Recommender System Effects with Simulated Users (Google, 2021)
 - [[2106.08934]] Personalized News Recommendation: Methods and Challenges (Microsoft, 2021)
 - [[2107.13078]] A Payload Optimization Method for Federated Recommender Systems (Huawei, 2021)
@@ -31,6 +32,7 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2410.03064]] Geometric Collaborative Filtering with Convergence (Netflix, 2024)
 - [[2410.09359]] Green Recommender Systems: Optimizing Dataset Size for Energy-Efficient
   Algorithm Performance (Amazon, 2024)
+- [[2410.13374]] Context-aware adaptive personalised recommendation: a meta-hybrid (Meta, 2024)
 - [[2410.20642]] Collaborative Knowledge Fusion: A Novel Approach for Multi-task
   Recommender Systems via LLMs (Meta, 2024)
 - [[2411.00556]] LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language
@@ -56,18 +58,26 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2504.10107]] Enhancing LLM-based Recommendation through Semantic-Aligned
   Collaborative Knowledge (Amazon, 2025)
 - [[2505.01442]] Algorithm Performance Spaces for Strategic Dataset Selection (Amazon, 2025)
+- [[2505.05989]] Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous
+  Information Networks (Amazon, 2025)
 - [[2505.08157]] Hyperbolic Contrastive Learning with Model-augmentation for
   Knowledge-aware Recommendation (Bing, 2025)
 - [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity
   Perspective (Snap, 2025)
+- [[2505.16121]] Emotion-based Recommender System (Amazon, 2025)
 - [[2505.19020]] HGCL: Hierarchical Graph Contrastive Learning for User-Item
   Recommendation (Alibaba-inc, 2025)
 - [[2505.24172]] Heterogeneous Graph Masked Contrastive Learning for Robust
   Recommendation (Meta, 2025)
 - [[2506.00107]] Gated Multimodal Graph Learning for Personalized Recommendation (Amazon, 2025)
 - [[2506.04525]] User Altruism in Recommendation Systems (Youtube, 2025)
+- [[2506.07261]] RADAR: Recall Augmentation through Deferred Asynchronous Retrieval (Meta, 2025)
+- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video
+  Recommendations (Meta, 2025)
 - [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation
   Systems (Snap, 2025)
+- [[2507.15113]] Click A, Buy B: Rethinking Conversion Attribution in E- Commerce
+  Recommendations (Meta, 2025)
 - [[2508.05107]] Community-Aware Social Community Recommendation (Jd, 2025)
 - [[2508.11086]] Relative Advantage Debiasing for Watch-Time Prediction in Short-Video
   Recommendation (Bytedance, 2025)

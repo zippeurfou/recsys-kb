@@ -25,7 +25,13 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2407.16828]] Pareto Front Approximation for Multi-Objective Session-Based Recommender Systems (Otto, 2024)
 - [[2409.17436]] Minimizing Live Experiments in Recommender Systems: User Simulation to
   Evaluate Preference Elicitation Policies (Youtube, 2024)
+- [[2410.13374]] Context-aware adaptive personalised recommendation: a meta-hybrid (Meta, 2024)
+- [[2411.13653]] No Free Delivery Service: Epistemic limits of passive data collection in
+  complex social systems (Meta, 2024)
 - [[2502.21304]] Clustering Context in Off-Policy Evaluation (Amazon, 2025)
+- [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
+- [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
+  User Preferences (Tencent, 2025)
 - [[2504.13572]] Contextualizing Spotify's Audiobook List Recommendations with
   Descriptive Shelves (Meta, Spotify, 2025)
 - [[2504.14098]] Enhancing Math Learning in an LMS Using AI-Driven Question
@@ -35,6 +41,7 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
   Recommender System Evaluation (Amazon, Meta, 2025)
 - [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for
   Item-to-Item Retrieval in Recommendation (Meta, 2025)
+- [[2506.07261]] RADAR: Recall Augmentation through Deferred Asynchronous Retrieval (Meta, 2025)
 - [[2506.17765]] CARTS: Collaborative Agents for Recommendation Textual Summarization (Walmart, 2025)
 - [[2506.18744]] Experimenting, Fast and Slow: Bayesian Optimization of Long-term
   Outcomes with Online Experiments (Meta, 2025)
@@ -45,6 +52,7 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2508.00751]] Harnessing the Power of Interleaving and Counterfactual Evaluation for
   Airbnb Search Ranking (Airbnb, 2025)
 - [[2508.08777]] Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge (Spotify, 2025)
+- [[2508.13517]] Heterogeneous Influence Maximization in User Recommendation (Tencent, 2025)
 - [[2509.03661]] ACT: Automated Constraint Targeting for Multi-Objective Recommender
   Systems (Google, 2025)
 - [[2510.20260]] Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM
@@ -63,6 +71,7 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2603.17540]] Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify (Spotify, 2026)
 - [[2603.26085]] AgenticRS-Architecture: System Design for Agentic Recommender Systems (Alibaba-inc, 2026)
 - [[2603.28124]] RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation (Alibaba-inc, 2026)
+- [[2603.28994]] Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music (Google, 2026)
 - [[2604.12096]] LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks (Walmart, 2026)
 - [[2604.14878]] GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation (Jd, 2026)
 - [[2604.15650]] Sample Is Feature: Beyond Item-Level, Toward Sample-Level Tokens for Unified Large Recommender Models (Meituan, 2026)

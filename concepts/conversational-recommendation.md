@@ -30,6 +30,7 @@ Multi-turn dialog systems that elicit user preferences and recommend interactive
   Reward Model Based Simulated User (Meituan, 2025)
 - [[2508.13423]] AdaptJobRec: Enhancing Conversational Career Recommendation through an
   LLM-Powered Agentic System (Walmart, 2025)
+- [[2508.20148]] The Anatomy of a Personal Health Agent (Google, 2025)
 - [[2510.02331]] Synthetic Dialogue Generation for Interactive Conversational Elicitation
   & Recommendation (ICER) (Google, 2025)
 - [[2510.12015]] Asking Clarifying Questions for Preference Elicitation With Large
@@ -45,3 +46,4 @@ Multi-turn dialog systems that elicit user preferences and recommend interactive
 - [[2605.14401]] Agentic Recommender System with Hierarchical Belief-State Memory (Meta, 2026)
 - [[2605.27103]] MuChator: Enabling Active Music Discovery via Conversational Music LLMs in Douyin Music (Bytedance, 2026)
 - [[2606.10078]] Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems (Netflix, 2026)
+- [[2606.22803]] Towards Fast Domain Adaptation and Fine-Grained User Simulation for Evaluating Conversational Recommender Systems (Huawei, 2026)

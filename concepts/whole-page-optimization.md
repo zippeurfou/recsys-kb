@@ -31,6 +31,7 @@ Optimizing an entire page/slate jointly (diversity, interactions, layout) rather
   Optimization at Taobao (Taobao, 2025)
 - [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation
   Systems (Snap, 2025)
+- [[2508.13517]] Heterogeneous Influence Maximization in User Recommendation (Tencent, 2025)
 - [[2508.14420]] You Only Evaluate Once: A Tree-based Rerank Method at Meituan (Meituan, 2025)
 - [[2511.16106]] Incorporating Token Importance in Multi-Vector Retrieval (Microsoft, 2025)
 - [[2511.18261]] LLM Reasoning for Cold-Start Item Recommendation (Netflix, 2025)

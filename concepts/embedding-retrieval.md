@@ -53,6 +53,8 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
   Retrieval-Augmented Recommender Systems (Meta, 2025)
 - [[2505.13550]] JIR-Arena: The First Benchmark Dataset for Just-in-time Information
   Recommendation (Snap, 2025)
+- [[2506.01910]] GLoSS: Generative Language Models with Semantic Search for Sequential
+  Recommendation (Amazon, 2025)
 - [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for
   Item-to-Item Retrieval in Recommendation (Meta, 2025)
 - [[2506.15267]] Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative
@@ -68,6 +70,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2507.17927]] SMARTAPS: Tool-augmented LLMs for Operations Management (Huawei, 2025)
 - [[2507.21142]] Privacy Artifact ConnecTor (PACT): Embedding Enterprise Artifacts for
   Compliance AI Agents (Meta, 2025)
+- [[2508.07241]] SocRipple: A Two-Stage Framework for Cold-Start Video Recommendations (Meta, 2025)
 - [[2508.11977]] TBGRecall: A Generative Retrieval Model for E-commerce Recommendation
   Scenarios (Alibaba-inc, 2025)
 - [[2508.15486]] LongRetriever: Towards Ultra-Long Sequence based Candidate Retrieval for
@@ -88,6 +91,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2511.03298]] KScaNN: Scalable Approximate Nearest Neighbor Search on Kunpeng (Huawei, 2025)
 - [[2511.13885]] TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search (Alibaba-inc, 2025)
 - [[2511.13994]] Hint-Augmented Re-ranking: Efficient Product Search using LLM-Based Query Decomposition (Amazon, 2025)
+- [[2511.14748]] Cloud-Native Vector Search: A Comprehensive Performance Analysis (Bytedance, 2025)
 - [[2511.14881]] SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs (Meta, 2025)
 - [[2511.16921]] δ-EMG: A Monotonic Graph Index for Approximate Nearest Neighbor Search (Huawei, 2025)
 - [[2511.18413]] Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations (Adobe, 2025)

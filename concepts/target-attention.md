@@ -95,4 +95,5 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2605.25726]] SIREN: Unified Multi-Granularity Semantic Interaction for Multi-Modal Lifelong User Interest Modeling (Tencent, 2026)
 - [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
+- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)

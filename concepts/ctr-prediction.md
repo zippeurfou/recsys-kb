@@ -58,6 +58,8 @@ Predicting click-through (and conversion) probability for ranking -- central to 
   embeddings for DoorDash (Doordash, 2025)
 - [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
   Rate Prediction (Pinterest, 2025)
+- [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
+  User Preferences (Tencent, 2025)
 - [[2504.10107]] Enhancing LLM-based Recommendation through Semantic-Aligned
   Collaborative Knowledge (Amazon, 2025)
 - [[2504.10208]] From Prompting to Alignment: A Generative Framework for Query
@@ -66,6 +68,8 @@ Predicting click-through (and conversion) probability for ranking -- central to 
   Single Generative Recommendation Model (Huawei, 2025)
 - [[2505.02844]] Feature Staleness Aware Incremental Learning for CTR Prediction (Tencent, 2025)
 - [[2505.04421]] LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders (Bytedance, 2025)
+- [[2505.07245]] REMEDI: Relative Feature Enhanced Meta-Learning with Distillation for
+  Imbalanced Prediction (Meta, 2025)
 - [[2505.14959]] Privacy Preserving Conversion Modeling in Data Clean Room (Pinterest, 2025)
 - [[2505.16752]] Action is All You Need: Dual-Flow Generative Ranking Network for
   Recommendation (Bing, Meta, 2025)
@@ -94,6 +98,8 @@ Predicting click-through (and conversion) probability for ranking -- central to 
   Large-Scale Homepage Recommendations (Alibaba-inc, 2025)
 - [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation
   Systems (Snap, 2025)
+- [[2507.15113]] Click A, Buy B: Rethinking Conversion Attribution in E- Commerce
+  Recommendations (Meta, 2025)
 - [[2507.15551]] RankMixer: Scaling Up Ranking Models in Industrial Recommenders (Bytedance, 2025)
 - [[2508.01375]] SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation (Taobao, 2025)
 - [[2508.02451]] Dynamic Forgetting and Spatio-Temporal Periodic Interest Modeling for
@@ -219,5 +225,6 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
 - [[2606.15911]] Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search (Baidu, 2026)
+- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)

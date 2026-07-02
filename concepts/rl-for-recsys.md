@@ -22,6 +22,8 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 
 - [[2309.13896]] Follow-ups Also Matter: Improving Contextual Bandits via Post-serving
   Contexts (Google, 2023)
+- [[2405.20677]] Provably Efficient Interactive-Grounded Learning with Personalized
+  Reward (Microsoft, 2024)
 - [[2407.18488]] Conversational Dueling Bandits in Generalized Linear Models (Bytedance, 2024)
 - [[2411.13789]] LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display
   Advertisement Recommender System (Wechat, 2024)

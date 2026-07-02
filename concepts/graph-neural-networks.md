@@ -28,6 +28,8 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2501.07110]] Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video
   Recommendation (Meta, 2025)
 - [[2501.11870]] Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation (Meta, 2025)
+- [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
+  Fusion (Meta, 2025)
 - [[2502.16068]] Joint Similarity Item Exploration and Overlapped User Guidance for
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)
 - [[2503.07823]] Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender
@@ -37,10 +39,14 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2503.18197]] FROG: Fair Removal on Graphs (Walmart, 2025)
 - [[2504.06492]] Exploiting Meta-Learning-based Poisoning Attacks for Graph Link
   Prediction (Meta, 2025)
+- [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
+  User Preferences (Tencent, 2025)
 - [[2504.17811]] OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation
   Learning (Pinterest, 2025)
 - [[2505.08157]] Hyperbolic Contrastive Learning with Model-augmentation for
   Knowledge-aware Recommendation (Bing, 2025)
+- [[2505.09643]] A Computational Approach to Epilepsy Treatment: An AI-optimized Global
+  Natural Product Prescription System (Meta, 2025)
 - [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity
   Perspective (Snap, 2025)
 - [[2505.19020]] HGCL: Hierarchical Graph Contrastive Learning for User-Item

@@ -21,6 +21,8 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2412.01985]] Improving feature interactions at Pinterest under industry constraints (Pinterest, 2024)
 - [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
   Rate Prediction (Pinterest, 2025)
+- [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
+  User Preferences (Tencent, 2025)
 - [[2508.14500]] DGenCTR: Towards a Universal Generative Paradigm for Click-Through Rate
   Prediction via Discrete Diffusion (Alibaba-inc, 2025)
 - [[2508.14948]] Large Foundation Model for Ads Recommendation (Tencent, 2025)

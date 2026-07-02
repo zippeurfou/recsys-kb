@@ -16,6 +16,7 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 ## Papers
 
 - [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
+- [[2305.07622]] PALR: Personalization Aware LLMs for Recommendation (Amazon, 2023)
 - [[2310.10553]] TacticAI: an AI assistant for football tactics (Google, 2023)
 - [[2410.16823]] Bridging Search and Recommendation in Generative Retrieval: Does One
   Task Help the Other? (Youtube, Spotify, Netflix, 2024)
@@ -53,6 +54,8 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2505.17549]] EGA-V2: An End-to-end Generative Framework for Industrial Advertising (Meituan, 2025)
 - [[2505.18654]] MTGR: Industrial-Scale Generative Recommendation Framework in Meituan (Meituan, 2025)
 - [[2506.00450]] DV365: Extremely Long User History Modeling at Instagram (Instagram, 2025)
+- [[2506.01910]] GLoSS: Generative Language Models with Semantic Search for Sequential
+  Recommendation (Amazon, 2025)
 - [[2506.05781]] Generating Long Semantic IDs in Parallel for Recommendation (Meta, 2025)
 - [[2506.16683]] A Simple Contrastive Framework Of Item Tokenization For Generative
   Recommendation (Alibaba-inc, 2025)
@@ -92,6 +95,8 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2509.13648]] Sequential Data Augmentation for Generative Recommendation (Snap, 2025)
 - [[2509.17749]] A Generative Framework for Personalized Sticker Retrieval (Tencent, 2025)
 - [[2509.21777]] SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation (Amazon, 2025)
+- [[2509.25522]] Understanding Generative Recommendation with Semantic IDs from a
+  Model-scaling View (Snap, 2025)
 - [[2510.07784]] PLUM: Adapting Pre-trained Language Models for Industrial-scale
   Generative Recommendations (Google, 2025)
 - [[2510.12211]] Reinforced Preference Optimization for Recommendation (Alibaba-inc, 2025)
@@ -190,5 +195,6 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2606.10375]] SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers (Huawei, 2026)
 - [[2606.14142]] Implicit Reasoning for Large Language Model-based Generative Recommendation (Snap, 2026)
 - [[2606.15331]] HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation (Jd, 2026)
+- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
