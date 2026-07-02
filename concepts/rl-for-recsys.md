@@ -29,6 +29,8 @@ aliases:
   D-optimal exploration (Google, 2025)
 - [[2509.05292]] Deep Reinforcement Learning for Ranking Utility Tuning in the Ad
   Recommender System at Pinterest (Pinterest, 2025)
+- [[2511.13885]] TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search (Alibaba-inc, 2025)
+- [[2511.21989]] Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation (Google, 2025)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
 - [[2606.31612]] What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States (Alibaba-inc, 2026)

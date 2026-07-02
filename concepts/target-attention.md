@@ -72,3 +72,6 @@ aliases:
 - [[2510.21714]] Practice on Long Behavior Sequence Modeling in Tencent Advertising (Tencent, 2025)
 - [[2510.22049]] Massive Memorization with Hundreds of Trillions of Parameters for
   Sequential Transducer Generative Recommenders (Meta, 2025)
+- [[2511.21095]] Generative Early Stage Ranking (Meta, 2025)
+- [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
+- [[2512.07216]] MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling (Alibaba-inc, 2025)

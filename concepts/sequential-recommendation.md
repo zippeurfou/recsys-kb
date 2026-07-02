@@ -158,3 +158,10 @@ aliases:
   Hidden Tests (Meta, 2025)
 - [[2511.00530]] Listwise Preference Diffusion Optimization for User Behavior
   Trajectories Prediction (Adobe, 2025)
+- [[2511.10492]] Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding (Meta, 2025)
+- [[2511.15122]] Multi-Aspect Cross-modal Quantization for Generative Recommendation (Meituan, 2025)
+- [[2511.19514]] SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation (Tencent, 2025)
+- [[2511.20177]] Enhancing Sequential Recommendation with World Knowledge from Large Language Models (Alibaba-inc, 2025)
+- [[2511.23021]] Masked Diffusion for Generative Recommendation (Snap, 2025)
+- [[2512.11254]] FAIR: Focused Attention Is All You Need for Generative Recommendation (Huawei, 2025)
+- [[2512.12740]] FuXi-$γ$: Efficient Sequential Recommendation with Exponential-Power Temporal Encoder and Diagonal-Sparse Positional Mechanism (Huawei, 2025)

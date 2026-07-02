@@ -121,4 +121,7 @@ aliases:
 - [[2510.23077]] Think before Recommendation: Autonomous Reasoning-enhanced Recommender (Alibaba-inc, 2025)
 - [[2510.25622]] MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for
   Semantic IDs Learning in Recommendation (Alibaba-inc, 2025)
+- [[2511.10962]] LEMUR: Large scale End-to-end MUltimodal Recommendation (Bytedance, 2025)
+- [[2511.20177]] Enhancing Sequential Recommendation with World Knowledge from Large Language Models (Alibaba-inc, 2025)
+- [[2511.21989]] Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation (Google, 2025)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

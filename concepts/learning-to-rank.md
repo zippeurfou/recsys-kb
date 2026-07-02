@@ -69,3 +69,10 @@ aliases:
   Transformer in Industrial Recommender (Bytedance, 2025)
 - [[2511.00530]] Listwise Preference Diffusion Optimization for User Behavior
   Trajectories Prediction (Adobe, 2025)
+- [[2511.13994]] Hint-Augmented Re-ranking: Efficient Product Search using LLM-Based Query Decomposition (Amazon, 2025)
+- [[2511.18013]] Save, Revisit, Retain: A Scalable Framework for Enhancing User Retention in Large-Scale Recommender Systems (Pinterest, 2025)
+- [[2511.18805]] STORE: Semantic Tokenization, Orthogonal Rotation and Efficient Attention for Scaling Up Ranking Models (Alibaba-inc, 2025)
+- [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
+- [[2511.22460]] An Efficient Embedding Based Ad Retrieval with GPU-Powered Feature Interaction (Tencent, 2025)
+- [[2511.23312]] Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation? (Spotify, 2025)
+- [[2512.04009]] Learning to Comparison-Shop (Airbnb, 2025)

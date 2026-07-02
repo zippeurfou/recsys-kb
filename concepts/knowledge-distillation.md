@@ -51,3 +51,11 @@ aliases:
 - [[2510.20150]] Rank-GRPO: Training LLM-based Conversational Recommender Systems with
   Reinforcement Learning (Netflix, 2025)
 - [[2510.23077]] Think before Recommendation: Autonomous Reasoning-enhanced Recommender (Alibaba-inc, 2025)
+- [[2511.13415]] Attention Grounded Enhancement for Visual Document Retrieval (Taobao, 2025)
+- [[2511.19514]] SCoTER: Structured Chain-of-Thought Transfer for Enhanced Recommendation (Tencent, 2025)
+- [[2512.02555]] ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce (Jd, 2025)
+- [[2512.03025]] LORE: A Large Generative Model for Search Relevance (Alibaba-inc, 2025)
+- [[2512.03579]] Optimal Transportation and Alignment Between Gaussian Measures (Amazon, 2025)
+- [[2512.06239]] LOCUS: A System and Method for Low-Cost Customization for Universal Specialization (Microsoft, 2025)
+- [[2512.06464]] Modeling Contextual Passage Utility for Multihop Question Answering (Adobe, 2025)
+- [[2512.13074]] A Simple and Effective Framework for Symmetric Consistent Indexing in Large-Scale Dense Retrieval (Jd, 2025)

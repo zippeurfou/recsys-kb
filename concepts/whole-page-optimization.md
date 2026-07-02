@@ -22,4 +22,5 @@ aliases:
   Recommendation Systems (Meituan, 2025)
 - [[2505.07197]] A Generative Re-ranking Model for List-level Multi-objective
   Optimization at Taobao (Taobao, 2025)
+- [[2511.21394]] RIA: A Ranking-Infused Approach for Optimized listwise CTR Prediction (Meituan, 2025)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

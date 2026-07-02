@@ -61,4 +61,12 @@ aliases:
   Recommendation Systems (Meta, 2025)
 - [[2510.09857]] MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight
   Ranking at Pinterest (Pinterest, 2025)
+- [[2511.13112]] F.A.C.U.L.: Language-Based Interaction with AI Companions in Gaming (Tencent, 2025)
+- [[2511.15145]] Auden-Voice: General-Purpose Voice Encoder for Speech and Language Understanding (Tencent, 2025)
+- [[2511.18013]] Save, Revisit, Retain: A Scalable Framework for Enhancing User Retention in Large-Scale Recommender Systems (Pinterest, 2025)
+- [[2511.22367]] SuRe: Surprise-Driven Prioritised Replay for Continual LLM Learning (Huawei, 2025)
+- [[2512.00940]] Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks (Microsoft, 2025)
+- [[2512.06381]] Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework (Alibaba-inc, 2025)
+- [[2512.13300]] No One Left Behind: How to Exploit the Incomplete and Skewed Multi-Label Data for Conversion Rate Prediction (Huawei, 2025)
+- [[2512.13396]] Automated Information Flow Selection for Multi-scenario Multi-task Recommendation (Tencent, 2025)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
