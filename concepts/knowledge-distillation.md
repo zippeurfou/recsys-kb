@@ -80,3 +80,7 @@ aliases:
 - [[2602.23620]] Synthetic Data Powers Product Retrieval for Long-tail Knowledge-Intensive Queries in E-commerce Search (Alibaba-inc, 2026)
 - [[2603.00947]] \textsc{Mobile-VTON}: High-Fidelity On-Device Virtual Try-On (Google, 2026)
 - [[2603.01471]] Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (Baidu, 2026)
+- [[2603.09181]] Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft Database Tuning Advisor (Microsoft, 2026)
+- [[2603.19665]] GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce (Jd, 2026)
+- [[2603.26556]] When Perplexity Lies: Generation-Focused Distillation of Hybrid Sequence Models (Huawei, 2026)
+- [[2604.06070]] Short Data, Long Context: Distilling Positional Knowledge in Transformers (Meta, 2026)

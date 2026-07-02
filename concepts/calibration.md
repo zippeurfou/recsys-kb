@@ -30,3 +30,6 @@ aliases:
 - [[2602.20676]] PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization (Taobao, 2026)
 - [[2603.00801]] The Synthetic Web: Adversarially-Curated Mini-Internets for Diagnosing Epistemic Weaknesses of Language Agents (Microsoft, 2026)
 - [[2603.05167]] C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning (Microsoft, 2026)
+- [[2603.10369]] Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems (Linkedin, 2026)
+- [[2603.26100]] Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems (Alibaba-inc, 2026)
+- [[2604.01036]] Aligning Recommendations with User Popularity Preferences (Amazon, 2026)

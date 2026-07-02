@@ -95,3 +95,7 @@ aliases:
 - [[2602.23234]] Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments (Apple, 2026)
 - [[2602.23717]] Recommending Search Filters To Improve Conversions At Airbnb (Airbnb, 2026)
 - [[2603.04169]] Efficient Query Rewrite Rule Discovery via Standardized Enumeration and Learning-to-Rank (Tencent, 2026)
+- [[2603.11525]] MDS-VQA: Model-Informed Data Selection for Video Quality Assessment (Google, 2026)
+- [[2603.19665]] GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce (Jd, 2026)
+- [[2603.22455]] SkillRouter: Retrieve-and-Rerank Skill Selection for LLM Agents at Scale (Alibaba-inc, 2026)
+- [[2604.02472]] VALOR: Value-Aware Revenue Uplift Modeling with Treatment-Gated Representation for B2B Sales (Google, 2026)

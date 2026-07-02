@@ -80,3 +80,6 @@ aliases:
 - [[2602.12354]] An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking (Linkedin, 2026)
 - [[2602.15005]] Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation (Microsoft, 2026)
 - [[2602.17058]] A Long-term Value Prediction Framework In Video Ranking (Alibaba-inc, 2026)
+- [[2603.11927]] CogSearch: A Cognitive-Aligned Multi-Agent Framework for Proactive Decision Support in E-Commerce Search (Jd, 2026)
+- [[2603.12578]] Bridging Sequential and Contextual Features with a Dual-View of Fine-grained Core-Behaviors and Global Interest-Distribution (Alibaba-inc, 2026)
+- [[2603.22916]] GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation (Alibaba-inc, 2026)

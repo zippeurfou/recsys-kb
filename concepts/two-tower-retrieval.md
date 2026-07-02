@@ -77,3 +77,5 @@ aliases:
 - [[2602.17654]] Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval (Doordash, 2026)
 - [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)
 - [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)
+- [[2603.24963]] Design Once, Deploy at Scale: Template-Driven ML Development for Large Model Ecosystems (Meta, 2026)
+- [[2603.25891]] Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods (Huawei, 2026)

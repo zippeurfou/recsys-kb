@@ -17,4 +17,5 @@ aliases:
 - [[2602.12485]] Latent Customer Segmentation and Value-Based Recommendation Leveraging a Two-Stage Model with Missing Labels (Walmart, 2026)
 - [[2602.18640]] Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System (Meta, 2026)
 - [[2602.20383]] Detecting and Mitigating Group Bias in Heterogeneous Treatment Effects (Spotify, 2026)
+- [[2604.02472]] VALOR: Value-Aware Revenue Uplift Modeling with Treatment-Gated Representation for B2B Sales (Google, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)

@@ -42,6 +42,7 @@ aliases:
 - [[2602.10606]] S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage (Tencent, 2026)
 - [[2602.10699]] Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation (Tencent, 2026)
 - [[2602.15005]] Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation (Microsoft, 2026)
+- [[2603.19710]] AIGQ: An End-to-End Hybrid Generative Architecture for E-commerce Query Recommendation (Taobao, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
 - [[2606.31612]] What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States (Alibaba-inc, 2026)
