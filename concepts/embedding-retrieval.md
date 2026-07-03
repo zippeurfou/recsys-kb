@@ -131,6 +131,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2602.23999]] GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index Build and Search (Nvidia, 2026)
 - [[2603.01486]] Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study (Doordash, 2026)
 - [[2603.03544]] PinCLIP: Large-scale Foundational Multimodal Representation at Pinterest (Pinterest, 2026)
+- [[2603.06586]] Scaling Multilingual Semantic Search in Uber Eats Delivery (Uber, 2026)
 - [[2603.10409]] Differentiable Geometric Indexing for End-to-End Generative Retrieval (Alibaba-inc, 2026)
 - [[2603.12396]] Test-Time Strategies for More Efficient and Accurate Agentic RAG (Adobe, 2026)
 - [[2603.17168]] HierarchicalKV: A GPU Hash Table with Cache Semantics for Continuous Online Embedding Storage (Nvidia, 2026)

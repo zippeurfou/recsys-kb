@@ -66,6 +66,7 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2602.10226]] Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents (Google, 2026)
 - [[2602.20383]] Detecting and Mitigating Group Bias in Heterogeneous Treatment Effects (Spotify, 2026)
 - [[2602.23717]] Recommending Search Filters To Improve Conversions At Airbnb (Airbnb, 2026)
+- [[2603.06586]] Scaling Multilingual Semantic Search in Uber Eats Delivery (Uber, 2026)
 - [[2603.11927]] CogSearch: A Cognitive-Aligned Multi-Agent Framework for Proactive Decision Support in E-Commerce Search (Jd, 2026)
 - [[2603.15262]] Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search (Jd, 2026)
 - [[2603.17540]] Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify (Spotify, 2026)

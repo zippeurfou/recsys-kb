@@ -81,6 +81,7 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2602.17654]] Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval (Doordash, 2026)
 - [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)
 - [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)
+- [[2603.06586]] Scaling Multilingual Semantic Search in Uber Eats Delivery (Uber, 2026)
 - [[2603.24963]] Design Once, Deploy at Scale: Template-Driven ML Development for Large Model Ecosystems (Meta, 2026)
 - [[2603.25891]] Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods (Huawei, 2026)
 - [[2604.07930]] Unified Supervision for Walmarts Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling (Walmart, 2026)

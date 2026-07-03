@@ -82,6 +82,7 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2603.01471]] Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (Baidu, 2026)
 - [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)
 - [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)
+- [[2603.06586]] Scaling Multilingual Semantic Search in Uber Eats Delivery (Uber, 2026)
 - [[2603.08648]] CAST: Modeling Visual State Transitions for Consistent Video Retrieval (Google, 2026)
 - [[2603.16455]] Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval (Alibaba-inc, 2026)
 - [[2603.17205]] OPERA: Online Data Pruning for Efficient Retrieval Model Adaptation (Amazon, 2026)
