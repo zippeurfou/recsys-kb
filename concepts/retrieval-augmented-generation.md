@@ -20,10 +20,13 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2501.04167]] Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation (Google, 2025)
 - [[2501.11499]] KEIR @ ECIR 2025: The Second Workshop on Knowledge-Enhanced Information Retrieval (Google, 2025)
 - [[2501.15749]] LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System (Microsoft, 2025)
-- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
-  Recommender Systems (Reddit, 2025)
+- [[2502.09597]] Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs (Amazon, 2025)
+- [[2502.13826]] In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search (Microsoft, 2025)
+- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems (Netflix, 2025)
 - [[2502.15698]] Developing an Artificial Intelligence Tool for Personalized Breast
   Cancer Treatment Plans based on the NCCN Guidelines (Microsoft, 2025)
+- [[2502.15990]] Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search (Walmart, 2025)
+- [[2504.05309]] IterQR: An Iterative Framework for LLM-based Query Rewrite in e-Commercial Search System (Meituan, 2025)
 - [[2504.10489]] Roamify: Designing and Evaluating an LLM Based Google Chrome Extension
   for Personalised Itinerary Planning (Google, 2025)
 - [[2505.20773]] Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented
@@ -146,4 +149,3 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2606.25361]] Memory Makes the Difference: Evaluating How Different Memory Roles Shape Conversational Agents (Microsoft, 2026)
 - [[2606.25632]] Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents (Alibaba-inc, 2026)
 - [[2606.25656]] Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization (Amazon, 2026)
-- [[2606.28070]] JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications (Jd, 2026)

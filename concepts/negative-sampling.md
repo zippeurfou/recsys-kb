@@ -29,8 +29,9 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
 - [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
 - [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
-- [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
-  Recommendation Systems (Jd, 2025)
+- [[2502.08161]] MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation (Tencent, 2025)
+- [[2502.16239]] Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling (Huawei, 2025)
+- [[2502.17957]] On Synthetic Data Strategies for Domain-Specific Generative Retrieval (Amazon, 2025)
 - [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)
@@ -109,7 +110,6 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2606.10388]] SkillResolve-Bench: Measuring and Resolving Same-Capability Ambiguity in Agent Skill Retrieval (Huawei, 2026)
 - [[2606.14127]] CoRe: A Continuously Reward-Finetuned LLM Query Rewriter for Multi-Stage Context-Aware Relevance in Web-Scale Video Search (Bytedance, 2026)
 - [[2606.17664]] Temporal Preference Optimization for Unsupervised Retrieval (Microsoft, 2026)
-- [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
 - [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)
 - [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)

@@ -39,6 +39,10 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
 - [[2501.18126]] HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback (Meta, 2025)
 - [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)
+- [[2502.05924]] Multi-Branch Collaborative Learning Network for Video Quality Assessment in Industrial Video Search (Baidu, 2025)
+- [[2502.10514]] Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace (Doordash, 2025)
+- [[2502.19628]] PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems (Amazon, 2025)
+- [[2502.21195]] Joint Modeling in Recommendations: A Survey (Huawei, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and
   Narratives (Amazon, 2025)
 - [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)

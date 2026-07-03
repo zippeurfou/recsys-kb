@@ -49,18 +49,28 @@ Recommending for new users or items that have little or no interaction history.
 - [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
 - [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
 - [[2501.16450]] 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation (Linkedin, 2025)
-- [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior
-  Modeling (Taobao, 2025)
+- [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling (Alibaba-inc, 2025)
+- [[2502.01555]] Query Brand Entity Linking in E-Commerce Search (Amazon, 2025)
+- [[2502.02061]] Reason4Rec: Large Language Models for Recommendation with Deliberative User Preference Alignment (Meta, 2025)
+- [[2502.03375]] Interactive Visualization Recommendation with Hier-SUCB (Adobe, 2025)
 - [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
   Fusion (Meta, 2025)
-- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
-  Recommender Systems (Reddit, 2025)
+- [[2502.07303]] Flow Matching for Collaborative Filtering (Google, 2025)
+- [[2502.07658]] IU4Rec: Interest Unit-Based Product Organization and Recommendation for E-Commerce Platform (Alibaba-inc, 2025)
+- [[2502.08161]] MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation (Tencent, 2025)
+- [[2502.09089]] Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains (Walmart, 2025)
+- [[2502.09597]] Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs (Amazon, 2025)
+- [[2502.10833]] Order-agnostic Identifier for Large Language Model-based Generative Recommendation (Meta, 2025)
+- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems (Netflix, 2025)
+- [[2502.15119]] CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models (Google, 2025)
 - [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
+- [[2502.15990]] Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search (Walmart, 2025)
 - [[2502.16924]] FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start
   Recommendation (Alibaba, 2025)
 - [[2502.18527]] GOD model: Privacy Preserved AI School for Personal Assistant (Meta, Apple, 2025)
 - [[2502.18754]] AgentSociety Challenge: Designing LLM Agents for User Modeling and
   Recommendation on Web Platforms (Amazon, 2025)
+- [[2502.19628]] PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems (Amazon, 2025)
 - [[2503.22049]] HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next
   POI Recommendation (Meta, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems
@@ -185,4 +195,5 @@ Recommending for new users or items that have little or no interaction history.
 - [[2606.19627]] VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions (Zalando, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
 - [[2606.25237]] Extreme Meta-Classification for Large-Scale Zero-Shot Retrieval (Microsoft, 2026)
+- [[2606.28357]] ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation (Meta, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)

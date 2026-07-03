@@ -62,16 +62,22 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
 - [[2501.15087]] Multi-Grained Patch Training for Efficient LLM-based Recommendation (Tencent, 2025)
 - [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
+- [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling (Alibaba-inc, 2025)
 - [[2502.02854]] TD3: Tucker Decomposition Based Dataset Distillation Method for
   Sequential Recommendation (Meta, 2025)
-- [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction
-  Enhanced Transformer (Huawei, 2025)
-- [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in
-  Recommenders (Bytedance, 2025)
-- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
-  Recommendation (Meituan, 2025)
-- [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative
-  Recommendation (Google, 2025)
+- [[2502.02975]] TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics (Huawei, 2025)
+- [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction Enhanced Transformer (Huawei, 2025)
+- [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders (Bytedance, 2025)
+- [[2502.05558]] Large Memory Network for Recommendation (Bytedance, 2025)
+- [[2502.06269]] UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration (Huawei, 2025)
+- [[2502.08309]] Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model (Alibaba-inc, 2025)
+- [[2502.09027]] A Contextual-Aware Position Encoding for Sequential Recommendation (Huawei, 2025)
+- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation (Meituan, 2025)
+- [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate Prediction (Tencent, 2025)
+- [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation (Google, 2025)
+- [[2502.13783]] Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation (Huawei, 2025)
+- [[2502.14735]] EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration (Huawei, 2025)
+- [[2502.19628]] PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems (Amazon, 2025)
 - [[2503.00608]] Real-Time Personalization with Simple Transformers (Spotify, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and
   Narratives (Amazon, 2025)
@@ -255,6 +261,7 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
 - [[2606.15331]] HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation (Jd, 2026)
 - [[2606.19108]] JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling (Airbnb, 2026)
-- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)
+- [[2606.28357]] ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation (Meta, 2026)
+- [[2606.28533]] CMSL: Constructive Multi-Sequence Learning for Recommendation Systems (Meta, 2026)

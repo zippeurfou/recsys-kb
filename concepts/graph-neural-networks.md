@@ -32,8 +32,13 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2501.11870]] Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation (Meta, 2025)
 - [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
 - [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
+- [[2502.02975]] TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics (Huawei, 2025)
 - [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
   Fusion (Meta, 2025)
+- [[2502.08161]] MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation (Tencent, 2025)
+- [[2502.09058]] Unleashing the Power of Large Language Model for Denoising Recommendation (Tencent, 2025)
+- [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations (Baidu, 2025)
+- [[2502.13481]] LLM4Tag: Automatic Tagging System for Information Retrieval via Large Language Models (Huawei, 2025)
 - [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16068]] Joint Similarity Item Exploration and Overlapped User Guidance for
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)

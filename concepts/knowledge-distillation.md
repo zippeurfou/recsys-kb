@@ -28,8 +28,12 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2501.06394]] Unispeaker: A Unified Approach for Multimodality-driven Speaker Generation (Alibaba-inc, 2025)
 - [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
 - [[2501.15087]] Multi-Grained Patch Training for Efficient LLM-based Recommendation (Tencent, 2025)
+- [[2502.06269]] UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration (Huawei, 2025)
+- [[2502.06834]] A Unified Knowledge-Distillation and Semi-Supervised Learning Framework to Improve Industrial Ads Delivery Systems (Meta, 2025)
 - [[2502.13539]] Bursting Filter Bubble: Enhancing Serendipity Recommendations with
   Aligned Large Language Models (Taobao, 2025)
+- [[2502.14305]] Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems (Linkedin, 2025)
+- [[2502.14735]] EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration (Huawei, 2025)
 - [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16924]] FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start
   Recommendation (Alibaba, 2025)
@@ -123,4 +127,3 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2606.24747]] Scaling Laws for Task-Specific LLM Distillation (Nvidia, 2026)
 - [[2606.25871]] AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search (Walmart, 2026)
 - [[2606.27743]] End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference (Meta, 2026)
-- [[2606.28070]] JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications (Jd, 2026)

@@ -28,17 +28,23 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
 - [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
 - [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
-- [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction
-  Enhanced Transformer (Huawei, 2025)
+- [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction Enhanced Transformer (Huawei, 2025)
 - [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)
-- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
-  Recommendation (Meituan, 2025)
-- [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative
-  Recommendation (Google, 2025)
+- [[2502.06097]] NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems (Meituan, 2025)
+- [[2502.06269]] UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration (Huawei, 2025)
+- [[2502.07303]] Flow Matching for Collaborative Filtering (Google, 2025)
+- [[2502.08309]] Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model (Alibaba-inc, 2025)
+- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation (Meituan, 2025)
+- [[2502.10833]] Order-agnostic Identifier for Large Language Model-based Generative Recommendation (Meta, 2025)
+- [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation (Google, 2025)
+- [[2502.13783]] Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation (Huawei, 2025)
+- [[2502.14735]] EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration (Huawei, 2025)
+- [[2502.17957]] On Synthetic Data Strategies for Domain-Specific Generative Retrieval (Amazon, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and
   Narratives (Amazon, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems
   with Semantic ID (Meta, 2025)
+- [[2504.05321]] VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search (Alibaba-inc, 2025)
 - [[2504.07363]] Towards Distribution Matching between Collaborative and Language Spaces
   for Generative Recommendation (Meta, 2025)
 - [[2504.10507]] PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems (Pinterest, 2025)

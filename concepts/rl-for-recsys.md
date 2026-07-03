@@ -29,7 +29,12 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
   Advertisement Recommender System (Wechat, 2024)
 - [[2501.05591]] Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning (Meta, 2025)
 - [[2501.07761]] Impatient Bandits: Optimizing for the Long-Term Without Delay (Spotify, 2025)
+- [[2502.02061]] Reason4Rec: Large Language Models for Recommendation with Deliberative User Preference Alignment (Meta, 2025)
+- [[2502.03375]] Interactive Visualization Recommendation with Hier-SUCB (Adobe, 2025)
+- [[2502.06823]] CTR-Driven Advertising Image Generation with Multimodal Large Language Models (Jd, 2025)
+- [[2502.07307]] CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry (Huawei, 2025)
 - [[2502.21304]] Clustering Context in Off-Policy Evaluation (Amazon, 2025)
+- [[2504.05321]] VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search (Alibaba-inc, 2025)
 - [[2505.03336]] Avoid Recommending Out-of-Domain Items: Constrained Generative
   Recommendation with LLMs (Microsoft, 2025)
 - [[2506.05069]] Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance

@@ -25,6 +25,9 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
 - [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
 - [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
+- [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction Enhanced Transformer (Huawei, 2025)
+- [[2502.13783]] Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation (Huawei, 2025)
+- [[2502.15355]] A Universal Framework for Compressing Embeddings in CTR Prediction (Huawei, 2025)
 - [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
   Rate Prediction (Pinterest, 2025)
 - [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware

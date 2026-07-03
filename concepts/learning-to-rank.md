@@ -34,8 +34,15 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2501.07294]] Dataset-Agnostic Recommender Systems (Huawei, 2025)
 - [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
 - [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
-- [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
-  Recommendation Systems (Jd, 2025)
+- [[2502.05924]] Multi-Branch Collaborative Learning Network for Video Quality Assessment in Industrial Video Search (Baidu, 2025)
+- [[2502.06097]] NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems (Meituan, 2025)
+- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation (Meituan, 2025)
+- [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems (Jd, 2025)
+- [[2502.11414]] Unbiased Learning to Rank with Query-Level Click Propensity Estimation: Beyond Pointwise Observation and Relevance (Baidu, 2025)
+- [[2502.13908]] Judging the Judges: A Collection of LLM-Generated Relevance Judgements (Microsoft, 2025)
+- [[2502.14305]] Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems (Linkedin, 2025)
+- [[2502.16040]] Inference Computation Scaling for Feature Augmentation in Recommendation Systems (Huawei, 2025)
+- [[2502.18478]] Beyond Self-Consistency: Loss-Balanced Perturbation-Based Regularization Improves Industrial-Scale Ads Ranking (Meta, 2025)
 - [[2503.07823]] Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender
   Systems Papers Based on Message Passing (Amazon, 2025)
 - [[2504.03965]] Automating Personalization: Prompt Optimization for Recommendation

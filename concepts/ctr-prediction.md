@@ -55,16 +55,26 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
 - [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
 - [[2501.18126]] HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback (Meta, 2025)
-- [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior
-  Modeling (Taobao, 2025)
-- [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in
-  Recommenders (Bytedance, 2025)
-- [[2502.06097]] NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized
-  Recommendation Systems (Meituan, 2025)
-- [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate
-  Prediction (Wechat, 2025)
+- [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling (Alibaba-inc, 2025)
+- [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders (Bytedance, 2025)
+- [[2502.05558]] Large Memory Network for Recommendation (Bytedance, 2025)
+- [[2502.06823]] CTR-Driven Advertising Image Generation with Multimodal Large Language Models (Jd, 2025)
+- [[2502.06834]] A Unified Knowledge-Distillation and Semi-Supervised Learning Framework to Improve Industrial Ads Delivery Systems (Meta, 2025)
+- [[2502.07658]] IU4Rec: Interest Unit-Based Product Organization and Recommendation for E-Commerce Platform (Alibaba-inc, 2025)
+- [[2502.08309]] Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model (Alibaba-inc, 2025)
+- [[2502.09027]] A Contextual-Aware Position Encoding for Sequential Recommendation (Huawei, 2025)
+- [[2502.09089]] Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains (Walmart, 2025)
+- [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems (Jd, 2025)
+- [[2502.10514]] Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace (Doordash, 2025)
+- [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate Prediction (Tencent, 2025)
+- [[2502.15355]] A Universal Framework for Compressing Embeddings in CTR Prediction (Huawei, 2025)
+- [[2502.15990]] Automated Query-Product Relevance Labeling using Large Language Models for E-commerce Search (Walmart, 2025)
+- [[2502.16040]] Inference Computation Scaling for Feature Augmentation in Recommendation Systems (Huawei, 2025)
+- [[2502.18478]] Beyond Self-Consistency: Loss-Balanced Perturbation-Based Regularization Improves Industrial-Scale Ads Ranking (Meta, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems
   with Semantic ID (Meta, 2025)
+- [[2504.05309]] IterQR: An Iterative Framework for LLM-based Query Rewrite in e-Commercial Search System (Meituan, 2025)
+- [[2504.05321]] VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search (Alibaba-inc, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)
 - [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
@@ -237,8 +247,12 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
 - [[2606.15911]] Interactor: Agentic RL oriented Iterative Creation for Ad Description Generation in Sponsored Search (Baidu, 2026)
-- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
+- [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)
+- [[2606.28070]] JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications (Jd, 2026)
+- [[2606.28357]] ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation (Meta, 2026)
+- [[2606.28368]] EvoRec: Self Evolving Agentic Recommender Systems (Taobao, Alibaba-inc, 2026)
+- [[2606.28533]] CMSL: Constructive Multi-Sequence Learning for Recommendation Systems (Meta, 2026)
 - [[2607.00280]] Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example (Airbnb, 2026)
 - [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

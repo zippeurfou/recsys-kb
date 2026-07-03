@@ -30,10 +30,12 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
 - [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
 - [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
-- [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in
-  Recommenders (Bytedance, 2025)
-- [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate
-  Prediction (Wechat, 2025)
+- [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders (Bytedance, 2025)
+- [[2502.05558]] Large Memory Network for Recommendation (Bytedance, 2025)
+- [[2502.07658]] IU4Rec: Interest Unit-Based Product Organization and Recommendation for E-Commerce Platform (Alibaba-inc, 2025)
+- [[2502.09027]] A Contextual-Aware Position Encoding for Sequential Recommendation (Huawei, 2025)
+- [[2502.10514]] Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace (Doordash, 2025)
+- [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate Prediction (Tencent, 2025)
 - [[2503.22049]] HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next
   POI Recommendation (Meta, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems
@@ -98,5 +100,4 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2605.25726]] SIREN: Unified Multi-Granularity Semantic Interaction for Multi-Modal Lifelong User Interest Modeling (Tencent, 2026)
 - [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
-- [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)

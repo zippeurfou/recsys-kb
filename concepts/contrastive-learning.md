@@ -29,11 +29,15 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
 - [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
 - [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
+- [[2502.02885]] Expertized Caption Auto-Enhancement for Video-Text Retrieval (Tencent, 2025)
 - [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
   Fusion (Meta, 2025)
-- [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
-  Recommendation Systems (Jd, 2025)
+- [[2502.08161]] MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation (Tencent, 2025)
+- [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems (Jd, 2025)
+- [[2502.15355]] A Universal Framework for Compressing Embeddings in CTR Prediction (Huawei, 2025)
 - [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
+- [[2502.16239]] Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling (Huawei, 2025)
+- [[2502.18478]] Beyond Self-Consistency: Loss-Balanced Perturbation-Based Regularization Improves Industrial-Scale Ads Ranking (Meta, 2025)
 - [[2504.05694]] Large Language Models Enhanced Hyperbolic Space Recommender Systems (Meta, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)

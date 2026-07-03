@@ -14,6 +14,11 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 ## Papers
 
 - [[2501.14103]] Personalized Interpolation: Achieving Efficient Conversion Estimation with Flexible Optimization Windows (Meta, 2025)
+- [[2502.06834]] A Unified Knowledge-Distillation and Semi-Supervised Learning Framework to Improve Industrial Ads Delivery Systems (Meta, 2025)
+- [[2502.08309]] Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model (Alibaba-inc, 2025)
+- [[2502.10514]] Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace (Doordash, 2025)
+- [[2502.13481]] LLM4Tag: Automatic Tagging System for Information Retrieval via Large Language Models (Huawei, 2025)
+- [[2502.18478]] Beyond Self-Consistency: Loss-Balanced Perturbation-Based Regularization Improves Industrial-Scale Ads Ranking (Meta, 2025)
 - [[2505.13881]] TranSUN: A Preemptive Paradigm to Eradicate Retransformation Bias
   Intrinsically from Regression Models in Recommender Systems (Taobao, 2025)
 - [[2507.09423]] Item-centric Exploration for Cold Start Problem (Google, 2025)
@@ -37,6 +42,7 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2604.01036]] Aligning Recommendations with User Popularity Preferences (Amazon, 2026)
 - [[2604.12096]] LLM-HYPER: Generative CTR Modeling for Cold-Start Ad Personalization via LLM-Based Hypernetworks (Walmart, 2026)
 - [[2604.24717]] Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling (Linkedin, 2026)
+- [[2605.15688]] $α$-TCAV: A Unified Framework for Testing with Concept Activation Vectors (Huawei, 2026)
 - [[2605.17788]] Uncertainty-Calibrated Recommendations for Low-Active Users (Bytedance, 2026)
 - [[2606.17312]] Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty (Amazon, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)

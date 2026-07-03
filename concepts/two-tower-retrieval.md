@@ -24,10 +24,8 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
 - [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
 - [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
-- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
-  Recommendation (Meituan, 2025)
-- [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale
-  Recommendations (Baidu, 2025)
+- [[2502.06834]] A Unified Knowledge-Distillation and Semi-Supervised Learning Framework to Improve Industrial Ads Delivery Systems (Meta, 2025)
+- [[2502.09089]] Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains (Walmart, 2025)
 - [[2503.00619]] PinLanding: Content-First Keyword Landing Page Generation via
   Multi-Modal AI for Web-Scale Discovery (Pinterest, 2025)
 - [[2503.16661]] ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning
@@ -100,4 +98,5 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2606.23889]] INSPIRE: Intent-aware Neural Sponsored Product Retrieval for E-commerce (Walmart, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
 - [[2606.25237]] Extreme Meta-Classification for Large-Scale Zero-Shot Retrieval (Microsoft, 2026)
+- [[2606.28533]] CMSL: Constructive Multi-Sequence Learning for Recommendation Systems (Meta, 2026)
 - [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

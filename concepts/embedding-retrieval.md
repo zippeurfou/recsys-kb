@@ -39,10 +39,11 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2501.11499]] KEIR @ ECIR 2025: The Second Workshop on Knowledge-Enhanced Information Retrieval (Google, 2025)
 - [[2501.13344]] Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2025)
 - [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
-- [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
-  Recommendation (Meituan, 2025)
-- [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale
-  Recommendations (Baidu, 2025)
+- [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)
+- [[2502.06269]] UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration (Huawei, 2025)
+- [[2502.09089]] Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains (Walmart, 2025)
+- [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations (Baidu, 2025)
+- [[2502.13826]] In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search (Microsoft, 2025)
 - [[2502.16924]] FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start
   Recommendation (Alibaba, 2025)
 - [[2503.00608]] Real-Time Personalization with Simple Transformers (Spotify, 2025)

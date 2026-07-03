@@ -30,8 +30,11 @@ Discrete, hierarchical item identifiers learned by quantizing item embeddings (e
 - [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
 - [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
 - [[2501.15087]] Multi-Grained Patch Training for Efficient LLM-based Recommendation (Tencent, 2025)
-- [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative
-  Recommendation (Google, 2025)
+- [[2502.06269]] UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration (Huawei, 2025)
+- [[2502.10833]] Order-agnostic Identifier for Large Language Model-based Generative Recommendation (Meta, 2025)
+- [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation (Google, 2025)
+- [[2502.14735]] EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration (Huawei, 2025)
+- [[2502.15355]] A Universal Framework for Compressing Embeddings in CTR Prediction (Huawei, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems
   with Semantic ID (Meta, 2025)
 - [[2505.03336]] Avoid Recommending Out-of-Domain Items: Constrained Generative

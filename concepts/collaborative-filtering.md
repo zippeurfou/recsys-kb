@@ -43,8 +43,15 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2501.13344]] Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2025)
 - [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
 - [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
-- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
-  Recommender Systems (Reddit, 2025)
+- [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior Modeling (Alibaba-inc, 2025)
+- [[2502.02975]] TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics (Huawei, 2025)
+- [[2502.06269]] UNGER: Generative Recommendation with A Unified Code via Semantic and Collaborative Integration (Huawei, 2025)
+- [[2502.07303]] Flow Matching for Collaborative Filtering (Google, 2025)
+- [[2502.08161]] MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation (Tencent, 2025)
+- [[2502.09058]] Unleashing the Power of Large Language Model for Denoising Recommendation (Tencent, 2025)
+- [[2502.10833]] Order-agnostic Identifier for Large Language Model-based Generative Recommendation (Meta, 2025)
+- [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems (Netflix, 2025)
+- [[2502.14735]] EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration (Huawei, 2025)
 - [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16068]] Joint Similarity Item Exploration and Overlapped User Guidance for
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)
