@@ -186,6 +186,7 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2602.21009]] HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders (Taobao, 2026)
 - [[2603.00980]] Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations (Huawei, 2026)
 - [[2603.03770]] Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems (Bytedance, 2026)
+- [[2603.06586]] Scaling Multilingual Semantic Search in Uber Eats Delivery (Uber, 2026)
 - [[2603.12578]] Bridging Sequential and Contextual Features with a Dual-View of Fine-grained Core-Behaviors and Global Interest-Distribution (Alibaba-inc, 2026)
 - [[2603.12586]] Deferred is Better: A Framework for Multi-Granularity Deferred Interaction of Heterogeneous Features (Alibaba-inc, 2026)
 - [[2603.15262]] Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search (Jd, 2026)

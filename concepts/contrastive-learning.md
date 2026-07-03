@@ -87,6 +87,7 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2602.15381]] Automatic Funny Scene Extraction from Long-form Cinematic Videos (Amazon, 2026)
 - [[2603.01471]] Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality (Baidu, 2026)
 - [[2603.03544]] PinCLIP: Large-scale Foundational Multimodal Representation at Pinterest (Pinterest, 2026)
+- [[2603.06586]] Scaling Multilingual Semantic Search in Uber Eats Delivery (Uber, 2026)
 - [[2603.17326]] FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions (Huawei, 2026)
 - [[2603.20636]] A Modular LLM Framework for Explainable Price Outlier Detection (Amazon, 2026)
 - [[2603.21828]] CoRA: Boosting Time Series Foundation Models for Multivariate Forecasting through Correlation-aware Adapter (Huawei, 2026)
