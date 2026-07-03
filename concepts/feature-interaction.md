@@ -19,6 +19,12 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[1905.12480]] NRPA: Neural Recommendation with Personalized Attention (Microsoft, 2019)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
 - [[2412.01985]] Improving feature interactions at Pinterest under industry constraints (Pinterest, 2024)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
+- [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
+- [[2501.10546]] Scalable Machine Learning Training Infrastructure for Online Ads Recommendation and Auction Scoring Modeling at Google (Google, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
+- [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
 - [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
   Rate Prediction (Pinterest, 2025)
 - [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
@@ -53,3 +59,4 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2605.24989]] Selective Test-Time Compute Scaling for Click-Through Rate Prediction via Uncertainty-Triggered Feature Path Exploration (Alibaba-inc, 2026)
 - [[2605.25514]] From Item-Only to Query-Item: Query-Conditioned Generative Search with QGS in Quark (Alibaba-inc, 2026)
 - [[2606.04944]] Dual-Stream MLP is All You Need for CTR Prediction (Meituan, 2026)
+- [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)

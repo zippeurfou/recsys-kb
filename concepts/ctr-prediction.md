@@ -44,6 +44,17 @@ Predicting click-through (and conversion) probability for ranking -- central to 
   learning recommendation models (Linkedin, 2024)
 - [[2412.17245]] GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender
   Systems (Snap, 2024)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
+- [[2501.05591]] Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning (Meta, 2025)
+- [[2501.07294]] Dataset-Agnostic Recommender Systems (Huawei, 2025)
+- [[2501.10546]] Scalable Machine Learning Training Infrastructure for Online Ads Recommendation and Auction Scoring Modeling at Google (Google, 2025)
+- [[2501.13344]] Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2025)
+- [[2501.14103]] Personalized Interpolation: Achieving Efficient Conversion Estimation with Flexible Optimization Windows (Meta, 2025)
+- [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
+- [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
+- [[2501.18126]] HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback (Meta, 2025)
 - [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior
   Modeling (Taobao, 2025)
 - [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in
@@ -229,3 +240,5 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2606.19635]] Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models (Google, 2026)
 - [[2606.25147]] TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems (Google, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)
+- [[2607.00280]] Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example (Airbnb, 2026)
+- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

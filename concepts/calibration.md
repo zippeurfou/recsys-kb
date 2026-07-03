@@ -13,6 +13,7 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 
 ## Papers
 
+- [[2501.14103]] Personalized Interpolation: Achieving Efficient Conversion Estimation with Flexible Optimization Windows (Meta, 2025)
 - [[2505.13881]] TranSUN: A Preemptive Paradigm to Eradicate Retransformation Bias
   Intrinsically from Regression Models in Recommender Systems (Taobao, 2025)
 - [[2507.09423]] Item-centric Exploration for Cold Start Problem (Google, 2025)

@@ -18,6 +18,8 @@ Multi-turn dialog systems that elicit user preferences and recommend interactive
   Systems (Amazon, 2024)
 - [[2412.06949]] Bridging Conversational and Collaborative Signals for Conversational
   Recommendation (Reddit, 2024)
+- [[2501.09493]] Evaluating Conversational Recommender Systems via Large Language Models: A User-Centric Framework (Huawei, 2025)
+- [[2501.11499]] KEIR @ ECIR 2025: The Second Workshop on Knowledge-Enhanced Information Retrieval (Google, 2025)
 - [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
   Recommender Systems (Reddit, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and

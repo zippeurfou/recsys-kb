@@ -25,6 +25,7 @@ Optimizing an entire page/slate jointly (diversity, interactions, layout) rather
   Generation (Spotify, 2024)
 - [[2411.00395]] DivNet: Diversity-Aware Self-Correcting Sequential Recommendation
   Networks (Meta, 2024)
+- [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
 - [[2502.06097]] NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized
   Recommendation Systems (Meituan, 2025)
 - [[2505.07197]] A Generative Re-ranking Model for List-level Multi-objective

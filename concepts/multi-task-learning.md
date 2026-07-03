@@ -31,6 +31,13 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2412.01985]] Improving feature interactions at Pinterest under industry constraints (Pinterest, 2024)
 - [[2501.06985]] Graph Contrastive Learning on Multi-label Classification for
   Recommendations (Amazon, 2025)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
+- [[2501.14103]] Personalized Interpolation: Achieving Efficient Conversion Estimation with Flexible Optimization Windows (Meta, 2025)
+- [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
+- [[2501.18126]] HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback (Meta, 2025)
 - [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and
   Narratives (Amazon, 2025)

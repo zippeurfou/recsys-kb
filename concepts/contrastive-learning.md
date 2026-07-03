@@ -23,10 +23,17 @@ Self-supervised representation learning by contrasting positive against negative
   Meta-Learning (Meta, 2024)
 - [[2411.11508]] Collaborative Contrastive Network for Click-Through Rate Prediction (Taobao, 2024)
 - [[2412.18735]] Automatic Self-supervised Learning for Social Recommendations (Meta, 2024)
+- [[2501.03835]] TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2501.06394]] Unispeaker: A Unified Approach for Multimodality-driven Speaker Generation (Alibaba-inc, 2025)
+- [[2501.07365]] Multimodal semantic retrieval for product search (Amazon, 2025)
+- [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
 - [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
   Fusion (Meta, 2025)
 - [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
   Recommendation Systems (Jd, 2025)
+- [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2504.05694]] Large Language Models Enhanced Hyperbolic Space Recommender Systems (Meta, 2025)
 - [[2504.07110]] DashCLIP: Leveraging multimodal models for generating semantic
   embeddings for DoorDash (Doordash, 2025)
@@ -112,3 +119,4 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2606.13543]] NetCause: Counterfactual Learning for Root Cause Analysis in Large-Scale Networks (Amazon, 2026)
 - [[2606.13680]] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning (Meta, 2026)
 - [[2606.17664]] Temporal Preference Optimization for Unsupervised Retrieval (Microsoft, 2026)
+- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

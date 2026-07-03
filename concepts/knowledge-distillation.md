@@ -21,8 +21,16 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2411.00556]] LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language
   Models to Collaborative Filtering (Amazon, 2024)
 - [[2411.13700]] A Collaborative Ensemble Framework for CTR Prediction (Meta, 2024)
+- [[2501.01945]] Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap (Google, 2025)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
+- [[2501.04167]] Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation (Google, 2025)
+- [[2501.05591]] Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning (Meta, 2025)
+- [[2501.06394]] Unispeaker: A Unified Approach for Multimodality-driven Speaker Generation (Alibaba-inc, 2025)
+- [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
+- [[2501.15087]] Multi-Grained Patch Training for Efficient LLM-based Recommendation (Tencent, 2025)
 - [[2502.13539]] Bursting Filter Bubble: Enhancing Serendipity Recommendations with
   Aligned Large Language Models (Taobao, 2025)
+- [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16924]] FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start
   Recommendation (Alibaba, 2025)
 - [[2504.10107]] Enhancing LLM-based Recommendation through Semantic-Aligned

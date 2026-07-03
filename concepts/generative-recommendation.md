@@ -25,6 +25,9 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2411.18814]] Unifying Generative and Dense Retrieval for Sequential Recommendation (Meta, 2024)
 - [[2412.00714]] Scaling New Frontiers: Insights into Large Recommendation Models (Meta, 2024)
 - [[2412.08604]] Preference Discerning with LLM-Enhanced Generative Retrieval (Meta, 2024)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
+- [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
 - [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction
   Enhanced Transformer (Huawei, 2025)
 - [[2502.03041]] Large Language Model as Universal Retriever in Industrial-Scale Recommender System (Alibaba-inc, 2025)

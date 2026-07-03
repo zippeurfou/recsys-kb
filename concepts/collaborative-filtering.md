@@ -39,8 +39,13 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
   Models to Collaborative Filtering (Amazon, 2024)
 - [[2412.06949]] Bridging Conversational and Collaborative Signals for Conversational
   Recommendation (Reddit, 2024)
+- [[2501.01945]] Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap (Google, 2025)
+- [[2501.13344]] Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2025)
+- [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
+- [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
 - [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
   Recommender Systems (Reddit, 2025)
+- [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16068]] Joint Similarity Item Exploration and Overlapped User Guidance for
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)
 - [[2503.01305]] HI-Series Algorithms A Hybrid of Substance Diffusion Algorithm and
@@ -101,3 +106,4 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2602.23964]] RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce (Jd, 2026)
 - [[2604.26760]] Factorized Latent Reasoning for LLM-based Recommendation (Meituan, 2026)
 - [[2605.07125]] An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation (Airbnb, 2026)
+- [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)

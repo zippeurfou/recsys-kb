@@ -27,6 +27,9 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2411.14713]] LIBER: Lifelong User Behavior Modeling Based on Large Language Models (Huawei, 2024)
 - [[2412.06924]] Efficient user history modeling with amortized inference for deep
   learning recommendation models (Linkedin, 2024)
+- [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
+- [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
 - [[2502.05523]] Adaptive Domain Scaling for Personalized Sequential Modeling in
   Recommenders (Bytedance, 2025)
 - [[2502.12634]] Context-Aware Lifelong Sequential Modeling for Online Click-Through Rate

@@ -31,6 +31,14 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2412.06069]] Fuzzy Norm-Explicit Product Quantization for Recommender Systems (Netflix, 2024)
 - [[2412.17245]] GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender
   Systems (Snap, 2024)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
+- [[2501.03835]] TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2501.07365]] Multimodal semantic retrieval for product search (Amazon, 2025)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
+- [[2501.11499]] KEIR @ ECIR 2025: The Second Workshop on Knowledge-Enhanced Information Retrieval (Google, 2025)
+- [[2501.13344]] Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2025)
+- [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
 - [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
   Recommendation (Meituan, 2025)
 - [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale
@@ -185,3 +193,4 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2606.25237]] Extreme Meta-Classification for Large-Scale Zero-Shot Retrieval (Microsoft, 2026)
 - [[2606.27291]] Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search (Linkedin, 2026)
 - [[2606.29968]] CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search (Tencent, 2026)
+- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

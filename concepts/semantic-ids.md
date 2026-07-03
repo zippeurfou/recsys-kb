@@ -27,6 +27,9 @@ Discrete, hierarchical item identifiers learned by quantizing item embeddings (e
 - [[2412.08604]] Preference Discerning with LLM-Enhanced Generative Retrieval (Meta, 2024)
 - [[2412.18241]] An Automatic Graph Construction Framework based on Large Language Models
   for Recommendation (Huawei, 2024)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
+- [[2501.15087]] Multi-Grained Patch Training for Efficient LLM-based Recommendation (Tencent, 2025)
 - [[2502.13581]] ActionPiece: Contextually Tokenizing Action Sequences for Generative
   Recommendation (Google, 2025)
 - [[2504.02137]] Enhancing Embedding Representation Stability in Recommendation Systems

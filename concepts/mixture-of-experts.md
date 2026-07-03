@@ -15,6 +15,8 @@ Conditional computation that routes each input to specialized expert subnetworks
 ## Papers
 
 - [[2210.14309]] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN) (Google, 2022)
+- [[2501.10546]] Scalable Machine Learning Training Infrastructure for Online Ads Recommendation and Auction Scoring Modeling at Google (Google, 2025)
+- [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2504.05694]] Large Language Models Enhanced Hyperbolic Space Recommender Systems (Meta, 2025)
 - [[2506.18735]] An Audio-centric Multi-task Learning Framework for Streaming Ads
   Targeting on Spotify (Spotify, 2025)

@@ -27,6 +27,8 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2407.18488]] Conversational Dueling Bandits in Generalized Linear Models (Bytedance, 2024)
 - [[2411.13789]] LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display
   Advertisement Recommender System (Wechat, 2024)
+- [[2501.05591]] Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning (Meta, 2025)
+- [[2501.07761]] Impatient Bandits: Optimizing for the Long-Term Without Delay (Spotify, 2025)
 - [[2502.21304]] Clustering Context in Off-Policy Evaluation (Amazon, 2025)
 - [[2505.03336]] Avoid Recommending Out-of-Domain Items: Constrained Generative
   Recommendation with LLMs (Microsoft, 2025)

@@ -31,6 +31,9 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2410.17152]] Improving Pinterest Search Relevance Using Large Language Models (Pinterest, 2024)
 - [[2411.00395]] DivNet: Diversity-Aware Self-Correcting Sequential Recommendation
   Networks (Meta, 2024)
+- [[2501.07294]] Dataset-Agnostic Recommender Systems (Huawei, 2025)
+- [[2501.11034]] Generative Retrieval for Book search (Baidu, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
 - [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
   Recommendation Systems (Jd, 2025)
 - [[2503.07823]] Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender
@@ -121,3 +124,4 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2606.10388]] SkillResolve-Bench: Measuring and Resolving Same-Capability Ambiguity in Agent Skill Retrieval (Huawei, 2026)
 - [[2606.14127]] CoRe: A Continuously Reward-Finetuned LLM Query Rewriter for Multi-Stage Context-Aware Relevance in Web-Scale Video Search (Bytedance, 2026)
 - [[2606.19108]] JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling (Airbnb, 2026)
+- [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)

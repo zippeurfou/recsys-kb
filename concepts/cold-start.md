@@ -40,9 +40,14 @@ Recommending for new users or items that have little or no interaction history.
 - [[2411.11225]] Online Item Cold-Start Recommendation with Popularity-Aware
   Meta-Learning (Meta, 2024)
 - [[2411.11508]] Collaborative Contrastive Network for Click-Through Rate Prediction (Taobao, 2024)
+- [[2501.01945]] Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap (Google, 2025)
+- [[2501.03835]] TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2501.06062]] Personalized Language Model Learning on Text Data Without User Identifiers (Tencent, 2025)
 - [[2501.07761]] Impatient Bandits: Optimizing for the Long-Term Without Delay (Spotify, 2025)
-- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in
-  Recommendation System (Meta, 2025)
+- [[2501.11499]] KEIR @ ECIR 2025: The Second Workshop on Knowledge-Enhanced Information Retrieval (Google, 2025)
+- [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
 - [[2501.16450]] 360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation (Linkedin, 2025)
 - [[2502.00321]] MIM: Multi-modal Content Interest Modeling Paradigm for User Behavior
   Modeling (Taobao, 2025)
@@ -50,6 +55,7 @@ Recommending for new users or items that have little or no interaction history.
   Fusion (Meta, 2025)
 - [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
   Recommender Systems (Reddit, 2025)
+- [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16924]] FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start
   Recommendation (Alibaba, 2025)
 - [[2502.18527]] GOD model: Privacy Preserved AI School for Personal Assistant (Meta, Apple, 2025)

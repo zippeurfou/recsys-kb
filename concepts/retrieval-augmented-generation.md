@@ -15,6 +15,11 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2408.09017]] Meta Knowledge for Retrieval Augmented Large Language Models (Amazon, 2024)
 - [[2410.16780]] Beyond Retrieval: Generating Narratives in Conversational Recommender
   Systems (Amazon, 2024)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
+- [[2501.03835]] TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2501.04167]] Reasoning-Enhanced Self-Training for Long-Form Personalized Text Generation (Google, 2025)
+- [[2501.11499]] KEIR @ ECIR 2025: The Second Workshop on Knowledge-Enhanced Information Retrieval (Google, 2025)
+- [[2501.15749]] LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System (Microsoft, 2025)
 - [[2502.14137]] Collaborative Retrieval for Large Language Model-based Conversational
   Recommender Systems (Reddit, 2025)
 - [[2502.15698]] Developing an Artificial Intelligence Tool for Personalized Breast

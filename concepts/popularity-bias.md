@@ -27,8 +27,9 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
   Networks (Meta, 2024)
 - [[2411.13653]] No Free Delivery Service: Epistemic limits of passive data collection in
   complex social systems (Meta, 2024)
-- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in
-  Recommendation System (Meta, 2025)
+- [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
+- [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
 - [[2503.08750]] Exposing Product Bias in LLM Investment Recommendation (Microsoft, Apple, 2025)
 - [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
 - [[2504.20879]] The Leaderboard Illusion (Google, Meta, 2025)
@@ -60,3 +61,4 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 - [[2605.17994]] Towards Sustainable Growth: A Multi-Value-Aware Retrieval Framework for E-Commerce Search (Alibaba-inc, 2026)
 - [[2605.21752]] PEARL: Unbiased Percentile Estimation via Contrastive Learning for Industrial-Scale Livestream Recommendation (Bytedance, 2026)
 - [[2606.08480]] Adaptive Loss Balancing for Noise-Robust GRPO in Generative Recommendation (Jd, 2026)
+- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

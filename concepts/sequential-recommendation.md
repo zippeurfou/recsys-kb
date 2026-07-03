@@ -56,6 +56,12 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2412.08604]] Preference Discerning with LLM-Enhanced Generative Retrieval (Meta, 2024)
 - [[2412.11846]] SPGL: Enhancing Session-based Recommendation with Single Positive Graph
   Learning (Tmall, 2024)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
+- [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
+- [[2501.13344]] Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2025)
+- [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
+- [[2501.15087]] Multi-Grained Patch Training for Efficient LLM-based Recommendation (Tencent, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
 - [[2502.02854]] TD3: Tucker Decomposition Based Dataset Distillation Method for
   Sequential Recommendation (Meta, 2025)
 - [[2502.03036]] FuXi-$α$: Scaling Recommendation Model with Feature Interaction

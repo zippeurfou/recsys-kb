@@ -20,6 +20,10 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2210.14309]] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN) (Google, 2022)
 - [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
 - [[2401.06633]] Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations (Microsoft, 2024)
+- [[2501.07365]] Multimodal semantic retrieval for product search (Amazon, 2025)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
 - [[2502.10157]] SessionRec: Next Session Prediction Paradigm For Generative Sequential
   Recommendation (Meituan, 2025)
 - [[2502.11490]] GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale
@@ -96,3 +100,4 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2606.23889]] INSPIRE: Intent-aware Neural Sponsored Product Retrieval for E-commerce (Walmart, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
 - [[2606.25237]] Extreme Meta-Classification for Large-Scale Zero-Shot Retrieval (Microsoft, 2026)
+- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

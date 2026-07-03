@@ -24,6 +24,11 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2410.17276]] Evaluating Performance and Bias of Negative Sampling in Large-Scale
   Sequential Recommendation Models (Apple, 2024)
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)
+- [[2501.03835]] TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification (Alibaba-inc, 2025)
+- [[2501.07365]] Multimodal semantic retrieval for product search (Amazon, 2025)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
+- [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
 - [[2502.10284]] A Hybrid Cross-Stage Coordination Pre-ranking Model for Online
   Recommendation Systems (Jd, 2025)
 - [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
@@ -106,3 +111,5 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2606.17664]] Temporal Preference Optimization for Unsupervised Retrieval (Microsoft, 2026)
 - [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
+- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)
+- [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)

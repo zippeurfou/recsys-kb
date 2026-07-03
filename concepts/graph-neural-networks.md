@@ -23,13 +23,18 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2412.18241]] An Automatic Graph Construction Framework based on Large Language Models
   for Recommendation (Huawei, 2024)
 - [[2412.18735]] Automatic Self-supervised Learning for Social Recommendations (Meta, 2024)
+- [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
 - [[2501.06985]] Graph Contrastive Learning on Multi-label Classification for
   Recommendations (Amazon, 2025)
 - [[2501.07110]] Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video
   Recommendation (Meta, 2025)
+- [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)
 - [[2501.11870]] Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation (Meta, 2025)
+- [[2501.15183]] Generating Negative Samples for Multi-Modal Recommendation (Tencent, 2025)
+- [[2501.18997]] Collaborative Diffusion Model for Recommender System (Google, 2025)
 - [[2502.03664]] Contrastive Learning for Cold Start Recommendation with Adaptive Feature
   Fusion (Meta, 2025)
+- [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16068]] Joint Similarity Item Exploration and Overlapped User Guidance for
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)
 - [[2503.07823]] Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender

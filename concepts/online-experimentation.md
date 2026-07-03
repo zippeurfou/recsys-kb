@@ -28,6 +28,16 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2410.13374]] Context-aware adaptive personalised recommendation: a meta-hybrid (Meta, 2024)
 - [[2411.13653]] No Free Delivery Service: Epistemic limits of passive data collection in
   complex social systems (Meta, 2024)
+- [[2501.05591]] Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning (Meta, 2025)
+- [[2501.07761]] Impatient Bandits: Optimizing for the Long-Term Without Delay (Spotify, 2025)
+- [[2501.08695]] Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever (Bytedance, 2025)
+- [[2501.09493]] Evaluating Conversational Recommender Systems via Large Language Models: A User-Centric Framework (Huawei, 2025)
+- [[2501.10546]] Scalable Machine Learning Training Infrastructure for Online Ads Recommendation and Auction Scoring Modeling at Google (Google, 2025)
+- [[2501.14268]] Pre-train and Fine-tune: Recommenders as Large Models (Alibaba-inc, 2025)
+- [[2501.15816]] AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System (Bytedance, 2025)
+- [[2501.15817]] Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System (Bytedance, 2025)
+- [[2501.16125]] SampleLLM: Optimizing Tabular Data Synthesis in Recommendations (Huawei, 2025)
+- [[2501.18126]] HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback (Meta, 2025)
 - [[2502.21304]] Clustering Context in Off-Policy Evaluation (Amazon, 2025)
 - [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
 - [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
@@ -86,3 +96,4 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2606.18750]] Ensuring Trustworthy Online A/B Testing: Addressing Five Key Questions on CUPED (Bytedance, 2026)
 - [[2606.19108]] JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling (Airbnb, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)
+- [[2607.00280]] Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example (Airbnb, 2026)
