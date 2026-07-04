@@ -17,8 +17,11 @@ Estimating individual treatment effects / incrementality to target interventions
 
 - [[2309.07893]] Choosing a Proxy Metric from Past Experiments (Google, 2023)
 - [[2501.05591]] Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning (Meta, 2025)
+- [[2509.01558]] Direct Profit Estimation Using Uplift Modeling under Clustered Network Interference (Booking, 2025)
 - [[2510.15238]] HOB: A Holistically Optimized Bidding Strategy under Heterogeneous Bidding Environments (Alibaba-inc, 2025)
+- [[2511.18997]] Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation (Kuaishou, 2025)
 - [[2602.12485]] Latent Customer Segmentation and Value-Based Recommendation Leveraging a Two-Stage Model with Missing Labels (Walmart, 2026)
+- [[2602.12972]] Jointly Optimizing Debiased CTR and Uplift for Coupons Marketing: A Unified Causal Framework (Kuaishou, 2026)
 - [[2602.18640]] Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System (Meta, 2026)
 - [[2602.20383]] Detecting and Mitigating Group Bias in Heterogeneous Treatment Effects (Spotify, 2026)
 - [[2604.02472]] VALOR: Value-Aware Revenue Uplift Modeling with Treatment-Gated Representation for B2B Sales (Google, 2026)
