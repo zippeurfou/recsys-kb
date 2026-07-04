@@ -57,60 +57,75 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)
 - [[2503.01305]] HI-Series Algorithms A Hybrid of Substance Diffusion Algorithm and
   Collaborative Filtering (Netflix, 2025)
+- [[2503.07025]] Weak Supervision for Improved Precision in Search Systems (Linkedin, 2025)
 - [[2503.07823]] Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender
   Systems Papers Based on Message Passing (Amazon, 2025)
 - [[2503.12733]] A Linearized Alternating Direction Multiplier Method for Federated
   Matrix Completion Problems (Netflix, 2025)
 - [[2503.16661]] ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning
   for Static Link Prediction (aka Personalized Item Recommendation) (Amazon, 2025)
-- [[2503.23804]] Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based
-  Recommender Systems (Bing, 2025)
+- [[2503.23804]] DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents (Adobe, 2025)
 - [[2504.07363]] Towards Distribution Matching between Collaborative and Language Spaces
   for Generative Recommendation (Meta, 2025)
 - [[2504.10107]] Enhancing LLM-based Recommendation through Semantic-Aligned
   Collaborative Knowledge (Amazon, 2025)
+- [[2504.21838]] Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat (Snap, 2025)
 - [[2505.01442]] Algorithm Performance Spaces for Strategic Dataset Selection (Amazon, 2025)
+- [[2505.02120]] Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems (Tencent, 2025)
 - [[2505.05989]] Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous
   Information Networks (Amazon, 2025)
 - [[2505.08157]] Hyperbolic Contrastive Learning with Model-augmentation for
   Knowledge-aware Recommendation (Bing, 2025)
-- [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity
-  Perspective (Snap, 2025)
+- [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective (Snap, 2025)
 - [[2505.16121]] Emotion-based Recommender System (Amazon, 2025)
-- [[2505.19020]] HGCL: Hierarchical Graph Contrastive Learning for User-Item
-  Recommendation (Alibaba-inc, 2025)
+- [[2505.20730]] Do LLMs Understand Collaborative Signals? Diagnosis and Repair (Google, 2025)
 - [[2505.24172]] Heterogeneous Graph Masked Contrastive Learning for Robust
   Recommendation (Meta, 2025)
 - [[2506.00107]] Gated Multimodal Graph Learning for Personalized Recommendation (Amazon, 2025)
+- [[2506.02261]] What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context (Bytedance, 2025)
 - [[2506.04525]] User Altruism in Recommendation Systems (Youtube, 2025)
-- [[2506.07261]] RADAR: Recall Augmentation through Deferred Asynchronous Retrieval (Meta, 2025)
-- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video
-  Recommendations (Meta, 2025)
-- [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation
-  Systems (Snap, 2025)
-- [[2507.15113]] Click A, Buy B: Rethinking Conversion Attribution in E- Commerce
-  Recommendations (Meta, 2025)
+- [[2507.09101]] S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe (Walmart, 2025)
+- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video Recommendations (Meta, 2025)
+- [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation Systems (Snap, 2025)
+- [[2507.15113]] Click A, Buy B: Rethinking Conversion Attribution in E- Commerce Recommendations (Meta, 2025)
+- [[2507.17528]] Generalized Low-Rank Matrix Contextual Bandits with Graph Information (Microsoft, 2025)
+- [[2507.20753]] Industry Insights from Comparing Deep Learning and GBDT Models for E-Commerce Learning-to-Rank (Otto, 2025)
 - [[2508.05107]] Community-Aware Social Community Recommendation (Jd, 2025)
-- [[2508.11086]] Relative Advantage Debiasing for Watch-Time Prediction in Short-Video
-  Recommendation (Bytedance, 2025)
-- [[2510.02331]] Synthetic Dialogue Generation for Interactive Conversational Elicitation
-  & Recommendation (ICER) (Google, 2025)
-- [[2510.05598]] AgentDR Dynamic Recommendation with Implicit Item-Item Relations via
-  LLM-based Agents (Amazon, 2025)
-- [[2510.10105]] Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based
-  Recommendation through Decoupled Propagation (Huawei, 2025)
+- [[2508.07574]] Orthogonal Low Rank Embedding Stabilization (Netflix, 2025)
+- [[2508.09653]] On Negative-aware Preference Optimization for Recommendation (Meituan, 2025)
+- [[2508.09664]] Multimodal Fusion And Sparse Attention-based Alignment Model for Long Sequential Recommendation (Baidu, 2025)
+- [[2508.09789]] Describe What You See with Multimodal Large Language Models to Enhance Video Recommendations (Spotify, 2025)
+- [[2508.11086]] Relative Advantage Debiasing for Watch-Time Prediction in Short-Video Recommendation (Bytedance, 2025)
+- [[2508.14485]] Distribution-Guided Auto-Encoder for User Multimodal Interest Cross Fusion (Alibaba-inc, 2025)
+- [[2509.03746]] Efficient Item ID Generation for Large-Scale LLM-based Recommendation (Google, 2025)
+- [[2509.22807]] MTRec: Learning to Align with User Preferences via Mental Reward Models (Huawei, 2025)
+- [[2509.25522]] Understanding Generative Recommendation with Semantic IDs from a Model-scaling View (Snap, 2025)
+- [[2510.01523]] MetaSynth: Multi-Agent Metadata Generation from Implicit Feedback in Black-Box Systems (Walmart, 2025)
+- [[2510.02331]] Synthetic Dialogue Generation for Interactive Conversational Elicitation & Recommendation (ICER) (Amazon, Google, 2025)
+- [[2510.05598]] AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents (Amazon, 2025)
+- [[2510.10105]] Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based Recommendation through Decoupled Propagation (Huawei, 2025)
 - [[2510.10440]] Does Weighting Improve Matrix Factorization for Recommender Systems? (Netflix, 2025)
-- [[2510.16076]] BPL: Bias-adaptive Preference Distillation Learning for Recommender
-  System (Microsoft, 2025)
+- [[2510.10920]] Comparative Explanations via Counterfactual Reasoning in Recommendations (Huawei, 2025)
+- [[2510.14223]] Large Scale Retrieval for the LinkedIn Feed using Causal Language Models (Linkedin, 2025)
+- [[2510.16076]] BPL: Bias-adaptive Preference Distillation Learning for Recommender System (Microsoft, 2025)
+- [[2511.06781]] On the Mechanisms of Collaborative Learning in VAE Recommenders (Amazon, 2025)
+- [[2511.07280]] The Value of Personalized Recommendations: Evidence from Netflix (Netflix, 2025)
+- [[2511.18261]] LLM Reasoning for Cold-Start Item Recommendation (Netflix, 2025)
 - [[2511.18413]] Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations (Adobe, 2025)
 - [[2511.20177]] Enhancing Sequential Recommendation with World Knowledge from Large Language Models (Alibaba-inc, 2025)
 - [[2511.21989]] Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation (Google, 2025)
+- [[2601.08816]] MemRec: Collaborative Memory-Augmented Agentic Recommender System (Snap, 2026)
+- [[2601.16815]] PI2I: A Personalized Item-Based Collaborative Filtering Retrieval Framework (Alibaba-inc, 2026)
 - [[2602.07298]] Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation (Meta, 2026)
 - [[2602.09829]] Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation (Tencent, 2026)
 - [[2602.14502]] Behavioral Feature Boosting via Substitute Relationships for E-commerce Search (Amazon, 2026)
+- [[2602.17050]] Multi-Probe Zero Collision Hash (MPZCH): Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders (Meta, 2026)
 - [[2602.17410]] Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers (Meituan, 2026)
 - [[2602.21099]] Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering (Taobao, 2026)
-- [[2602.23964]] RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce (Jd, 2026)
+- [[2603.26100]] Rethinking Recommendation Paradigms: From Pipelines to Agentic Recommender Systems (Taobao, Alibaba-inc, 2026)
 - [[2604.26760]] Factorized Latent Reasoning for LLM-based Recommendation (Meituan, 2026)
+- [[2605.06331]] Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation (Snap, 2026)
 - [[2605.07125]] An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation (Airbnb, 2026)
+- [[2605.18769]] ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation (Walmart, 2026)
+- [[2605.21832]] FLUID: From Ephemeral IDs to Multimodal Semantic Codes for Industrial-Scale Livestreaming Recommendation (Bytedance, 2026)
 - [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)

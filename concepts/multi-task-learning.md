@@ -43,43 +43,35 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2502.10514]] Applying Deep Learning to Ads Conversion Prediction in Last Mile Delivery Marketplace (Doordash, 2025)
 - [[2502.19628]] PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems (Amazon, 2025)
 - [[2502.21195]] Joint Modeling in Recommendations: A Survey (Huawei, 2025)
+- [[2503.03165]] A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation (Tencent, 2025)
 - [[2503.11924]] REGEN: A Dataset and Benchmarks with Natural Language Critiques and
   Narratives (Amazon, 2025)
-- [[2503.23630]] Finding Interest Needle in Popularity Haystack: Improving Retrieval by Modeling Item Exposure (Meta, 2025)
-- [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion
-  Rate Prediction (Pinterest, 2025)
-- [[2504.21838]] Learning Universal User Representations Leveraging Cross-domain User
-  Intent at Snapchat (Snap, 2025)
-- [[2505.02120]] Tricolore: Multi-Behavior User Profiling for Enhanced Candidate
-  Generation in Recommender Systems (Tencent, 2025)
-- [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for
-  Item-to-Item Retrieval in Recommendation (Meta, 2025)
-- [[2506.12700]] Large Scalable Cross-Domain Graph Neural Networks for Personalized
-  Notification at LinkedIn (Linkedin, 2025)
-- [[2506.18735]] An Audio-centric Multi-task Learning Framework for Streaming Ads
-  Targeting on Spotify (Spotify, 2025)
-- [[2507.06507]] GR-LLMs: Recent Advances in Generative Recommendation Based on Large
-  Language Models (Alibaba-inc, 2025)
-- [[2507.09101]] S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe (Walmart, 2025)
-- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video
-  Recommendations (Meta, 2025)
-- [[2507.09566]] Identifying Offline Metrics that Predict Online Impact: A Pragmatic
-  Strategy for Real-World Recommender Systems (Otto, 2025)
-- [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
-- [[2507.15113]] Click A, Buy B: Rethinking Conversion Attribution in E- Commerce
-  Recommendations (Meta, 2025)
-- [[2507.15395]] Hierarchical Graph Information Bottleneck for Multi-Behavior
-  Recommendation (Tencent, 2025)
-- [[2507.22268]] Multi-modal Relational Item Representation Learning for Inferring
-  Substitutable and Complementary Items (Amazon, 2025)
-- [[2508.14493]] Global-Distribution Aware Scenario-Specific Variational Representation
-  Learning Framework (Alibaba-inc, 2025)
+- [[2504.08169]] On the Practice of Deep Hierarchical Ensemble Network for Ad Conversion Rate Prediction (Pinterest, 2025)
+- [[2504.12920]] CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval (Taobao, Alibaba-inc, 2025)
+- [[2504.17811]] OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning (Pinterest, 2025)
+- [[2505.02120]] Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems (Tencent, 2025)
+- [[2505.05605]] The Evolution of Embedding Table Optimization and Multi-Epoch Training in Pinterest Ads Conversion (Pinterest, 2025)
+- [[2505.16065]] Aug2Search: Enhancing Facebook Marketplace Search with LLM-Generated Synthetic Data Augmentation (Meta, 2025)
+- [[2506.00828]] Breaker: Removing Shortcut Cues with User Clustering for Single-slot Recommendation System (Meituan, 2025)
+- [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation (Meta, 2025)
+- [[2506.12700]] Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn (Linkedin, 2025)
+- [[2506.18735]] An Audio-centric Multi-task Learning Framework for Streaming Ads Targeting on Spotify (Spotify, 2025)
+- [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video Recommendations (Meta, 2025)
+- [[2507.15113]] Click A, Buy B: Rethinking Conversion Attribution in E- Commerce Recommendations (Meta, 2025)
+- [[2507.15395]] Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation (Tencent, 2025)
+- [[2508.02929]] Realizing Scaling Laws in Recommender Systems: A Foundation-Expert Paradigm for Hyperscale Model Deployment (Meta, 2025)
+- [[2508.09636]] Personalized Product Search Ranking: A Multi-Task Learning Approach with Tabular and Non-Tabular Data (Walmart, 2025)
+- [[2508.10478]] Semantic IDs for Joint Generative Search and Recommendation (Spotify, 2025)
+- [[2508.14493]] Global-Distribution Aware Scenario-Specific Variational Representation Learning Framework (Alibaba-inc, 2025)
 - [[2508.14948]] Large Foundation Model for Ads Recommendation (Tencent, 2025)
-- [[2510.02215]] C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale
-  Recommendation Systems (Meta, 2025)
-- [[2510.09857]] MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight
-  Ranking at Pinterest (Pinterest, 2025)
+- [[2508.15217]] See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction (Alibaba-inc, 2025)
+- [[2509.04337]] Decoupled Entity Representation Learning for Pinterest Ads Ranking (Pinterest, 2025)
+- [[2509.13603]] Modernizing Facebook Scoped Search: Keyword and Embedding Hybrid Retrieval with LLM Evaluation (Meta, 2025)
+- [[2510.02215]] Improving Large-Scale Recommender Systems with Auxiliary Learning (Meta, 2025)
+- [[2510.09857]] MTMD: A Multi-Task Multi-Domain Framework for Unified Ad Lightweight Ranking at Pinterest (Pinterest, 2025)
+- [[2511.06635]] Can LLM Annotations Replace User Clicks for Learning to Rank? (Baidu, 2025)
 - [[2511.13112]] F.A.C.U.L.: Language-Based Interaction with AI Companions in Gaming (Tencent, 2025)
+- [[2511.13885]] Retrieval-GRPO: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search (Taobao, Alibaba-inc, 2025)
 - [[2511.15145]] Auden-Voice: General-Purpose Voice Encoder for Speech and Language Understanding (Tencent, 2025)
 - [[2511.18013]] Save, Revisit, Retain: A Scalable Framework for Enhancing User Retention in Large-Scale Recommender Systems (Pinterest, 2025)
 - [[2511.22367]] SuRe: Surprise-Driven Prioritised Replay for Continual LLM Learning (Huawei, 2025)
@@ -99,18 +91,20 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2602.17058]] A Long-term Value Prediction Framework In Video Ranking (Alibaba-inc, 2026)
 - [[2602.22913]] SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress (Alibaba-inc, 2026)
 - [[2602.23234]] Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments (Apple, 2026)
-- [[2603.02999]] OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation (Tencent, 2026)
+- [[2603.06589]] Isotonic Layer: A Unified Framework for Recommendation Calibration and Debiasing (Linkedin, 2026)
 - [[2603.10369]] Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems (Linkedin, 2026)
 - [[2603.17540]] Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify (Spotify, 2026)
 - [[2603.19665]] GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce (Jd, 2026)
 - [[2603.21111]] Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning (Nvidia, 2026)
 - [[2604.02684]] MBGR: Multi-Business Prediction for Generative Recommendation at Meituan (Meituan, 2026)
 - [[2604.12965]] Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation (Meta, 2026)
-- [[2604.17878]] RankUp: Towards High-rank Representations for Large Scale Advertising Recommender Systems (Tencent, 2026)
 - [[2604.21264]] Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation (Alibaba-inc, 2026)
 - [[2604.21675]] Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion (Alibaba-inc, 2026)
 - [[2604.24806]] Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale (Meta, 2026)
+- [[2605.05730]] Effective Knowledge Transfer for Multi-Task Recommendation Models (Huawei, 2026)
+- [[2605.16344]] A Production-Ready RL Framework for Personalized Utility Tuning with Pareto Sweeping in Pinterest Recommender Systems (Pinterest, 2026)
 - [[2605.23310]] From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs (Taobao, 2026)
+- [[2605.26424]] Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation (Taobao, Alibaba-inc, 2026)
 - [[2605.27066]] Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search (Baidu, 2026)
 - [[2605.27704]] Joint Optimization of Relevance and Engagement in Multi-Task Ranking for E-Commerce with Efficient LLM Supervision (Doordash, 2026)
 - [[2606.06970]] SSRLive: Live Streaming Recommendation with Dynamic Semantic ID (Alibaba-inc, 2026)

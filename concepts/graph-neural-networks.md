@@ -42,6 +42,7 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2502.15695]] Contrastive Learning Augmented Social Recommendations (Baidu, 2025)
 - [[2502.16068]] Joint Similarity Item Exploration and Overlapped User Guidance for
   Multi-Modal Cross-Domain Recommendation (Amazon, 2025)
+- [[2503.02960]] Deal: Distributed End-to-End GNN Inference for All Nodes (Amazon, 2025)
 - [[2503.07823]] Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender
   Systems Papers Based on Message Passing (Amazon, 2025)
 - [[2503.16661]] ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning
@@ -49,38 +50,38 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2503.18197]] FROG: Fair Removal on Graphs (Walmart, 2025)
 - [[2504.06492]] Exploiting Meta-Learning-based Poisoning Attacks for Graph Link
   Prediction (Meta, 2025)
-- [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware
-  User Preferences (Tencent, 2025)
-- [[2504.17811]] OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation
-  Learning (Pinterest, 2025)
+- [[2504.07102]] Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation (Tencent, 2025)
+- [[2504.09428]] FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences (Tencent, 2025)
+- [[2504.10925]] Transfer Learning for Temporal Link Prediction (Google, 2025)
+- [[2504.17811]] OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning (Pinterest, 2025)
+- [[2505.02120]] Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems (Tencent, 2025)
 - [[2505.08157]] Hyperbolic Contrastive Learning with Model-augmentation for
   Knowledge-aware Recommendation (Bing, 2025)
 - [[2505.09643]] A Computational Approach to Epilepsy Treatment: An AI-optimized Global
   Natural Product Prescription System (Meta, 2025)
-- [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity
-  Perspective (Snap, 2025)
-- [[2505.19020]] HGCL: Hierarchical Graph Contrastive Learning for User-Item
-  Recommendation (Alibaba-inc, 2025)
+- [[2505.11318]] On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective (Snap, 2025)
+- [[2505.19020]] HGCL: Hierarchical Graph Contrastive Learning for User-Item Recommendation (Alibaba-inc, 2025)
 - [[2506.00107]] Gated Multimodal Graph Learning for Personalized Recommendation (Amazon, 2025)
-- [[2506.12700]] Large Scalable Cross-Domain Graph Neural Networks for Personalized
-  Notification at LinkedIn (Linkedin, 2025)
-- [[2506.18382]] PERSCEN: Learning Personalized Interaction Pattern and Scenario
-  Preference for Multi-Scenario Matching (Meituan, To Read, 2025)
+- [[2506.12700]] Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn (Linkedin, 2025)
+- [[2506.18382]] PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching (Meituan, 2025)
 - [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
-- [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation
-  Systems (Snap, 2025)
-- [[2507.15395]] Hierarchical Graph Information Bottleneck for Multi-Behavior
-  Recommendation (Tencent, 2025)
-- [[2507.22268]] Multi-modal Relational Item Representation Learning for Inferring
-  Substitutable and Complementary Items (Amazon, 2025)
-- [[2508.01128]] Towards Bridging Review Sparsity in Recommendation with Textual Edge
-  Graph Representation (Adobe, 2025)
+- [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation Systems (Snap, 2025)
+- [[2507.15395]] Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation (Tencent, 2025)
+- [[2507.22268]] Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items (Amazon, 2025)
+- [[2508.01096]] Cross-Domain Web Information Extraction at Pinterest (Pinterest, 2025)
+- [[2508.01128]] Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation (Adobe, 2025)
+- [[2508.02609]] Entity Representation Learning Through Onsite-Offsite Graph for Pinterest Ads (Pinterest, 2025)
 - [[2508.05107]] Community-Aware Social Community Recommendation (Jd, 2025)
-- [[2510.10105]] Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based
-  Recommendation through Decoupled Propagation (Huawei, 2025)
+- [[2509.02942]] RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation (Meta, 2025)
+- [[2510.10105]] Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based Recommendation through Decoupled Propagation (Huawei, 2025)
+- [[2510.20640]] Attention Enhanced Entity Recommendation for Intelligent Monitoring in Cloud Systems (Microsoft, 2025)
 - [[2511.19969]] M$^3$Prune: Hierarchical Communication Graph Pruning for Efficient Multi-Modal Multi-Agent Retrieval-Augmented Generation (Alibaba-inc, 2025)
+- [[2601.14955]] Multi-Behavior Sequential Modeling with Transition-Aware Graph Attention Network for E-Commerce Recommendation (Taobao, Alibaba-inc, 2026)
 - [[2602.04174]] GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation (Alibaba-inc, 2026)
+- [[2602.09829]] Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation (Tencent, 2026)
 - [[2602.21099]] Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering (Taobao, 2026)
+- [[2602.21219]] Reasoning-Based Personalized Generation for Users with Sparse Data (Adobe, 2026)
 - [[2603.09195]] $P^2$GNN: Two Prototype Sets to boost GNN Performance (Amazon, 2026)
+- [[2603.12268]] A Holistic Framework for Automated Configuration Recommendation for Cloud Service Monitoring (Microsoft, 2026)
 - [[2603.16088]] RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems (Jd, 2026)
 - [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
