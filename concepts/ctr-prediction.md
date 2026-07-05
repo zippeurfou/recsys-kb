@@ -16,8 +16,10 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 
 ## Papers
 
+- [[1706.06978]] Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)
 - [[1902.09154]] Deep Bayesian Multi-Target Learning for Recommender Systems (Alibaba-inc, 2019)
 - [[1904.06813]] Personalized Re-ranking for Recommendation (Alibaba-inc, 2019)
+- [[1905.06874]] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)
 - [[1909.04823]] Distributed Equivalent Substitution Training for Large-Scale Recommender Systems (Tencent, 2019)
 - [[2108.13299]] Incremental Learning for Personalized Recommender Systems (Linkedin, 2021)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)

@@ -19,6 +19,8 @@ Modeling a user's chronological interaction sequence (often with transformers or
 
 ## Papers
 
+- [[1706.06978]] Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)
+- [[1905.06874]] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)
 - [[1908.08284]] Two-Stage Session-based Recommendations with Candidate Rank Embeddings (Zalando, 2019)
 - [[1908.08327]] Session-based Complementary Fashion Recommendations (Zalando, 2019)
 - [[2004.04816]] CSRN: Collaborative Sequential Recommendation Networks for News Retrieval (Tencent, 2020)

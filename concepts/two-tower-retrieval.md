@@ -15,6 +15,7 @@ Retrieval architecture with separate user/query and item/document encoders whose
 
 ## Papers
 
+- [[2007.12865]] Self-supervised Learning for Large-scale Item Recommendations (Google, 2021)
 - [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)
 - [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
 - [[2210.14309]] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN) (Google, 2022)

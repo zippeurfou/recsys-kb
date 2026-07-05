@@ -16,6 +16,7 @@ Recommending for new users or items that have little or no interaction history.
 ## Papers
 
 - [[1908.07371]] Hierarchical Bayesian Personalized Recommendation: A Case Study and Beyond (Jd, 2019)
+- [[2007.12865]] Self-supervised Learning for Large-scale Item Recommendations (Google, 2021)
 - [[2008.02930]] Zero-Shot Heterogeneous Transfer Learning from Recommender Systems to Cold-Start Search Retrieval (Google, 2020)
 - [[2106.08934]] Personalized News Recommendation: Methods and Challenges (Microsoft, 2021)
 - [[2109.11059]] Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model (Amazon, 2021)

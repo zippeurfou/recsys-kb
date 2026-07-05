@@ -14,6 +14,8 @@ Attention that conditions on the candidate/target item to model user interest fr
 
 ## Papers
 
+- [[1706.06978]] Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)
+- [[1905.06874]] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)
 - [[1905.12480]] NRPA: Neural Recommendation with Personalized Attention (Microsoft, 2019)
 - [[2106.08934]] Personalized News Recommendation: Methods and Challenges (Microsoft, 2021)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)

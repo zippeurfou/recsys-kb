@@ -14,6 +14,7 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 
 ## Papers
 
+- [[2007.12865]] Self-supervised Learning for Large-scale Item Recommendations (Google, 2021)
 - [[2101.04526]] Measuring Recommender System Effects with Simulated Users (Google, 2021)
 - [[2204.12176]] Cross Pairwise Ranking for Unbiased Item Recommendation (Huawei, 2022)
 - [[2210.14309]] Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN) (Google, 2022)

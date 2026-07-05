@@ -15,6 +15,7 @@ Self-supervised representation learning by contrasting positive against negative
 
 ## Papers
 
+- [[2007.12865]] Self-supervised Learning for Large-scale Item Recommendations (Google, 2021)
 - [[2209.13422]] Efficient On-Device Session-Based Recommendation (Baidu, 2022)
 - [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
 - [[2410.22136]] SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation
