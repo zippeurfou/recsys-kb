@@ -15,7 +15,9 @@ Jointly learning multiple objectives with shared or expert-gated representations
 
 ## Papers
 
+- [[1804.07931]] Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba-inc, 2018)
 - [[1902.09154]] Deep Bayesian Multi-Target Learning for Recommender Systems (Alibaba-inc, 2019)
+- [[1910.07099]] Conversion Rate Prediction via Post-Click Behaviour Modeling (ESM^2) (Alibaba-inc, 2019)
 - [[2008.02930]] Zero-Shot Heterogeneous Transfer Learning from Recommender Systems to Cold-Start Search Retrieval (Google, 2020)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
 - [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)

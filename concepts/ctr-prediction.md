@@ -17,6 +17,7 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 ## Papers
 
 - [[1706.06978]] Deep Interest Network for Click-Through Rate Prediction (Alibaba, 2017)
+- [[1804.07931]] Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate (Alibaba-inc, 2018)
 - [[1902.09154]] Deep Bayesian Multi-Target Learning for Recommender Systems (Alibaba-inc, 2019)
 - [[1904.06813]] Personalized Re-ranking for Recommendation (Alibaba-inc, 2019)
 - [[1905.06874]] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba (Alibaba, 2019)
