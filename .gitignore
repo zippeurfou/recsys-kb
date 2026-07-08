@@ -6,6 +6,7 @@ fulltext/
 # Transient build artifacts (prepare/ingest hand-off files)
 .pending*.jsonl
 .extractions*.jsonl
+.batch*.jsonl
 
 # OS / editor
 .DS_Store
