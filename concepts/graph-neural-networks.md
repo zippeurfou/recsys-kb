@@ -74,6 +74,7 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2508.01128]] Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation (Adobe, 2025)
 - [[2508.02609]] Entity Representation Learning Through Onsite-Offsite Graph for Pinterest Ads (Pinterest, 2025)
 - [[2508.05107]] Community-Aware Social Community Recommendation (Jd, 2025)
+- [[2508.06970]] Blending Sequential Embeddings, Graphs, and Engineered Features: 4th Place Solution in RecSys Challenge 2025 (Yandex, 2025)
 - [[2508.11194]] Representation Quantization for Collaborative Filtering Augmentation (Kuaishou, 2025)
 - [[2509.02942]] RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation (Meta, 2025)
 - [[2510.10105]] Lighter-X: An Efficient and Plug-and-play Strategy for Graph-based Recommendation through Decoupled Propagation (Huawei, 2025)
@@ -93,4 +94,5 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2603.16088]] RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems (Jd, 2026)
 - [[2604.26247]] TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation (Xiaohongshu, 2026)
 - [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
+- [[2606.24509]] A Fair Evaluation of Graph Foundation Models for Node Property Prediction (Yandex, 2026)
 - [[2606.29970]] From Extraction to Navigation: Progressive Retrieval with Indirectly Infinite Depth (Kuaishou, 2026)

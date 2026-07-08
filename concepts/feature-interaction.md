@@ -42,6 +42,7 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2507.11246]] Generative Click-through Rate Prediction with Applications to Search Advertising (Jd, 2025)
 - [[2507.15551]] RankMixer: Scaling Up Ranking Models in Industrial Recommenders (Bytedance, 2025)
 - [[2508.05206]] Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising (Alibaba-inc, 2025)
+- [[2508.06970]] Blending Sequential Embeddings, Graphs, and Engineered Features: 4th Place Solution in RecSys Challenge 2025 (Yandex, 2025)
 - [[2508.08745]] Towards Full Candidate Interaction: A Comprehensive Comparison Network for Better Route Recommendation (Alibaba-inc, 2025)
 - [[2508.11565]] Aggregate and Broadcast: Scalable and Efficient Feature Interaction for Recommender Systems (Kuaishou, 2025)
 - [[2508.14500]] DGenCTR: Towards a Universal Generative Paradigm for Click-Through Rate Prediction via Discrete Diffusion (Alibaba-inc, 2025)

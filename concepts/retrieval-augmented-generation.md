@@ -182,3 +182,5 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2606.25361]] Memory Makes the Difference: Evaluating How Different Memory Roles Shape Conversational Agents (Microsoft, 2026)
 - [[2606.25632]] Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents (Alibaba-inc, 2026)
 - [[2606.25656]] Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization (Amazon, 2026)
+- [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
+- [[2607.05794]] From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space (Alibaba-inc, 2026)

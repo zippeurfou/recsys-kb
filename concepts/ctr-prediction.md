@@ -324,4 +324,3 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2606.28533]] CMSL: Constructive Multi-Sequence Learning for Recommendation Systems (Meta, 2026)
 - [[2606.29946]] POEM: Partial-Order Enhanced Real-Time Sequential Modeling for Recommendation (Kuaishou, 2026)
 - [[2607.00280]] Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example (Airbnb, 2026)
-- [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)

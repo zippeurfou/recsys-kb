@@ -92,6 +92,7 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 - [[2506.02261]] What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context (Bytedance, 2025)
 - [[2506.05069]] Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance
   LLM Recommendation (Meta, 2025)
+- [[2506.05853]] Training-Free Query Optimization via LLM-Based Plan Similarity (Yandex, 2025)
 - [[2506.06561]] LaMP-Cap: Personalized Figure Caption Generation With Multimodal Figure Profiles (Adobe, 2025)
 - [[2506.08283]] Serendipitous Recommendation with Multimodal LLM (Google, 2025)
 - [[2506.09902]] PersonaLens: A Benchmark for Personalization Evaluation in Conversational AI Assistants (Amazon, 2025)
@@ -120,6 +121,7 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 - [[2508.05649]] AI Guided Accelerator For Search Experience (Ebay, 2025)
 - [[2508.07223]] Selection and Exploitation of High-Quality Knowledge from Large Language Models for Recommendation (Kuaishou, 2025)
 - [[2508.07595]] Towards Comprehensible Recommendation with Large Language Model Fine-tuning (Kuaishou, 2025)
+- [[2508.07748]] Encode Me If You Can: Learning Universal User Representations via Event Sequence Autoencoding (Yandex, 2025)
 - [[2508.09539]] TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking (Tencent, 2025)
 - [[2508.09653]] On Negative-aware Preference Optimization for Recommendation (Meituan, 2025)
 - [[2508.10116]] Bridging Modality Gaps in e-Commerce Products via Vision-Language Alignment (Ebay, 2025)
@@ -237,3 +239,6 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 - [[2606.28368]] EvoRec: Self Evolving Agentic Recommender Systems (Taobao, Alibaba-inc, 2026)
 - [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)
 - [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)
+- [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
+- [[2607.03886]] Enhancement of E-commerce Sponsored Search Relevancy with LLM (Walmart, 2026)
+- [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)

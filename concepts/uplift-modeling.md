@@ -30,3 +30,4 @@ Estimating individual treatment effects / incrementality to target interventions
 - [[2605.17994]] Towards Sustainable Growth: A Multi-Value-Aware Retrieval Framework for E-Commerce Search (Alibaba-inc, 2026)
 - [[2606.26690]] Attributed, But Not Incremental: Cannibalization-Corrected Attribution for Large-Scale Advertising (Bytedance, 2026)
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
+- [[2607.05242]] CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling (Alibaba-inc, 2026)

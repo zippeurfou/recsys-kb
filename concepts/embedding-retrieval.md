@@ -77,6 +77,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2506.01910]] GLoSS: Generative Language Models with Semantic Search for Sequential
   Recommendation (Amazon, 2025)
 - [[2506.05781]] Generating Long Semantic IDs in Parallel for Recommendation (Meta, 2025)
+- [[2506.05853]] Training-Free Query Optimization via LLM-Based Plan Similarity (Yandex, 2025)
 - [[2506.06239]] Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation (Meta, 2025)
 - [[2506.07261]] RADAR: Recall Augmentation through Deferred Asynchronous Retrieval (Meta, 2025)
 - [[2506.15267]] Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling (Bytedance, 2025)
@@ -85,6 +86,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2506.23060]] Synergizing Implicit and Explicit User Interests: A Multi-Embedding Retrieval Framework at Pinterest (Pinterest, 2025)
 - [[2507.01066]] Embedding-based Retrieval in Multimodal Content Moderation (Tiktok, 2025)
 - [[2507.08191]] Overview of the TREC 2021 deep learning track (Microsoft, 2025)
+- [[2507.09331]] Correcting the LogQ Correction: Revisiting Sampled Softmax for Large-Scale Retrieval (Yandex, 2025)
 - [[2507.09403]] Balancing Semantic Relevance and Engagement in Related Video Recommendations (Meta, 2025)
 - [[2507.09797]] A Scalable and Efficient Signal Integration System for Job Matching (Linkedin, 2025)
 - [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation Systems (Snap, 2025)
@@ -219,6 +221,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2606.01304]] When Hard Negatives Hurt: Bridging the Generative-Discriminative Gap in Hard Negative Synthesis for Retrieval (Huawei, 2026)
 - [[2606.01697]] RCEM: Embedder Equipped with Query Rewriting Skill for Robust Conversational Search in Distributional Shift (Microsoft, 2026)
 - [[2606.04557]] Cartridges at Scale: Training Modular KV Caches over Large Document Collections (Amazon, 2026)
+- [[2606.07317]] Gated Bidirectional Linear Attention for Generative Retrieval (Yandex, 2026)
 - [[2606.09331]] Conan-embedding-v3: Fusing Modality-Specific Models for Omni-Modal Embedding (Tencent, 2026)
 - [[2606.12198]] LLM-Based User Personas for Recommendations at Scale (Google, 2026)
 - [[2606.15384]] CoeusBI: A Comprehensive Interactive Business Intelligence System Powered by LLMs at Baidu [Extended Version] (Baidu, 2026)
@@ -237,3 +240,4 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2606.29968]] CLIP: Lightweight Cosine-Law-Based Inverted-List Pruning for IVF-Based Vector Search (Tencent, 2026)
 - [[2606.29970]] From Extraction to Navigation: Progressive Retrieval with Indirectly Infinite Depth (Kuaishou, 2026)
 - [[2607.00448]] Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval (Meta, 2026)
+- [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)

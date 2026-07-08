@@ -52,6 +52,7 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2506.23485]] Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent (Huawei, 2025)
 - [[2507.01066]] Embedding-based Retrieval in Multimodal Content Moderation (Tiktok, 2025)
 - [[2507.17249]] R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems (Kuaishou, 2025)
+- [[2507.19473]] Let It Go? Not Quite: Addressing Item Cold Start in Sequential Recommendations with Content-Based Initialization (Yandex, 2025)
 - [[2508.02929]] Realizing Scaling Laws in Recommender Systems: A Foundation-Expert Paradigm for Hyperscale Model Deployment (Meta, 2025)
 - [[2508.05206]] Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising (Alibaba-inc, 2025)
 - [[2508.09539]] TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking (Tencent, 2025)
@@ -149,3 +150,4 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2606.24747]] Scaling Laws for Task-Specific LLM Distillation (Nvidia, 2026)
 - [[2606.25871]] AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search (Walmart, 2026)
 - [[2606.27743]] End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference (Meta, 2026)
+- [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)

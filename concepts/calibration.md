@@ -49,6 +49,7 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2605.17863]] DADF: A Distribution-Aware Debiasing Framework for Watch-Time Regression in Recommender Systems (Kuaishou, 2026)
 - [[2605.26424]] Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation (Taobao, Alibaba-inc, 2026)
 - [[2605.31036]] Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes? (Uber, 2026)
+- [[2606.08604]] Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations (Yandex, 2026)
 - [[2606.17312]] Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty (Amazon, 2026)
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
 - [[2606.24020]] You Don't Need to Run Every Eval (Microsoft, 2026)

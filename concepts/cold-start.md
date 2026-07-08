@@ -113,6 +113,7 @@ Recommending for new users or items that have little or no interaction history.
 - [[2507.12704]] PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform (Pinterest, 2025)
 - [[2507.18800]] Semantic IDs for Music Recommendation (Spotify, 2025)
 - [[2507.19346]] Short-Form Video Recommendations with Multimodal Embeddings: Addressing Cold-Start and Bias Challenges (Zalando, 2025)
+- [[2507.19473]] Let It Go? Not Quite: Addressing Item Cold Start in Sequential Recommendations with Content-Based Initialization (Yandex, 2025)
 - [[2507.22268]] Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items (Amazon, 2025)
 - [[2508.01115]] A hierarchy tree data structure for behavior-based user segment representation (Meta, 2025)
 - [[2508.01128]] Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation (Adobe, 2025)

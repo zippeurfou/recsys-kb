@@ -65,3 +65,5 @@ Conditional computation that routes each input to specialized expert subnetworks
 - [[2605.20948]] Memory Grafting: Scaling Language Model Pre-training via Offline Conditional Memory (Microsoft, 2026)
 - [[2606.19164]] Essential Subspace Merging for Multi-Task Learning (Huawei, 2026)
 - [[2606.27058]] UniFormer: Efficient and Unified Model-Centric Scaling for Industrial Recommendation (Kuaishou, 2026)
+- [[2607.03362]] HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems (Kuaishou, 2026)
+- [[2607.04068]] UniSGR: Unified Framework for Semantic ID Generation and Ranking (Taobao, Alibaba-inc, 2026)

@@ -63,6 +63,7 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2505.10940]] Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation (Kuaishou, 2025)
 - [[2505.19623]] AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender
   Systems (Meta, 2025)
+- [[2506.05853]] Training-Free Query Optimization via LLM-Based Plan Similarity (Yandex, 2025)
 - [[2506.06913]] OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion (Kuaishou, 2025)
 - [[2506.08442]] MERIT: A Merchant Incentive Ranking Model for Hotel Search & Ranking (Alibaba-inc, 2025)
 - [[2506.19743]] NEAR$^2$: A Nested Embedding Approach to Efficient Product Retrieval and Ranking (Ebay, 2025)
@@ -76,6 +77,7 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2508.01115]] A hierarchy tree data structure for behavior-based user segment representation (Meta, 2025)
 - [[2508.05093]] An End-to-End Multi-objective Ensemble Ranking Framework for Video Recommendation (Kuaishou, 2025)
 - [[2508.05206]] Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising (Alibaba-inc, 2025)
+- [[2508.06450]] eSASRec: Enhancing Transformer-based Recommendations in a Modular Fashion (Yandex, 2025)
 - [[2508.07613]] UMRE: A Unified Monotonic Transformation for Ranking Ensemble in Recommender Systems (Kuaishou, 2025)
 - [[2508.08404]] Generating Query-Relevant Document Summaries via Reinforcement Learning (Walmart, 2025)
 - [[2508.09539]] TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking (Tencent, 2025)
@@ -169,3 +171,7 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2606.19108]] JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling (Airbnb, 2026)
 - [[2606.29946]] POEM: Partial-Order Enhanced Real-Time Sequential Modeling for Recommendation (Kuaishou, 2026)
 - [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)
+- [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
+- [[2607.03886]] Enhancement of E-commerce Sponsored Search Relevancy with LLM (Walmart, 2026)
+- [[2607.04068]] UniSGR: Unified Framework for Semantic ID Generation and Ranking (Taobao, Alibaba-inc, 2026)
+- [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)

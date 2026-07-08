@@ -54,6 +54,7 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2506.02261]] What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context (Bytedance, 2025)
 - [[2506.05069]] Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance
   LLM Recommendation (Meta, 2025)
+- [[2506.05853]] Training-Free Query Optimization via LLM-Based Plan Similarity (Yandex, 2025)
 - [[2506.06913]] OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion (Kuaishou, 2025)
 - [[2506.16114]] GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks (Alibaba-inc, 2025)
 - [[2506.18309]] LettinGo: Explore User Profile Generation for Recommendation System (Microsoft, 2025)
@@ -207,3 +208,7 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2606.30932]] Personalizing Marketplace Policies with Competing Objectives and Constrained Experiments: Evidence from a Job Marketplace (Linkedin, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
 - [[2606.31612]] What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States (Alibaba-inc, 2026)
+- [[2607.02818]] Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE (Yandex, 2026)
+- [[2607.03362]] HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems (Kuaishou, 2026)
+- [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)
+- [[2607.05794]] From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space (Alibaba-inc, 2026)
