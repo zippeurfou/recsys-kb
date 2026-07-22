@@ -151,3 +151,5 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2606.25871]] AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search (Walmart, 2026)
 - [[2606.27743]] End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference (Meta, 2026)
 - [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)
+- [[2607.10096]] Scaling and Stabilizing Large-Scale Embedding-Based Retrieval (Walmart, 2026)
+- [[2607.17473]] RAMP: Robust Ad Recommendation Under Limited Personalized-Feature Availability via Masking and Alignment Pathways (Huawei, 2026)

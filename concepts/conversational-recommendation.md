@@ -55,3 +55,4 @@ Multi-turn dialog systems that elicit user preferences and recommend interactive
 - [[2605.27103]] MuChator: Enabling Active Music Discovery via Conversational Music LLMs in Douyin Music (Bytedance, 2026)
 - [[2606.10078]] Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems (Netflix, 2026)
 - [[2606.22803]] Towards Fast Domain Adaptation and Fine-Grained User Simulation for Evaluating Conversational Recommender Systems (Huawei, 2026)
+- [[2607.09540]] From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale (Huawei, 2026)

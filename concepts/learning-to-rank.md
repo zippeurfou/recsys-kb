@@ -175,3 +175,8 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2607.03886]] Enhancement of E-commerce Sponsored Search Relevancy with LLM (Walmart, 2026)
 - [[2607.04068]] UniSGR: Unified Framework for Semantic ID Generation and Ranking (Taobao, Alibaba-inc, 2026)
 - [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)
+- [[2607.08365]] DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify (Alibaba-inc, 2026)
+- [[2607.11030]] MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search (Jd, 2026)
+- [[2607.13398]] TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search (Taobao, Alibaba-inc, 2026)
+- [[2607.13493]] Personalizing Incremental Video Search with Hybrid Text and ID Embeddings (Apple, 2026)
+- [[2607.17092]] Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking (Kuaishou, 2026)

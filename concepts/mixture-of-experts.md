@@ -67,3 +67,5 @@ Conditional computation that routes each input to specialized expert subnetworks
 - [[2606.27058]] UniFormer: Efficient and Unified Model-Centric Scaling for Industrial Recommendation (Kuaishou, 2026)
 - [[2607.03362]] HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems (Kuaishou, 2026)
 - [[2607.04068]] UniSGR: Unified Framework for Semantic ID Generation and Ranking (Taobao, Alibaba-inc, 2026)
+- [[2607.11030]] MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search (Jd, 2026)
+- [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)

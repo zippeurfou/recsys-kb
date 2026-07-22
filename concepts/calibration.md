@@ -54,3 +54,5 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2606.23911]] Scaling Dense Retrieval with LLM-Annotated Training Data: Structured Mining and Progressive Curriculum for E-Commerce Sponsored Search (Walmart, 2026)
 - [[2606.24020]] You Don't Need to Run Every Eval (Microsoft, 2026)
 - [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)
+- [[2607.10239]] Multilingual Semantic Retrieval for Apple Music Search (Apple, 2026)
+- [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)

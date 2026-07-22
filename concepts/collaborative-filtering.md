@@ -149,5 +149,8 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2605.18769]] ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation (Walmart, 2026)
 - [[2605.21832]] FLUID: From Ephemeral IDs to Multimodal Semantic Codes for Industrial-Scale Livestreaming Recommendation (Bytedance, 2026)
 - [[2606.12245]] DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation (Xiaohongshu, 2026)
+- [[2606.18379]] RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation (Meta, 2026)
 - [[2606.19658]] Denoising Implicit Feedback for Cold-start Recommendation (Kuaishou, 2026)
 - [[2607.01387]] Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search (Amazon, Google, 2026)
+- [[2607.13493]] Personalizing Incremental Video Search with Hybrid Text and ID Embeddings (Apple, 2026)
+- [[2607.15242]] Mutable Low-Rank Sketches for Retrain-Free Recommendation (Criteo, 2026)

@@ -77,4 +77,3 @@ Optimizing an entire page/slate jointly (diversity, interactions, layout) rather
 - [[2606.00422]] UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale (Pinterest, 2026)
 - [[2606.01070]] Test-Time Training for Zero-Resource Dense Retrieval Reranking (Bytedance, 2026)
 - [[2606.31031]] GenPage: Towards End-to-End Generative Homepage Construction at Netflix (Netflix, 2026)
-- [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)

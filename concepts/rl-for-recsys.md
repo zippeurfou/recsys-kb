@@ -212,3 +212,8 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2607.03362]] HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems (Kuaishou, 2026)
 - [[2607.05734]] SCOReD: Student-Aware CoT Optimization for Recommendation Distillation (Meta, 2026)
 - [[2607.05794]] From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space (Alibaba-inc, 2026)
+- [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)
+- [[2607.14192]] Long-term User Engagement Optimization through Model-agnostic Downstream Rewards Learning (Pinterest, 2026)
+- [[2607.15730]] RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation (Kuaishou, 2026)
+- [[2607.16633]] Beyond Fixed Depths and Widths: Optimizing Textual Decoding Tries in LLM-based Generative Recommendation (Snap, 2026)
+- [[2607.17499]] Pailitao-MMSearch: Building Native E-Commerce Multimodal Search Foundation (Alibaba-inc, 2026)
