@@ -109,3 +109,7 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 - [[2607.12246]] Proximity Features: Privacy-Compliant Cold-Start Personalization at Airbnb (Airbnb, 2026)
 - [[2607.12392]] MESH: Scaling Up Retrieval with Heterogeneous Content Unification (Pinterest, 2026)
 - [[2607.12578]] Cheaper is Better: A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System (Taobao, 2026)
+- [[2607.24092]] ConAlign: Conditional Alignment Framework for Balancing Biased and Unbiased Recommendation (Kuaishou, 2026)
+- [[2607.24789]] NEXT: Reasoning-Driven Video Recommendation via a Vision-Language Model (Meta, 2026)
+- [[2607.24865]] Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems (Google, 2026)
+- [[2607.26427]] PSG: Pair-Space Generation for Efficient Generative Reranking (Kuaishou, 2026)

@@ -184,3 +184,4 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2606.25656]] Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization (Amazon, 2026)
 - [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
 - [[2607.05794]] From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space (Alibaba-inc, 2026)
+- [[2607.19739]] Personalized Recommendation Tool Learning via Autonomous Language Agents (Microsoft, 2026)

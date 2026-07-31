@@ -243,6 +243,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
 - [[2607.08107]] BACH: A Bayesian Admixture of Contrastive Heads for Multi-Interest Two-Tower Retrieval (Amazon, 2026)
 - [[2607.08365]] DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify (Alibaba-inc, 2026)
+- [[2607.10016]] Tokenizing Numerical and Embedding Features for LLM RecSys (Meta, 2026)
 - [[2607.10096]] Scaling and Stabilizing Large-Scale Embedding-Based Retrieval (Walmart, 2026)
 - [[2607.10239]] Multilingual Semantic Retrieval for Apple Music Search (Apple, 2026)
 - [[2607.12392]] MESH: Scaling Up Retrieval with Heterogeneous Content Unification (Pinterest, 2026)

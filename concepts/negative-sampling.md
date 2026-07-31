@@ -124,3 +124,4 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2607.13493]] Personalizing Incremental Video Search with Hybrid Text and ID Embeddings (Apple, 2026)
 - [[2607.14331]] Long-History User Transformers for Real-Time Ad Ranking (Yandex, 2026)
 - [[2607.15730]] RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation (Kuaishou, 2026)
+- [[2607.21519]] Diffusion Language Model for Recommendation (Tencent, 2026)

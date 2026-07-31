@@ -120,7 +120,6 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2606.10243]] DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction (Meta, 2026)
 - [[2606.15252]] Beyond Positive Signals: Unlocking Implicit Negative Behaviors for Enhanced Sequential User Modeling (Tencent, 2026)
 - [[2606.27058]] UniFormer: Efficient and Unified Model-Centric Scaling for Industrial Recommendation (Kuaishou, 2026)
-- [[2606.27243]] NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems (Tencent, 2026)
 - [[2606.28533]] CMSL: Constructive Multi-Sequence Learning for Recommendation Systems (Meta, 2026)
 - [[2607.04068]] UniSGR: Unified Framework for Semantic ID Generation and Ranking (Taobao, Alibaba-inc, 2026)
 - [[2607.05242]] CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling (Alibaba-inc, 2026)
@@ -130,3 +129,4 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2607.12714]] Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy (Taobao, 2026)
 - [[2607.13398]] TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search (Taobao, Alibaba-inc, 2026)
 - [[2607.17017]] WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture (Meta, 2026)
+- [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)

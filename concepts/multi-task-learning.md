@@ -145,5 +145,7 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2607.12578]] Cheaper is Better: A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System (Taobao, 2026)
 - [[2607.12714]] Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy (Taobao, 2026)
 - [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)
-- [[2607.14192]] Long-term User Engagement Optimization through Model-agnostic Downstream Rewards Learning (Pinterest, 2026)
 - [[2607.17092]] Uncertainty as Remedy: Mitigating Satisfaction Label Bias in Short Video Multi-Objective Ensemble Ranking (Kuaishou, 2026)
+- [[2607.19987]] UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction (Tencent, 2026)
+- [[2607.24015]] Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta (Meta, 2026)
+- [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)
