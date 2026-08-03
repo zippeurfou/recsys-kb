@@ -219,3 +219,7 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2607.24255]] OxygenREC-v2: Internalizing Discrimination into Generative Recommendation (Jd, 2026)
 - [[2607.25901]] RecoReward: Recommender-Guided Multimodal Description Generation for Recommendation (Kuaishou, 2026)
 - [[2607.26593]] ASARL: Autonomous Social-Aware Relevance Learning for QQ Search (Tencent, 2026)
+- [[2607.27760]] Hierarchical Latent Reasoning for LLM-based Recommendation (Xiaohongshu, 2026)
+- [[2607.29010]] EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation (Kuaishou, 2026)
+- [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)
+- [[2607.29241]] RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems (Kuaishou, 2026)

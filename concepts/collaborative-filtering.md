@@ -156,3 +156,4 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2607.15242]] Mutable Low-Rank Sketches for Retrain-Free Recommendation (Criteo, 2026)
 - [[2607.20863]] Probabilistic Residual Learning for Online Recommendations (Meta, 2026)
 - [[2607.21519]] Diffusion Language Model for Recommendation (Tencent, 2026)
+- [[2607.27760]] Hierarchical Latent Reasoning for LLM-based Recommendation (Xiaohongshu, 2026)

@@ -186,3 +186,5 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2607.24417]] CORE: A Unified Cascaded Ordinal Relevance Estimation Framework for E-commerce Search (Meituan, 2026)
 - [[2607.26418]] DIRECTOR: Dynamic Index-based Recommendation with Transport-Optimized Retrieval (Kuaishou, 2026)
 - [[2607.26427]] PSG: Pair-Space Generation for Efficient Generative Reranking (Kuaishou, 2026)
+- [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
+- [[2607.27647]] LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation (Alibaba-inc, 2026)

@@ -57,3 +57,6 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2607.10239]] Multilingual Semantic Retrieval for Apple Music Search (Apple, 2026)
 - [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)
 - [[2607.22518]] PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest (Pinterest, 2026)
+- [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
+- [[2607.28940]] TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings (Linkedin, 2026)
+- [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)

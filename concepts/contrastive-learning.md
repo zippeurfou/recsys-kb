@@ -193,3 +193,5 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2607.21519]] Diffusion Language Model for Recommendation (Tencent, 2026)
 - [[2607.25901]] RecoReward: Recommender-Guided Multimodal Description Generation for Recommendation (Kuaishou, 2026)
 - [[2607.26073]] Guess Where You Go: Generative Next Point-of-Interest Recommendation in Amap (Alibaba-inc, 2026)
+- [[2607.27944]] Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation (Kuaishou, 2026)
+- [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)

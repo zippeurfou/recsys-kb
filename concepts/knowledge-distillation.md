@@ -162,3 +162,5 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2607.26621]] WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models (Kuaishou, 2026)
 - [[2607.26893]] Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising (Tencent, 2026)
 - [[2607.27172]] Improving Item Discoverability in e-Commerce Search via Related Intent Generation (Instacart, 2026)
+- [[2607.27789]] From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation (Kuaishou, 2026)
+- [[2607.29010]] EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation (Kuaishou, 2026)

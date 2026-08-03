@@ -149,3 +149,5 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2607.19987]] UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction (Tencent, 2026)
 - [[2607.24015]] Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta (Meta, 2026)
 - [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)
+- [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
+- [[2607.28070]] CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent (Tencent, 2026)

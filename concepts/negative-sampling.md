@@ -125,3 +125,6 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2607.14331]] Long-History User Transformers for Real-Time Ad Ranking (Yandex, 2026)
 - [[2607.15730]] RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation (Kuaishou, 2026)
 - [[2607.21519]] Diffusion Language Model for Recommendation (Tencent, 2026)
+- [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)
+- [[2607.27944]] Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation (Kuaishou, 2026)
+- [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)

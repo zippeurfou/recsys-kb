@@ -250,3 +250,4 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2607.13493]] Personalizing Incremental Video Search with Hybrid Text and ID Embeddings (Apple, 2026)
 - [[2607.15242]] Mutable Low-Rank Sketches for Retrain-Free Recommendation (Criteo, 2026)
 - [[2607.17499]] Pailitao-MMSearch: Building Native E-Commerce Multimodal Search Foundation (Alibaba-inc, 2026)
+- [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)

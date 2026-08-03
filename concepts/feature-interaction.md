@@ -103,3 +103,5 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2607.24015]] Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta (Meta, 2026)
 - [[2607.24025]] SpecFormer: Mitigating Embedding and Attention Collapse via Spectral-Aware Transformer for Recommendation (Taobao, Alibaba-inc, 2026)
 - [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)
+- [[2607.27744]] ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation (Meta, 2026)
+- [[2607.28070]] CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent (Tencent, 2026)

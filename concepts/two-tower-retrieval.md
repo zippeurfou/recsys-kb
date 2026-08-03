@@ -132,3 +132,4 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2607.22518]] PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest (Pinterest, 2026)
 - [[2607.24015]] Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta (Meta, 2026)
 - [[2607.25110]] Memory Layer: Train the In-Model Cache for Recommendation Models (Meta, 2026)
+- [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)

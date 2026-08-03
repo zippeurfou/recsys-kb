@@ -71,3 +71,5 @@ Conditional computation that routes each input to specialized expert subnetworks
 - [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)
 - [[2607.24015]] Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta (Meta, 2026)
 - [[2607.26500]] Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation (Kuaishou, 2026)
+- [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)
+- [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)

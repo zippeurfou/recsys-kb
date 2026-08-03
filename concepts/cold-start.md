@@ -245,3 +245,5 @@ Recommending for new users or items that have little or no interaction history.
 - [[2607.25110]] Memory Layer: Train the In-Model Cache for Recommendation Models (Meta, 2026)
 - [[2607.25216]] TopoGR: Revealing and Preserving Latent Structure of Semantic ID in Generative Recommendation (Taobao, Alibaba-inc, 2026)
 - [[2607.26500]] Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation (Kuaishou, 2026)
+- [[2607.29010]] EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation (Kuaishou, 2026)
+- [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)

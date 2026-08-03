@@ -130,3 +130,6 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2607.13398]] TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search (Taobao, Alibaba-inc, 2026)
 - [[2607.17017]] WHALE: A Scalable Unified Model for Recommendation with Wukong-HSTU Architecture (Meta, 2026)
 - [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)
+- [[2607.27744]] ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation (Meta, 2026)
+- [[2607.28070]] CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent (Tencent, 2026)
+- [[2607.28940]] TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings (Linkedin, 2026)
