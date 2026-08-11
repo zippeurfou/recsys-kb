@@ -164,3 +164,6 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2607.27172]] Improving Item Discoverability in e-Commerce Search via Related Intent Generation (Instacart, 2026)
 - [[2607.27789]] From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation (Kuaishou, 2026)
 - [[2607.29010]] EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation (Kuaishou, 2026)
+- [[2608.01949]] A Self-Triggered Agentic Push Recommendation System (Bytedance, 2026)
+- [[2608.06213]] Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation (Yandex, 2026)
+- [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)

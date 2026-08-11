@@ -370,3 +370,6 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2607.28940]] TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings (Linkedin, 2026)
 - [[2607.29010]] EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation (Kuaishou, 2026)
 - [[2607.29241]] RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems (Kuaishou, 2026)
+- [[2608.00816]] Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback (Meta, Netflix, 2026)
+- [[2608.06213]] Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation (Yandex, 2026)
+- [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)

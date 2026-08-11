@@ -262,3 +262,6 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 - [[2607.28659]] Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding (Bytedance, 2026)
 - [[2607.29010]] EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation (Kuaishou, 2026)
 - [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)
+- [[2608.06632]] Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation (Meta, 2026)
+- [[2608.07989]] PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation (Kuaishou, 2026)
+- [[2608.08889]] LLM Reasoning for Subjective Tasks: Failure Modes, Mitigation, and Dynamic Reasoning Routing (Netflix, 2026)

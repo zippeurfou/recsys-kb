@@ -97,3 +97,4 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2606.24509]] A Fair Evaluation of Graph Foundation Models for Node Property Prediction (Yandex, 2026)
 - [[2606.29970]] From Extraction to Navigation: Progressive Retrieval with Indirectly Infinite Depth (Kuaishou, 2026)
 - [[2607.24862]] KuaiLive-M3: A Multi-Modal, Multi-Domain, and Multi-Feedback Dataset for Live Streaming Recommendation (Kuaishou, 2026)
+- [[2608.09016]] PreGress: Ranking-Native Pre-training and Prompting for Graph Node Ranking (Huawei, 2026)

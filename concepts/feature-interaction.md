@@ -105,3 +105,5 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)
 - [[2607.27744]] ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation (Meta, 2026)
 - [[2607.28070]] CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent (Tencent, 2026)
+- [[2608.07035]] MISO: Model-Internal-State-Guided Optimization for Ranking Models (Meta, 2026)
+- [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)

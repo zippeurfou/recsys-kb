@@ -185,3 +185,6 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
 - [[2607.05794]] From Passive Retrieval to Active Memory Navigation: Learning to Use Memory as a Structured Action Space (Alibaba-inc, 2026)
 - [[2607.19739]] Personalized Recommendation Tool Learning via Autonomous Language Agents (Microsoft, 2026)
+- [[2608.04095]] FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents (Alibaba-inc, 2026)
+- [[2608.04504]] GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction (Alibaba-inc, 2026)
+- [[2608.04625]] A/B Agent: A Self-Evolving Agent for Strategy Iteration in Industrial A/B Testing (Kuaishou, 2026)

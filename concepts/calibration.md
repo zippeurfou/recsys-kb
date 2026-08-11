@@ -60,3 +60,4 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
 - [[2607.28940]] TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings (Linkedin, 2026)
 - [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)
+- [[2608.01361]] High-Stakes Decisions with Language Models: Insights from Emergency Triage (Microsoft, 2026)

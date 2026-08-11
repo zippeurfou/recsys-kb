@@ -250,4 +250,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2607.13493]] Personalizing Incremental Video Search with Hybrid Text and ID Embeddings (Apple, 2026)
 - [[2607.15242]] Mutable Low-Rank Sketches for Retrain-Free Recommendation (Criteo, 2026)
 - [[2607.17499]] Pailitao-MMSearch: Building Native E-Commerce Multimodal Search Foundation (Alibaba-inc, 2026)
+- [[2607.25901]] RecoReward: Recommender-Guided Multimodal Description Generation for Recommendation (Kuaishou, 2026)
 - [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)
+- [[2608.04095]] FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents (Alibaba-inc, 2026)
+- [[2608.07989]] PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation (Kuaishou, 2026)

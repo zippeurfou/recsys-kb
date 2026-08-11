@@ -151,3 +151,7 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2607.24804]] Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems (Meta, 2026)
 - [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
 - [[2607.28070]] CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent (Tencent, 2026)
+- [[2608.03150]] UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval (Kuaishou, 2026)
+- [[2608.04455]] Multi-Objective Ranking for Live-Streaming: Balancing Fresh and Delayed Signals with Segment-Aware Targeting (Amazon, 2026)
+- [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
+- [[2608.06213]] Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation (Yandex, 2026)
