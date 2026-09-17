@@ -239,14 +239,13 @@ online-experimentation:
     recommender changes.
 
 model-freshness:
-  aliases: [model freshness, freshness, staleness, model staleness, stale model,
-    stale checkpoint, checkpoint staleness, checkpoint age, embedding freshness,
-    embedding staleness, feature freshness, feature staleness, staleness tradeoff,
-    online learning, online training, online streaming training, streaming training,
-    real-time training, realtime training, incremental learning, incremental training,
-    incremental update, online update, delta update, continual learning, warm start,
-    model retraining, retraining frequency, retraining cadence, retrain frequency,
-    parameter synchronization, concept drift]
+  aliases: [model freshness, model staleness, stale model, stale checkpoint,
+    checkpoint staleness, checkpoint age, embedding freshness, embedding staleness,
+    feature freshness, feature staleness, staleness tradeoff, online training,
+    online streaming training, streaming training, real-time training,
+    realtime training, incremental learning, incremental training, incremental update,
+    online update, delta update, model retraining, retraining frequency,
+    retraining cadence, retrain frequency, parameter synchronization, concept drift]
   intro: >-
     How quickly a deployed recommender absorbs new interactions: retraining
     cadence, incremental / online / streaming training, parameter synchronization
