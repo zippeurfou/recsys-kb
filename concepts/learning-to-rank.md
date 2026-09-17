@@ -188,3 +188,4 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2607.26427]] PSG: Pair-Space Generation for Efficient Generative Reranking (Kuaishou, 2026)
 - [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
 - [[2607.27647]] LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation (Alibaba-inc, 2026)
+- [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)

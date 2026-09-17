@@ -252,3 +252,4 @@ Recommending for new users or items that have little or no interaction history.
 - [[2608.04504]] GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction (Alibaba-inc, 2026)
 - [[2608.06559]] Bootstrap-Conditioned Action Selection with Tabular Foundation Models (Amazon, 2026)
 - [[2608.07989]] PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation (Kuaishou, 2026)
+- [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)

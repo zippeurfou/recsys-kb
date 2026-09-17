@@ -33,3 +33,5 @@ Estimating individual treatment effects / incrementality to target interventions
 - [[2607.05242]] CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling (Alibaba-inc, 2026)
 - [[2607.14161]] Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest (Pinterest, 2026)
 - [[2608.01949]] A Self-Triggered Agentic Push Recommendation System (Bytedance, 2026)
+- [[2608.10182]] From Prediction to Incrementality: Causal Optimization for Large-Scale Targeting and Recommendation (Linkedin, 2026)
+- [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)

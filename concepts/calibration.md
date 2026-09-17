@@ -61,3 +61,6 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2607.28940]] TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings (Linkedin, 2026)
 - [[2607.29213]] GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System (Alibaba-inc, 2026)
 - [[2608.01361]] High-Stakes Decisions with Language Models: Insights from Emergency Triage (Microsoft, 2026)
+- [[2608.16872]] Impression Share Prediction: An Offline Evaluation Task for Ranking Systems (Meta, 2026)
+- [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)
+- [[2608.28393]] Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation (Walmart, 2026)

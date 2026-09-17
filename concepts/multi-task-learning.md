@@ -155,3 +155,4 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2608.04455]] Multi-Objective Ranking for Live-Streaming: Balancing Fresh and Delayed Signals with Segment-Aware Targeting (Amazon, 2026)
 - [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
 - [[2608.06213]] Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation (Yandex, 2026)
+- [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)

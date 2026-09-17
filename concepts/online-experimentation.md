@@ -22,6 +22,7 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
   Learning (Spotify, 2023)
 - [[2312.12871]] Effect Size Estimation for Duration Recommendation in Online
   Experiments: Leveraging Hierarchical Models and Objective Utility Approaches (Amazon, 2023)
+- [[2402.14440]] Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations (, 2024)
 - [[2407.16828]] Pareto Front Approximation for Multi-Objective Session-Based Recommender Systems (Otto, 2024)
 - [[2409.17436]] Minimizing Live Experiments in Recommender Systems: User Simulation to
   Evaluate Preference Elicitation Policies (Youtube, 2024)
@@ -426,3 +427,9 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2608.06632]] Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation (Meta, 2026)
 - [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)
 - [[2608.07989]] PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation (Kuaishou, 2026)
+- [[2608.10182]] From Prediction to Incrementality: Causal Optimization for Large-Scale Targeting and Recommendation (Linkedin, 2026)
+- [[2608.16872]] Impression Share Prediction: An Offline Evaluation Task for Ranking Systems (Meta, 2026)
+- [[2608.21274]] Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix (Netflix, 2026)
+- [[2608.25104]] SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking (Kuaishou, 2026)
+- [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)
+- [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)

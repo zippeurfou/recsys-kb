@@ -21,6 +21,7 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2206.14649]] Cooperative Retriever and Ranker in Deep Recommenders (Microsoft, 2022)
 - [[2301.01737]] Episodes Discovery Recommendation with Multi-Source Augmentations (Spotify, 2023)
 - [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
+- [[2402.14440]] Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations (, 2024)
 - [[2410.17276]] Evaluating Performance and Bias of Negative Sampling in Large-Scale
   Sequential Recommendation Models (Apple, 2024)
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)

@@ -29,6 +29,7 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2204.12176]] Cross Pairwise Ranking for Unbiased Item Recommendation (Huawei, 2022)
 - [[2211.01154]] Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective (Bytedance, 2022)
 - [[2211.14935]] RecXplainer: Amortized Attribute-based Personalized Explanations for Recommender Systems (Amazon, 2022)
+- [[2402.14440]] Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations (, 2024)
 - [[2410.03064]] Geometric Collaborative Filtering with Convergence (Netflix, 2024)
 - [[2410.09359]] Green Recommender Systems: Optimizing Dataset Size for Energy-Efficient
   Algorithm Performance (Amazon, 2024)

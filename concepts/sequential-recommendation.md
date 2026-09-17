@@ -36,6 +36,7 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2310.09123]] Automatic Music Playlist Generation via Simulation-based Reinforcement
   Learning (Spotify, 2023)
 - [[2401.06633]] Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations (Microsoft, 2024)
+- [[2402.14440]] Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations (, 2024)
 - [[2407.16828]] Pareto Front Approximation for Multi-Objective Session-Based Recommender Systems (Otto, 2024)
 - [[2409.12740]] HLLM: Enhancing Sequential Recommendations via Hierarchical Large
   Language Models for Item and User Modeling (Amazon, Bytedance, 2024)
@@ -373,3 +374,4 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2608.00816]] Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback (Meta, Netflix, 2026)
 - [[2608.06213]] Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation (Yandex, 2026)
 - [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)
+- [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)

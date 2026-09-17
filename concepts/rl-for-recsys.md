@@ -231,3 +231,4 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2608.06559]] Bootstrap-Conditioned Action Selection with Tabular Foundation Models (Amazon, 2026)
 - [[2608.06632]] Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation (Meta, 2026)
 - [[2608.08889]] LLM Reasoning for Subjective Tasks: Failure Modes, Mitigation, and Dynamic Reasoning Routing (Netflix, 2026)
+- [[2608.10182]] From Prediction to Incrementality: Causal Optimization for Large-Scale Targeting and Recommendation (Linkedin, 2026)
