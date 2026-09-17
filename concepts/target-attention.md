@@ -20,6 +20,7 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2106.08934]] Personalized News Recommendation: Methods and Challenges (Microsoft, 2021)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
 - [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
+- [[2306.00248]] TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest (Pinterest, 2023)
 - [[2409.12740]] HLLM: Enhancing Sequential Recommendations via Hierarchical Large
   Language Models for Item and User Modeling (Amazon, Bytedance, 2024)
 - [[2410.02604]] Long-Sequence Recommendation Models Need Decoupled Embeddings (Tencent, 2024)

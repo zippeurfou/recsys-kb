@@ -32,6 +32,7 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2301.06777]] Reusable Self-Attention Recommender Systems in Fashion Industry Applications (Zalando, 2023)
 - [[2305.05065]] Recommender Systems with Generative Retrieval (Google, 2023)
 - [[2305.07622]] PALR: Personalization Aware LLMs for Recommendation (Amazon, 2023)
+- [[2306.00248]] TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest (Pinterest, 2023)
 - [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
 - [[2310.09123]] Automatic Music Playlist Generation via Simulation-based Reinforcement
   Learning (Spotify, 2023)

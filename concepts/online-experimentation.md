@@ -16,6 +16,8 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 
 ## Papers
 
+- [[2209.07663]] Monolith: Real Time Recommendation System With Collisionless Embedding Table (Bytedance, 2022)
+- [[2306.00248]] TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest (Pinterest, 2023)
 - [[2307.14906]] Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions (Otto, 2023)
 - [[2309.07893]] Choosing a Proxy Metric from Past Experiments (Google, 2023)
 - [[2310.09123]] Automatic Music Playlist Generation via Simulation-based Reinforcement

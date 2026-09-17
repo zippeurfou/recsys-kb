@@ -18,6 +18,7 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 
 - [[1905.12480]] NRPA: Neural Recommendation with Personalized Attention (Microsoft, 2019)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
+- [[2306.00248]] TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest (Pinterest, 2023)
 - [[2412.01985]] Improving feature interactions at Pinterest under industry constraints (Pinterest, 2024)
 - [[2501.02173]] The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit (Meta, 2025)
 - [[2501.07596]] Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration (Tencent, 2025)

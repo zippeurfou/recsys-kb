@@ -24,8 +24,10 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[1909.04823]] Distributed Equivalent Substitution Training for Large-Scale Recommender Systems (Tencent, 2019)
 - [[2108.13299]] Incremental Learning for Personalized Recommender Systems (Linkedin, 2021)
 - [[2203.12267]] PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation (Huawei, 2022)
+- [[2209.07663]] Monolith: Real Time Recommendation System With Collisionless Embedding Table (Bytedance, 2022)
 - [[2210.08803]] Merlin HugeCTR: GPU-accelerated Recommender System Training and Inference (Nvidia, 2022)
 - [[2302.12427]] Slate-Aware Ranking for Recommendation (Tencent, 2023)
+- [[2306.00248]] TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest (Pinterest, 2023)
 - [[2308.11131]] ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (Huawei, 2023)
 - [[2401.11478]] D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems (Huawei, 2024)
 - [[2404.10207]] HELLINGER-UCB: A novel algorithm for stochastic multi-armed bandit

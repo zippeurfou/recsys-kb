@@ -37,7 +37,9 @@ How quickly a deployed recommender absorbs new interactions: retraining cadence,
 ## Papers
 
 - [[2108.13299]] Incremental Learning for Personalized Recommender Systems (Linkedin, 2021)
+- [[2209.07663]] Monolith: Real Time Recommendation System With Collisionless Embedding Table (Bytedance, 2022)
 - [[2210.08804]] A GPU-specialized Inference Parameter Server for Large-Scale Deep Recommendation Models (Nvidia, 2022)
+- [[2306.00248]] TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest (Pinterest, 2023)
 - [[2410.06497]] ERCache: An Efficient and Reliable Caching Framework for Large-Scale
   User Representations in Meta's Ads System (Meta, 2024)
 - [[2410.18111]] Data Efficiency for Large Recommendation Models (Google, 2024)
