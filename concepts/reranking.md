@@ -1,0 +1,162 @@
+---
+slug: reranking
+aliases:
+- rerank
+- re-rank
+- reranking
+- re-ranking
+- reranker
+- re-ranker
+- reranking stage
+- re-ranking stage
+- reranking signal
+- re-ranking signal
+- candidate reranking
+- candidate re-ranking
+- pointwise reranking
+- pointwise re-ranking
+- neural reranking
+- neural re-ranking
+- contextual reranking
+- contextual re-ranking
+- document reranking
+- document re-ranking
+- response reranking
+- response re-ranking
+- multilingual reranking
+- multilingual re-ranking
+- multi-stage reranking
+- multi-stage re-ranking
+- cascading reranking
+- cascading re-ranking
+- ensemble reranking
+- ensemble re-ranking
+- beam search reranking
+- beam search re-ranking
+- multi-vector reranking
+- multi-vector re-ranking
+- transformer-based reranking
+- transformer-based re-ranking
+- cross-encoder reranking
+- cross-encoder re-ranking
+- cross-encoder reranker
+- cross-encoder re-ranker
+- cross-attention reranker
+- cross-attention re-ranker
+- llm reranking
+- llm re-ranking
+- llm-based reranking
+- llm-based re-ranking
+- llm cross-encoder reranking
+- llm cross-encoder re-ranking
+- llm-as-a-reranker
+- llm-as-a-re-ranker
+- llm as reranker
+- llm as re-ranker
+- small language model reranker
+- small language model re-ranker
+- retrieve-and-rerank
+- retrieve-and-re-rank
+- retrieve-then-rerank
+- retrieve-then-re-rank
+- retrieve-then-rerank pipeline
+- retrieve-then-re-rank pipeline
+- training-free reranking
+- training-free re-ranking
+- training-free reranker
+- training-free re-ranker
+- reranker distillation
+- re-ranker distillation
+- edge rerank
+- edge re-rank
+---
+
+## What it is
+
+The cascade stage that rescores an already-retrieved candidate set with a heavier model (cross-encoder, LLM judge, neural reranker). Use `whole-page-optimization` instead when the reranker optimizes the list or slate jointly rather than scoring candidates independently.
+
+## Papers
+
+- [[1908.08284]] Two-Stage Session-based Recommendations with Candidate Rank Embeddings (Zalando, 2019)
+- [[2501.18707]] Hierarchical Multi-field Representations for Two-Stage E-commerce Retrieval (Amazon, 2025)
+- [[2502.06097]] NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems (Meituan, 2025)
+- [[2503.19868]] GENIUS: A Generative Framework for Universal Multimodal Search (Amazon, 2025)
+- [[2504.03965]] Automating Personalization: Prompt Optimization for Recommendation
+  Reranking (Meta, 2025)
+- [[2504.05731]] Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation (Kuaishou, 2025)
+- [[2504.10074]] MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework (Taobao, Alibaba-inc, 2025)
+- [[2504.12063]] Optimizing Compound Retrieval Systems (Google, 2025)
+- [[2504.14550]] Regret-aware Re-ranking for Guaranteeing Two-sided Fairness and Accuracy in Recommender Systems (Huawei, 2025)
+- [[2504.15625]] Comprehensive List Generation for Multi-Generator Reranking (Kuaishou, 2025)
+- [[2505.05196]] Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based
+  Retrieval-Augmented Recommender Systems (Meta, 2025)
+- [[2505.07197]] A Generative Re-ranking Model for List-level Multi-objective Optimization at Taobao (Taobao, Alibaba-inc, 2025)
+- [[2506.05685]] NGA: Non-autoregressive Generative Auction with Global Externalities for Advertising Systems (Meituan, 2025)
+- [[2507.09969]] Non-parametric Graph Convolution for Re-ranking in Recommendation Systems (Snap, 2025)
+- [[2508.02242]] From Generation to Consumption: Personalized List Value Estimation for Re-ranking (Kuaishou, 2025)
+- [[2508.05649]] AI Guided Accelerator For Search Experience (Ebay, 2025)
+- [[2508.08404]] Generating Query-Relevant Document Summaries via Reinforcement Learning (Walmart, 2025)
+- [[2508.13517]] Heterogeneous Influence Maximization in User Recommendation (Tencent, 2025)
+- [[2508.14420]] You Only Evaluate Once: A Tree-based Rerank Method at Meituan (Meituan, 2025)
+- [[2509.04351]] Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking (Google, 2025)
+- [[2509.13603]] Modernizing Facebook Scoped Search: Keyword and Embedding Hybrid Retrieval with LLM Evaluation (Meta, 2025)
+- [[2509.18736]] Denoising Neural Reranker for Recommender Systems (Kuaishou, 2025)
+- [[2509.22046]] GoalRank: Group-Relative Optimization for a Large Ranking Model (Kuaishou, 2025)
+- [[2510.10127]] Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model (Kuaishou, 2025)
+- [[2510.25220]] GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction (Kuaishou, 2025)
+- [[2511.13994]] Hint-Augmented Re-ranking: Efficient Product Search using LLM-Based Query Decomposition (Amazon, 2025)
+- [[2511.16106]] Incorporating Token Importance in Multi-Vector Retrieval (Microsoft, 2025)
+- [[2511.18261]] LLM Reasoning for Cold-Start Item Recommendation (Netflix, 2025)
+- [[2511.18659]] CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning (Apple, 2025)
+- [[2511.18997]] Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation (Kuaishou, 2025)
+- [[2512.04009]] Learning to Comparison-Shop (Airbnb, 2025)
+- [[2512.06464]] Modeling Contextual Passage Utility for Multihop Question Answering (Adobe, 2025)
+- [[2512.10114]] AgriRegion: Region-Aware Retrieval for High-Fidelity Agricultural Advice (Amazon, 2025)
+- [[2512.22442]] HiFi-RAG: Hierarchical Content Filtering and Two-Pass Generation for Open-Domain RAG (Google, 2025)
+- [[2512.23836]] Retrieval Augmented Question Answering: When Should LLMs Admit Ignorance? (Google, 2025)
+- [[2512.24787]] HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent (Tencent, 2025)
+- [[2601.06152]] HiMeS: Hippocampus-inspired Memory System for Personalized AI Assistants (Tencent, 2026)
+- [[2601.20131]] Taxonomy of the Retrieval System Framework: Pitfalls and Paradigms (Google, 2026)
+- [[2601.23129]] Evaluating the Utility of Grounding Documents with Reference-Free LLM-based Metrics (Amazon, 2026)
+- [[2602.03324]] SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation (Alibaba-inc, 2026)
+- [[2602.04587]] VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration (Adobe, 2026)
+- [[2602.05408]] Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search (Baidu, 2026)
+- [[2602.07309]] Semantic Search At LinkedIn (Linkedin, 2026)
+- [[2602.12192]] Query-focused and Memory-aware Reranker for Long Context Processing (Tencent, 2026)
+- [[2602.12528]] DiffuRank: Effective Document Reranking with Diffusion Language Models (Alibaba-inc, 2026)
+- [[2602.13704]] Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search (Alibaba-inc, 2026)
+- [[2603.02565]] FlashEvaluator: Expanding Search Space with Parallel Evaluation (Kuaishou, 2026)
+- [[2603.04598]] PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing (Pinterest, 2026)
+- [[2603.08648]] CAST: Modeling Visual State Transitions for Consistent Video Retrieval (Google, 2026)
+- [[2603.15970]] 100x Cost & Latency Reduction: Performance Analysis of AI Query Approximation using Lightweight Proxy Models (Google, 2026)
+- [[2603.17668]] Halo: Domain-Aware Query Optimization for Long-Context Question Answering (Amazon, 2026)
+- [[2603.18074]] Lightweight Adaptation for LLM-based Technical Service Agent: Latent Logic Augmentation and Robust Noise Reduction (Alibaba-inc, 2026)
+- [[2603.22455]] SkillRouter: Retrieve-and-Rerank Skill Selection for LLM Agents at Scale (Alibaba-inc, 2026)
+- [[2603.24975]] Unbiased Multimodal Reranking for Long-Tail Short-Video Search (Kuaishou, 2026)
+- [[2603.25248]] ColBERT-Att: Late-Interaction Meets Attention for Enhanced Retrieval (Huawei, 2026)
+- [[2603.28512]] TIEG-Youpu Solution for NeurIPS 2022 WikiKG90Mv2-LSC (Tencent, 2026)
+- [[2604.01960]] BBC: Improving Large-k Approximate Nearest Neighbor Search with a Bucket-based Result Collector (Huawei, 2026)
+- [[2604.05314]] Next-Scale Generative Reranking: A Tree-based Generative Rerank Method at Meituan (Meituan, 2026)
+- [[2604.26969]] AgenticRecTune: Multi-Agent with Self-Evolving Skillhub for Recommendation System Optimization (Google, 2026)
+- [[2605.04495]] CAR: Query-Guided Confidence-Aware Reranking for Retrieval-Augmented Generation (Tencent, 2026)
+- [[2605.12995]] F-GRPO: Factorized Group-Relative Policy Optimization for Unified Candidate Generation and Ranking (Adobe, 2026)
+- [[2605.20683]] Layer-wise Token Compression for Efficient Document Reranking (Amazon, 2026)
+- [[2605.25749]] DeGRe: Dense-supervised Generative Reranking for Recommendation (Alibaba-inc, 2026)
+- [[2605.26424]] Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation (Taobao, Alibaba-inc, 2026)
+- [[2605.29287]] UniNote: A Unified Embedding Model for Multimodal Representation and Ranking (Xiaohongshu, 2026)
+- [[2605.29640]] VikingMem: A Memory Base Management System for Stateful LLM-based Applications (Bytedance, 2026)
+- [[2605.30027]] DocRetriever: A Plug-and-Play Framework for Multimodal Document Retrieval with Comprehensive Benchmark (Huawei, 2026)
+- [[2605.30104]] SEAL: Can Saturated Benchmarks Be Revived by LLM-as-a-Meta-Judge? (Bytedance, 2026)
+- [[2606.00422]] UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale (Pinterest, 2026)
+- [[2606.01070]] Test-Time Training for Zero-Resource Dense Retrieval Reranking (Bytedance, 2026)
+- [[2606.19037]] Querit-Reranker: Training Compact Multilingual Rerankers via Efficient Label-Free Distribution Adaptation (Baidu, 2026)
+- [[2607.03880]] Next-Gen Sponsored Search: Crafting the Perfect Query with Inventory-Aware RAG (InvAwr-RAG) Based GenAI (Walmart, 2026)
+- [[2607.10096]] Scaling and Stabilizing Large-Scale Embedding-Based Retrieval (Walmart, 2026)
+- [[2607.19739]] Personalized Recommendation Tool Learning via Autonomous Language Agents (Microsoft, 2026)
+- [[2607.21028]] Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation (Tencent, 2026)
+- [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
+- [[2608.06632]] Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation (Meta, 2026)
+- [[2608.30753]] Learning from What You Retrieve: Online RL Fine-Tuning for Semantic Retrieval (Taobao, Alibaba-inc, 2026)
+- [[2609.03313]] SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation (Meituan, 2026)
+- [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)
+- [[2609.12270]] Recommendation Retrievers Need Verifiers: Universal Generative Reranking for Sequential Recommendations (Meta, 2026)

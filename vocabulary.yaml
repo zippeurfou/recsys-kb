@@ -105,11 +105,62 @@ calibration:
     for auctions, blending, and business rules.
 
 whole-page-optimization:
+  # NOTE: canonicalization normalizes '-' to a space, so 'reranking' and
+  # 're-ranking' are DISTINCT keys. List both spellings for every rerank alias.
   aliases: [page-level optimization, page level optimization, slate optimization,
-    whole page optimization, slate recommendation, re-ranking, reranking]
+    whole page optimization, slate recommendation, slate generation,
+    slate-aware ranking, list-level optimization, listwise utility,
+    permutation space, permutation-level modeling,
+    listwise reranking, listwise re-ranking,
+    setwise reranker, setwise re-ranker,
+    personalized reranking, personalized re-ranking,
+    diversification reranking, diversification re-ranking,
+    generative reranking, generative re-ranking,
+    generator-evaluator reranking, generator-evaluator re-ranking,
+    permutation-level reranking, permutation-level re-ranking]
   intro: >-
-    Optimizing an entire page/slate jointly (diversity, interactions, layout)
-    rather than scoring items independently.
+    Optimizing an entire page/slate jointly (diversity, inter-item interactions,
+    layout, permutation) rather than scoring items independently. Tagged by
+    mechanism: a listwise or generative reranker that emits a whole permutation
+    belongs here; a reranker that rescores candidates independently belongs
+    under `reranking`.
+
+reranking:
+  # Both spellings required for every entry -- see the note above.
+  aliases: [rerank, re-rank, reranking, re-ranking, reranker, re-ranker,
+    reranking stage, re-ranking stage, reranking signal, re-ranking signal,
+    candidate reranking, candidate re-ranking,
+    pointwise reranking, pointwise re-ranking,
+    neural reranking, neural re-ranking,
+    contextual reranking, contextual re-ranking,
+    document reranking, document re-ranking,
+    response reranking, response re-ranking,
+    multilingual reranking, multilingual re-ranking,
+    multi-stage reranking, multi-stage re-ranking,
+    cascading reranking, cascading re-ranking,
+    ensemble reranking, ensemble re-ranking,
+    beam search reranking, beam search re-ranking,
+    multi-vector reranking, multi-vector re-ranking,
+    transformer-based reranking, transformer-based re-ranking,
+    cross-encoder reranking, cross-encoder re-ranking,
+    cross-encoder reranker, cross-encoder re-ranker,
+    cross-attention reranker, cross-attention re-ranker,
+    llm reranking, llm re-ranking, llm-based reranking, llm-based re-ranking,
+    llm cross-encoder reranking, llm cross-encoder re-ranking,
+    llm-as-a-reranker, llm-as-a-re-ranker, llm as reranker, llm as re-ranker,
+    small language model reranker, small language model re-ranker,
+    retrieve-and-rerank, retrieve-and-re-rank,
+    retrieve-then-rerank, retrieve-then-re-rank,
+    retrieve-then-rerank pipeline, retrieve-then-re-rank pipeline,
+    training-free reranking, training-free re-ranking,
+    training-free reranker, training-free re-ranker,
+    reranker distillation, re-ranker distillation,
+    edge rerank, edge re-rank]
+  intro: >-
+    The cascade stage that rescores an already-retrieved candidate set with a
+    heavier model (cross-encoder, LLM judge, neural reranker). Use
+    `whole-page-optimization` instead when the reranker optimizes the list or
+    slate jointly rather than scoring candidates independently.
 
 rl-for-recsys:
   aliases: [rl post-training, reinforcement learning for recommendation, bandits,
