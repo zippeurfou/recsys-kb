@@ -237,3 +237,34 @@ online-experimentation:
   intro: >-
     Online A/B testing, interleaving, and off-policy/offline evaluation of
     recommender changes.
+
+model-freshness:
+  aliases: [model freshness, freshness, staleness, model staleness, stale model,
+    stale checkpoint, checkpoint staleness, checkpoint age, embedding freshness,
+    embedding staleness, feature freshness, feature staleness, staleness tradeoff,
+    online learning, online training, online streaming training, streaming training,
+    real-time training, realtime training, incremental learning, incremental training,
+    incremental update, online update, delta update, continual learning, warm start,
+    model retraining, retraining frequency, retraining cadence, retrain frequency,
+    parameter synchronization, concept drift]
+  intro: >-
+    How quickly a deployed recommender absorbs new interactions: retraining
+    cadence, incremental / online / streaming training, parameter synchronization
+    to serving, and the measured cost of model, embedding, or feature staleness.
+
+training-serving-skew:
+  aliases: [training serving skew, train serve skew, train/serve skew,
+    training/serving skew, training serving consistency, training serving alignment,
+    training serving discrepancy, training serving inconsistency, training inference
+    discrepancy, online offline gap, offline online gap, offline online metric gap,
+    online offline discrepancy, offline online discrepancy, online offline inconsistency,
+    offline online consistency, online offline consistency, feature logging,
+    logged features, online feature logging, feature lag, feature join offset,
+    lag matched features, point in time correctness, point in time features,
+    cached residuals]
+  intro: >-
+    Differences between what a model sees in training and at serving time:
+    feature-pipeline lag and stale feature stores, offline-joined vs served-logged
+    features, cached residuals, and the resulting offline/online metric gaps.
+    Remedies include lag-matched training features and logging features at serve
+    time.
