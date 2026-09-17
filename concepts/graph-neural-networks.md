@@ -98,3 +98,6 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2606.29970]] From Extraction to Navigation: Progressive Retrieval with Indirectly Infinite Depth (Kuaishou, 2026)
 - [[2607.24862]] KuaiLive-M3: A Multi-Modal, Multi-Domain, and Multi-Feedback Dataset for Live Streaming Recommendation (Kuaishou, 2026)
 - [[2608.09016]] PreGress: Ranking-Native Pre-training and Prompting for Graph Node Ranking (Huawei, 2026)
+- [[2608.29652]] ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search (Baidu, 2026)
+- [[2609.04645]] Latent-Aligned Reasoning for Multimodal Recommendation (Xiaohongshu, 2026)
+- [[2609.04862]] Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation (Huawei, 2026)

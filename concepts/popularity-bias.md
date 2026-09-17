@@ -114,3 +114,7 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 - [[2607.24865]] Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems (Google, 2026)
 - [[2607.26427]] PSG: Pair-Space Generation for Efficient Generative Reranking (Kuaishou, 2026)
 - [[2608.21274]] Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix (Netflix, 2026)
+- [[2608.28931]] MERIT: Mitigating Exposure Bias in Generative XMC for User-Interest Propensity Modeling (Amazon, 2026)
+- [[2608.29652]] ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search (Baidu, 2026)
+- [[2609.03369]] HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems (Amazon, Google, Meta, 2026)
+- [[2609.15598]] Self-Evolving Memory for Generative Recommendation (Meta, 2026)

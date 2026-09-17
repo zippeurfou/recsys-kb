@@ -135,3 +135,8 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2608.03692]] SITA: Semantic Interest Tokens for Target-Aware Compression in Long-Sequence Recommendation (Kuaishou, 2026)
 - [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
 - [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)
+- [[2608.24091]] Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios (Alibaba-inc, 2026)
+- [[2609.01240]] From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs (Bytedance, 2026)
+- [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
+- [[2609.08443]] SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching (Bytedance, 2026)
+- [[2609.12375]] ChronicleRec: Pre-training Temporally Anchored Tokens for Lifelong User Modeling (Tencent, 2026)

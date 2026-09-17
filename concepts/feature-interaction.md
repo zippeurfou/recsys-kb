@@ -107,3 +107,7 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2607.28070]] CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent (Tencent, 2026)
 - [[2608.07035]] MISO: Model-Internal-State-Guided Optimization for Ranking Models (Meta, 2026)
 - [[2608.07055]] Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation (Bytedance, 2026)
+- [[2608.27991]] HubMixer: Progressive Latent Hub Mixing for Parameter-Efficient Feature Interaction in Recommendation (Kuaishou, 2026)
+- [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
+- [[2609.11052]] UniRec: Cross-stage Multi-Task Fusion with Preference Alignment for Cascaded Recommender Systems (Kuaishou, 2026)
+- [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)

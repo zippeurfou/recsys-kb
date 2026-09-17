@@ -73,3 +73,6 @@ Conditional computation that routes each input to specialized expert subnetworks
 - [[2607.26500]] Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation (Kuaishou, 2026)
 - [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)
 - [[2607.27577]] Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study (Google, 2026)
+- [[2609.01240]] From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs (Bytedance, 2026)
+- [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
+- [[2609.16070]] Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning (Tencent, 2026)

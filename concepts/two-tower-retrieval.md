@@ -134,3 +134,6 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2607.25110]] Memory Layer: Train the In-Model Cache for Recommendation Models (Meta, 2026)
 - [[2607.25901]] RecoReward: Recommender-Guided Multimodal Description Generation for Recommendation (Kuaishou, 2026)
 - [[2607.27475]] OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval (Meta, 2026)
+- [[2608.28931]] MERIT: Mitigating Exposure Bias in Generative XMC for User-Interest Propensity Modeling (Amazon, 2026)
+- [[2608.30753]] Learning from What You Retrieve: Online RL Fine-Tuning for Semantic Retrieval (Taobao, Alibaba-inc, 2026)
+- [[2609.12842]] MIMA: Multi-Interest Recommendation via Multi-Positive Exclusive Assignment (Alibaba-inc, 2026)

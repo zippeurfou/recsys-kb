@@ -81,3 +81,5 @@ Optimizing an entire page/slate jointly (diversity, interactions, layout) rather
 - [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
 - [[2608.06632]] Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation (Meta, 2026)
 - [[2608.25104]] SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking (Kuaishou, 2026)
+- [[2609.03313]] SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation (Meituan, 2026)
+- [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)

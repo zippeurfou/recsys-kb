@@ -159,3 +159,7 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2607.21519]] Diffusion Language Model for Recommendation (Tencent, 2026)
 - [[2607.27760]] Hierarchical Latent Reasoning for LLM-based Recommendation (Xiaohongshu, 2026)
 - [[2608.09016]] PreGress: Ranking-Native Pre-training and Prompting for Graph Node Ranking (Huawei, 2026)
+- [[2608.28649]] Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution? (Alibaba-inc, 2026)
+- [[2609.04645]] Latent-Aligned Reasoning for Multimodal Recommendation (Xiaohongshu, 2026)
+- [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)
+- [[2609.13678]] Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation (Kuaishou, 2026)
