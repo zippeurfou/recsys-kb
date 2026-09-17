@@ -189,4 +189,3 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2608.04504]] GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction (Alibaba-inc, 2026)
 - [[2608.04625]] A/B Agent: A Self-Evolving Agent for Strategy Iteration in Industrial A/B Testing (Kuaishou, 2026)
 - [[2609.04813]] Inventory-Grounded Policy-Level Optimization for Training-Free AI Search (Huawei, 2026)
-- [[2609.05339]] Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability (Linkedin, 2026)

@@ -261,6 +261,5 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2609.00638]] It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning (Apple, 2026)
 - [[2609.04813]] Inventory-Grounded Policy-Level Optimization for Training-Free AI Search (Huawei, 2026)
 - [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)
-- [[2609.05339]] Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability (Linkedin, 2026)
 - [[2609.12270]] Recommendation Retrievers Need Verifiers: Universal Generative Reranking for Sequential Recommendations (Meta, 2026)
 - [[2609.12842]] MIMA: Multi-Interest Recommendation via Multi-Positive Exclusive Assignment (Alibaba-inc, 2026)
