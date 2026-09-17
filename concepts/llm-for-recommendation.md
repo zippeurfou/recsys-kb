@@ -276,3 +276,4 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 - [[2609.07143]] EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search (Taobao, Alibaba-inc, 2026)
 - [[2609.13657]] Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself (Netflix, 2026)
 - [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)
+- [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)

@@ -193,3 +193,4 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2609.03313]] SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation (Meituan, 2026)
 - [[2609.11052]] UniRec: Cross-stage Multi-Task Fusion with Preference Alignment for Cascaded Recommender Systems (Kuaishou, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
+- [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)

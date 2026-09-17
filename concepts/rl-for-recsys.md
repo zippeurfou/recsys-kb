@@ -244,3 +244,5 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2609.13657]] Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself (Netflix, 2026)
 - [[2609.14493]] VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search (Taobao, 2026)
 - [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)
+- [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
+- [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)

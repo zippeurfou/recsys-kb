@@ -323,3 +323,5 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
 - [[2609.15598]] Self-Evolving Memory for Generative Recommendation (Meta, 2026)
 - [[2609.16070]] Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning (Tencent, 2026)
+- [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
+- [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)

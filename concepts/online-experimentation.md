@@ -458,3 +458,5 @@ Online A/B testing, interleaving, and off-policy/offline evaluation of recommend
 - [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
 - [[2609.16452]] PCap: Personalized Retrieval-Stage Diversity Capping in Facebook Marketplace (Meta, 2026)
+- [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
+- [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)

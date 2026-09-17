@@ -76,3 +76,4 @@ Optimizing an entire page/slate jointly (diversity, inter-item interactions, lay
 - [[2607.26427]] PSG: Pair-Space Generation for Efficient Generative Reranking (Kuaishou, 2026)
 - [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
 - [[2608.25104]] SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking (Kuaishou, 2026)
+- [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
