@@ -264,3 +264,5 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2609.12270]] Recommendation Retrievers Need Verifiers: Universal Generative Reranking for Sequential Recommendations (Meta, 2026)
 - [[2609.12842]] MIMA: Multi-Interest Recommendation via Multi-Positive Exclusive Assignment (Alibaba-inc, 2026)
 - [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)
+- [[2609.20563]] Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning (Taobao, Alibaba-inc, 2026)
+- [[2609.24152]] Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale (Walmart, 2026)

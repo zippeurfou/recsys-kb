@@ -160,3 +160,4 @@ The cascade stage that rescores an already-retrieved candidate set with a heavie
 - [[2609.03313]] SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation (Meituan, 2026)
 - [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)
 - [[2609.12270]] Recommendation Retrievers Need Verifiers: Universal Generative Reranking for Sequential Recommendations (Meta, 2026)
+- [[2609.25825]] Robust Fusion of Semantic and Behavioural Signals for LLM Reranking in Personalised Search (Spotify, 2026)

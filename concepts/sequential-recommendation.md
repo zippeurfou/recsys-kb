@@ -379,7 +379,6 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2608.24091]] Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios (Alibaba-inc, 2026)
 - [[2608.25546]] An Event is Worth One Token: Event Tokenization for Industrial-scale LLM Recommendation (Meta, 2026)
 - [[2609.01240]] From Language to Behavior: Scaling Sequence Transformers for Industrial Recommendation Ranking with Rec-Native Designs (Bytedance, 2026)
-- [[2609.02062]] SPAR: Enhancing Industrial-Scale Generative POI Recommendation via Real-World Spatial Perception (Taobao, Alibaba-inc, 2026)
 - [[2609.02468]] DeepAffinity: Long-Term Aspect Preference Prediction in eCommerce using Small Language Models (Ebay, 2026)
 - [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
 - [[2609.03369]] HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems (Amazon, Google, Meta, 2026)
@@ -391,3 +390,4 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
 - [[2609.15598]] Self-Evolving Memory for Generative Recommendation (Meta, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
+- [[2609.23849]] A Redundancy Reduction Approach for Controllable Sequential Recommendations (Yandex, 2026)

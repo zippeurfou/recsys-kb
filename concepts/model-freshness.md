@@ -61,3 +61,4 @@ How quickly a deployed recommender absorbs new interactions: retraining cadence,
 - [[2607.24092]] ConAlign: Conditional Alignment Framework for Balancing Biased and Unbiased Recommendation (Kuaishou, 2026)
 - [[2607.25110]] Memory Layer: Train the In-Model Cache for Recommendation Models (Meta, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
+- [[2609.25433]] Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems (Google, 2026)

@@ -256,3 +256,6 @@ Recommending for new users or items that have little or no interaction history.
 - [[2609.02062]] SPAR: Enhancing Industrial-Scale Generative POI Recommendation via Real-World Spatial Perception (Taobao, Alibaba-inc, 2026)
 - [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
+- [[2609.21308]] Auto-Bidding with Disentangled Advertiser Profiles and Train-Free Adaptation (Taobao, 2026)
+- [[2609.23718]] UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation (Baidu, 2026)
+- [[2609.25825]] Robust Fusion of Semantic and Behavioural Signals for LLM Reranking in Personalised Search (Spotify, 2026)

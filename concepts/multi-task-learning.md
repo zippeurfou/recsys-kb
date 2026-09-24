@@ -163,5 +163,5 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2609.04862]] Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation (Huawei, 2026)
 - [[2609.05403]] RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments (Walmart, 2026)
 - [[2609.08443]] SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching (Bytedance, 2026)
-- [[2609.11052]] UniRec: Cross-stage Multi-Task Fusion with Preference Alignment for Cascaded Recommender Systems (Kuaishou, 2026)
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
+- [[2609.25433]] Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems (Google, 2026)

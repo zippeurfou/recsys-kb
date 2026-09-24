@@ -209,3 +209,5 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2609.13678]] Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation (Kuaishou, 2026)
 - [[2609.14493]] VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search (Taobao, 2026)
 - [[2609.16070]] Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning (Tencent, 2026)
+- [[2609.20563]] Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning (Taobao, Alibaba-inc, 2026)
+- [[2609.21308]] Auto-Bidding with Disentangled Advertiser Profiles and Train-Free Adaptation (Taobao, 2026)

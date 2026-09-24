@@ -325,3 +325,5 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2609.16070]] Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning (Tencent, 2026)
 - [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
 - [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)
+- [[2609.22227]] Guiding the coarse levels of semantic IDs makes the fine levels learnable (Meta, 2026)
+- [[2609.23718]] UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation (Baidu, 2026)

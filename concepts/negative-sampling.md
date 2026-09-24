@@ -137,3 +137,4 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2609.12270]] Recommendation Retrievers Need Verifiers: Universal Generative Reranking for Sequential Recommendations (Meta, 2026)
 - [[2609.12842]] MIMA: Multi-Interest Recommendation via Multi-Positive Exclusive Assignment (Alibaba-inc, 2026)
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
+- [[2609.24152]] Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale (Walmart, 2026)

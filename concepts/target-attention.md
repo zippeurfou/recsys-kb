@@ -141,3 +141,4 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
 - [[2609.08443]] SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching (Bytedance, 2026)
 - [[2609.12375]] ChronicleRec: Pre-training Temporally Anchored Tokens for Lifelong User Modeling (Tencent, 2026)
+- [[2609.23718]] UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation (Baidu, 2026)

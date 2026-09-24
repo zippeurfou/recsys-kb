@@ -191,6 +191,5 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2608.30333]] Beyond Ranking Accuracy: Evaluating LLM-Cited Feature Rationales for Next Basket Repurchase Recommendation (Walmart, 2026)
 - [[2609.02468]] DeepAffinity: Long-Term Aspect Preference Prediction in eCommerce using Small Language Models (Ebay, 2026)
 - [[2609.03313]] SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation (Meituan, 2026)
-- [[2609.11052]] UniRec: Cross-stage Multi-Task Fusion with Preference Alignment for Cascaded Recommender Systems (Kuaishou, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
-- [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
+- [[2609.19996]] Customizable and Jointly Optimized Route Planning: A Deep Architecture Enabling Differentiable Shortest-Path Search (Alibaba-inc, 2026)
