@@ -101,3 +101,4 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2608.29652]] ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search (Baidu, 2026)
 - [[2609.04645]] Latent-Aligned Reasoning for Multimodal Recommendation (Xiaohongshu, 2026)
 - [[2609.04862]] Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation (Huawei, 2026)
+- [[2610.01533]] Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS) (Huawei, 2026)

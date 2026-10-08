@@ -211,3 +211,6 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2609.16070]] Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning (Tencent, 2026)
 - [[2609.20563]] Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning (Taobao, Alibaba-inc, 2026)
 - [[2609.21308]] Auto-Bidding with Disentangled Advertiser Profiles and Train-Free Adaptation (Taobao, 2026)
+- [[2609.30541]] AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework (Amazon, 2026)
+- [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)
+- [[2610.01533]] Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS) (Huawei, 2026)

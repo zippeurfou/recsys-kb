@@ -161,3 +161,6 @@ The cascade stage that rescores an already-retrieved candidate set with a heavie
 - [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)
 - [[2609.12270]] Recommendation Retrievers Need Verifiers: Universal Generative Reranking for Sequential Recommendations (Meta, 2026)
 - [[2609.25825]] Robust Fusion of Semantic and Behavioural Signals for LLM Reranking in Personalised Search (Spotify, 2026)
+- [[2609.27213]] BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval (Amazon, 2026)
+- [[2609.40241]] Decision-Oriented Recommendation Reranking: An Empirical Study of Jev (Meta, 2026)
+- [[2610.07588]] Personal-Agent Mediated Recommendation with Cross-Platform User History (Meta, 2026)

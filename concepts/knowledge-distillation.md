@@ -174,3 +174,5 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2609.05363]] Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation (Amazon, 2026)
 - [[2609.07143]] EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search (Taobao, Alibaba-inc, 2026)
 - [[2609.15598]] Self-Evolving Memory for Generative Recommendation (Meta, 2026)
+- [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)
+- [[2609.37905]] Beyond Interaction Capacity: Estimator Scaling with Recursive Models for CTR Prediction (Google, 2026)

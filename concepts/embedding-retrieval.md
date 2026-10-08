@@ -266,3 +266,7 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2609.18296]] One-Step Retrieval Framework for Real-Time Sponsored Search Ads Using Hierarchical Text Representations (Tencent, 2026)
 - [[2609.20563]] Reasoning Quality Matters: Combating Reasoning Collapse in LLM-based Embedding Learning (Taobao, Alibaba-inc, 2026)
 - [[2609.24152]] Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale (Walmart, 2026)
+- [[2609.27213]] BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval (Amazon, 2026)
+- [[2609.29983]] From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation (Microsoft, 2026)
+- [[2609.30541]] AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework (Amazon, 2026)
+- [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)

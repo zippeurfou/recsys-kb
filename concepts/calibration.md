@@ -64,3 +64,4 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2608.16872]] Impression Share Prediction: An Offline Evaluation Task for Ranking Systems (Meta, 2026)
 - [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)
 - [[2608.28393]] Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation (Walmart, 2026)
+- [[2610.07810]] SIFT: Search Intent-to-Filter Transformer for Multi-Task Personalized Filter Ranking at Airbnb (Airbnb, 2026)

@@ -62,3 +62,7 @@ How quickly a deployed recommender absorbs new interactions: retraining cadence,
 - [[2607.25110]] Memory Layer: Train the In-Model Cache for Recommendation Models (Meta, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
 - [[2609.25433]] Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems (Google, 2026)
+- [[2609.26853]] COPE: Continual Personalization of LLMs under Sparse User Feedback via User Embeddings and Self-Evaluation (Alibaba-inc, 2026)
+- [[2609.31045]] KuaFu: Compressing Long User Behavior into Understanding at Billion Scale (Tencent, 2026)
+- [[2610.02057]] Optimizing Effective Training Time for Large-Scale Recommendation Systems (Meta, 2026)
+- [[2610.07810]] SIFT: Search Intent-to-Filter Transformer for Multi-Task Personalized Filter Ranking at Airbnb (Airbnb, 2026)

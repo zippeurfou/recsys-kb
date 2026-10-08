@@ -119,3 +119,4 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 - [[2609.03369]] HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems (Amazon, Google, Meta, 2026)
 - [[2609.15598]] Self-Evolving Memory for Generative Recommendation (Meta, 2026)
 - [[2609.23849]] A Redundancy Reduction Approach for Controllable Sequential Recommendations (Yandex, 2026)
+- [[2609.32839]] Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation (Google, 2026)

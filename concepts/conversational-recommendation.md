@@ -57,3 +57,4 @@ Multi-turn dialog systems that elicit user preferences and recommend interactive
 - [[2606.22803]] Towards Fast Domain Adaptation and Fine-Grained User Simulation for Evaluating Conversational Recommender Systems (Huawei, 2026)
 - [[2607.09540]] From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale (Huawei, 2026)
 - [[2608.06632]] Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation (Meta, 2026)
+- [[2609.30297]] Bootstrapping Conversational Recommendation Agents At Spotify: Synthetic Data Generation and Self-Improvement Loops (Spotify, 2026)

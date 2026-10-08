@@ -138,3 +138,8 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2609.12842]] MIMA: Multi-Interest Recommendation via Multi-Positive Exclusive Assignment (Alibaba-inc, 2026)
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
 - [[2609.24152]] Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale (Walmart, 2026)
+- [[2609.28972]] Cross-Country Code-Mixing for Generative Recommendation (Taobao, Alibaba-inc, 2026)
+- [[2609.30541]] AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework (Amazon, 2026)
+- [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)
+- [[2609.40241]] Decision-Oriented Recommendation Reranking: An Empirical Study of Jev (Meta, 2026)
+- [[2610.05559]] Cut Binary Cross Entropy: Efficient Large-Vocabulary Loss and Gradient Kernels for Sequential Recommendation (Google, 2026)

@@ -193,3 +193,4 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2609.03313]] SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation (Meituan, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
 - [[2609.19996]] Customizable and Jointly Optimized Route Planning: A Deep Architecture Enabling Differentiable Shortest-Path Search (Alibaba-inc, 2026)
+- [[2610.02600]] When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation (Meta, 2026)

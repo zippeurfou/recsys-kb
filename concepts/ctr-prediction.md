@@ -358,3 +358,7 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2609.12375]] ChronicleRec: Pre-training Temporally Anchored Tokens for Lifelong User Modeling (Tencent, 2026)
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
 - [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)
+- [[2609.34083]] Beyond One Epoch: Uncertainty-Weighted Sensitivity Regularization for Recommendation Models (Meta, 2026)
+- [[2609.37544]] How Can Recommendation Feedback Evolve Agent Memory? (Taobao, Alibaba-inc, 2026)
+- [[2609.37905]] Beyond Interaction Capacity: Estimator Scaling with Recursive Models for CTR Prediction (Google, 2026)
+- [[2610.07810]] SIFT: Search Intent-to-Filter Transformer for Multi-Task Personalized Filter Ranking at Airbnb (Airbnb, 2026)

@@ -165,3 +165,7 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2609.08443]] SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching (Bytedance, 2026)
 - [[2609.14978]] LazFormer: Scaling Transformers for Industrial Recommendation via Transferable Generative Pre-training (Alibaba-inc, 2026)
 - [[2609.25433]] Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems (Google, 2026)
+- [[2609.28776]] Learned Cross-Task Relationships in Multi-Task Models (Google, 2026)
+- [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)
+- [[2609.32839]] Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation (Google, 2026)
+- [[2610.07810]] SIFT: Search Intent-to-Filter Transformer for Multi-Task Personalized Filter Ranking at Airbnb (Airbnb, 2026)

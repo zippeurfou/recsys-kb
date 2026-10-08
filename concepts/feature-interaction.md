@@ -111,3 +111,7 @@ Explicitly modeling cross-feature interactions for CTR/ranking (e.g. FM, DeepFM,
 - [[2608.27991]] HubMixer: Progressive Latent Hub Mixing for Parameter-Efficient Feature Interaction in Recommendation (Kuaishou, 2026)
 - [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
 - [[2609.15094]] Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation (Baidu, 2026)
+- [[2609.30656]] Component Benchmark: Hierarchical Model Profiling for Large-scale Recommendation Systems (Meta, 2026)
+- [[2609.34083]] Beyond One Epoch: Uncertainty-Weighted Sensitivity Regularization for Recommendation Models (Meta, 2026)
+- [[2609.37905]] Beyond Interaction Capacity: Estimator Scaling with Recursive Models for CTR Prediction (Google, 2026)
+- [[2609.40241]] Decision-Oriented Recommendation Reranking: An Empirical Study of Jev (Meta, 2026)
