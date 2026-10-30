@@ -192,3 +192,4 @@ Grounding LLM generation in retrieved documents/items -- increasingly used in LL
 - [[2609.26853]] COPE: Continual Personalization of LLMs under Sparse User Feedback via User Embeddings and Self-Evaluation (Alibaba-inc, 2026)
 - [[2609.27213]] BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval (Amazon, 2026)
 - [[2609.37544]] How Can Recommendation Feedback Evolve Agent Memory? (Taobao, Alibaba-inc, 2026)
+- [[2610.09795]] MIRROR: From Imitation to Internalization in LLM Personalization (Baidu, 2026)

@@ -194,3 +194,6 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
 - [[2609.19996]] Customizable and Jointly Optimized Route Planning: A Deep Architecture Enabling Differentiable Shortest-Path Search (Alibaba-inc, 2026)
 - [[2610.02600]] When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation (Meta, 2026)
+- [[2610.22797]] Reasoning Reranking with Semantic IDs as the Sole Item Representation (Google, 2026)
+- [[2610.38378]] Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising (Kuaishou, 2026)
+- [[2610.39426]] UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation (Taobao, 2026)

@@ -214,3 +214,7 @@ Self-supervised representation learning by contrasting positive against negative
 - [[2609.30541]] AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework (Amazon, 2026)
 - [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)
 - [[2610.01533]] Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS) (Huawei, 2026)
+- [[2610.26105]] Don't Rewrite the SID Map: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search (Taobao, 2026)
+- [[2610.27691]] EASformer: Environment-Action-State Alignment for Industrial Generative Ranking (Huawei, 2026)
+- [[2610.30941]] PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn (Linkedin, 2026)
+- [[2610.36239]] BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals (Walmart, 2026)

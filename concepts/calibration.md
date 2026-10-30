@@ -65,3 +65,5 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)
 - [[2608.28393]] Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation (Walmart, 2026)
 - [[2610.07810]] SIFT: Search Intent-to-Filter Transformer for Multi-Task Personalized Filter Ranking at Airbnb (Airbnb, 2026)
+- [[2610.32420]] Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion (Meituan, 2026)
+- [[2610.39244]] CASH: A Capability-Aware Subsidy Harness for Advertiser Subsidy Allocation (Kuaishou, 2026)

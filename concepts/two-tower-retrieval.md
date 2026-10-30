@@ -140,3 +140,4 @@ Retrieval architecture with separate user/query and item/document encoders whose
 - [[2609.27213]] BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval (Amazon, 2026)
 - [[2609.28972]] Cross-Country Code-Mixing for Generative Recommendation (Taobao, Alibaba-inc, 2026)
 - [[2609.30601]] Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval (Linkedin, 2026)
+- [[2610.30941]] PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn (Linkedin, 2026)

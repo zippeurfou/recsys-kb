@@ -77,3 +77,6 @@ Optimizing an entire page/slate jointly (diversity, inter-item interactions, lay
 - [[2608.04809]] DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging (Jd, 2026)
 - [[2608.25104]] SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking (Kuaishou, 2026)
 - [[2609.18148]] LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era (Meta, 2026)
+- [[2609.40241]] Decision-Oriented Recommendation Reranking: An Empirical Study of Its Promise and Limitations (Meta, 2026)
+- [[2610.10920]] Language Models for Page-Level Layout Decisions in E-commerce Search (Walmart, 2026)
+- [[2610.39426]] UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation (Taobao, 2026)
