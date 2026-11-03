@@ -181,3 +181,5 @@ Jointly learning multiple objectives with shared or expert-gated representations
 - [[2610.37140]] Rethinking Positional Encoding and Interaction Granularity for CTR Prediction (Tencent, 2026)
 - [[2610.39175]] PRISM: Personalized Item Representations in User History (Meta, 2026)
 - [[2610.39188]] Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation (Meta, 2026)
+- [[2611.01136]] SIDRec: End-to-End Semantic ID Representation and Modeling for Recommendation (Kuaishou, 2026)
+- [[2611.01280]] Improving Ads Ranking Models with Auxiliary Supervision: Techniques and Insights (Meta, 2026)

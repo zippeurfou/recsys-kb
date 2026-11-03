@@ -270,3 +270,7 @@ Reinforcement learning, bandits, and preference-optimization methods for recomme
 - [[2610.34764]] SLIDE: Search-to-List Item Distillation for Single-Rollout Generative Retrieval (Taobao, 2026)
 - [[2610.38155]] Floor It, Then Fill It: Simulating Creator Ecosystems for Fair Video-Content Recommendation Systems at Billion User Scale (Meta, 2026)
 - [[2610.39984]] R2QRec: Learning Recommendation Queries from Retrieval Feedback (Kuaishou, 2026)
+- [[2610.41319]] MILES-Rec: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation (Alibaba-inc, 2026)
+- [[2611.01287]] Dynamic Click Destinations: Personalizing Post Ad-Click Landing Experiences (Meta, 2026)
+- [[2611.02758]] Learning to Adjudicate: Verifier-Guided Multi-Agent Reasoning for E-Commerce Relevance (Taobao, Alibaba-inc, 2026)
+- [[2611.03008]] E-GenRM: Generative Reward Modeling for Open-Ended E-Commerce Shopping Agents (Taobao, Alibaba-inc, 2026)

@@ -372,3 +372,6 @@ Predicting click-through (and conversion) probability for ranking -- central to 
 - [[2610.37140]] Rethinking Positional Encoding and Interaction Granularity for CTR Prediction (Tencent, 2026)
 - [[2610.39090]] PALATE: Pretrained Autoregressive LATent Embeddings (Doordash, 2026)
 - [[2610.39273]] PFA: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation (Alibaba-inc, 2026)
+- [[2611.01136]] SIDRec: End-to-End Semantic ID Representation and Modeling for Recommendation (Kuaishou, 2026)
+- [[2611.01280]] Improving Ads Ranking Models with Auxiliary Supervision: Techniques and Insights (Meta, 2026)
+- [[2611.01287]] Dynamic Click Destinations: Personalizing Post Ad-Click Landing Experiences (Meta, 2026)

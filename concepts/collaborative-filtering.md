@@ -164,3 +164,5 @@ Recommending from user-item interaction patterns via matrix factorization, neigh
 - [[2609.04882]] AtomRec: Evolving Atomic Memory for Agentic Recommendation (Xiaohongshu, 2026)
 - [[2609.13678]] Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation (Kuaishou, 2026)
 - [[2610.01533]] Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS) (Huawei, 2026)
+- [[2611.01977]] EvoRec: A Unified Self-Evolving Agentic Recommender with Dynamic Reflection Trees (Kuaishou, 2026)
+- [[2611.02487]] RecRSI: Mechanism-Guided Discovery of Recommendation Algorithms (Meituan, 2026)

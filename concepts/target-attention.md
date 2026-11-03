@@ -150,3 +150,4 @@ Attention that conditions on the candidate/target item to model user interest fr
 - [[2610.39090]] PALATE: Pretrained Autoregressive LATent Embeddings (Doordash, 2026)
 - [[2610.39175]] PRISM: Personalized Item Representations in User History (Meta, 2026)
 - [[2610.39188]] Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation (Meta, 2026)
+- [[2611.01136]] SIDRec: End-to-End Semantic ID Representation and Modeling for Recommendation (Kuaishou, 2026)

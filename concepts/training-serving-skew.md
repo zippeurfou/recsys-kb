@@ -47,3 +47,4 @@ Differences between what a model sees in training and at serving time: feature-p
 - [[2607.25110]] Memory Layer: Train the In-Model Cache for Recommendation Models (Meta, 2026)
 - [[2608.16872]] Impression Share Prediction: An Offline Evaluation Task for Ranking Systems (Meta, 2026)
 - [[2609.16407]] Balancing Trial and Reorder: A Hybrid Sequential Transformer-GBDT Ranker for On-Demand Delivery (Wolt, DoorDash, 2026)
+- [[2611.01287]] Dynamic Click Destinations: Personalizing Post Ad-Click Landing Experiences (Meta, 2026)

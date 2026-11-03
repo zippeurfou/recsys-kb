@@ -147,3 +147,5 @@ Selecting negatives (in-batch, hard, or sampled) to train retrieval and ranking 
 - [[2610.17823]] Mitigating Popularity Bias in Sequential Recommendations with Sparse Prior-Regularized Objective (Yandex, 2026)
 - [[2610.30941]] PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn (Linkedin, 2026)
 - [[2610.39090]] PALATE: Pretrained Autoregressive LATent Embeddings (Doordash, 2026)
+- [[2611.00530]] WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search (Tencent, 2026)
+- [[2611.03008]] E-GenRM: Generative Reward Modeling for Open-Ended E-Commerce Shopping Agents (Taobao, Alibaba-inc, 2026)

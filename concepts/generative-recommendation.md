@@ -354,3 +354,5 @@ Framing recommendation as sequence generation -- autoregressively generating ite
 - [[2610.39188]] Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation (Meta, 2026)
 - [[2610.39273]] PFA: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation (Alibaba-inc, 2026)
 - [[2610.39426]] UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation (Taobao, 2026)
+- [[2611.00530]] WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search (Tencent, 2026)
+- [[2611.03272]] Diverse-Teacher On-Policy Distillation for Generative Recommendation (Taobao, Alibaba-inc, 2026)

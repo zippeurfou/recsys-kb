@@ -197,3 +197,5 @@ Optimizing a ranking objective (pointwise, pairwise, or listwise) over a set of 
 - [[2610.22797]] Reasoning Reranking with Semantic IDs as the Sole Item Representation (Google, 2026)
 - [[2610.38378]] Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising (Kuaishou, 2026)
 - [[2610.39426]] UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation (Taobao, 2026)
+- [[2611.00530]] WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search (Tencent, 2026)
+- [[2611.02487]] RecRSI: Mechanism-Guided Discovery of Recommendation Algorithms (Meituan, 2026)

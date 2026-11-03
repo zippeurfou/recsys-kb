@@ -36,3 +36,4 @@ Estimating individual treatment effects / incrementality to target interventions
 - [[2608.10182]] From Prediction to Incrementality: Causal Optimization for Large-Scale Targeting and Recommendation (Linkedin, 2026)
 - [[2608.26804]] Incremental Recommendation via Causal Models (Spotify, 2026)
 - [[2610.39244]] CASH: A Capability-Aware Subsidy Harness for Advertiser Subsidy Allocation (Kuaishou, 2026)
+- [[2611.01287]] Dynamic Click Destinations: Personalizing Post Ad-Click Landing Experiences (Meta, 2026)

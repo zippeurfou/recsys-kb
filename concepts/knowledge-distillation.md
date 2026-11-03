@@ -183,3 +183,6 @@ Training a smaller/faster student model to match a teacher's outputs or represen
 - [[2610.30675]] OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models (Kuaishou, 2026)
 - [[2610.34157]] LoopGR: Parameter-Efficient Scaling for Generative Recommendation via Recurrent Depth (Tencent, 2026)
 - [[2610.34764]] SLIDE: Search-to-List Item Distillation for Single-Rollout Generative Retrieval (Taobao, 2026)
+- [[2611.01280]] Improving Ads Ranking Models with Auxiliary Supervision: Techniques and Insights (Meta, 2026)
+- [[2611.02758]] Learning to Adjudicate: Verifier-Guided Multi-Agent Reasoning for E-Commerce Relevance (Taobao, Alibaba-inc, 2026)
+- [[2611.03272]] Diverse-Teacher On-Policy Distillation for Generative Recommendation (Taobao, Alibaba-inc, 2026)

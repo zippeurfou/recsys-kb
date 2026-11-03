@@ -292,3 +292,5 @@ Using large language models as or within recommenders (as rankers, feature/ prof
 - [[2610.30675]] OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models (Kuaishou, 2026)
 - [[2610.36389]] MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations (Walmart, 2026)
 - [[2610.39984]] R2QRec: Learning Recommendation Queries from Retrieval Feedback (Kuaishou, 2026)
+- [[2610.41319]] MILES-Rec: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation (Alibaba-inc, 2026)
+- [[2611.01977]] EvoRec: A Unified Self-Evolving Agentic Recommender with Dynamic Reflection Trees (Kuaishou, 2026)

@@ -273,3 +273,4 @@ Recommending for new users or items that have little or no interaction history.
 - [[2610.36239]] BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals (Walmart, 2026)
 - [[2610.36890]] Latent Residual Reasoning for Ranking in Generative Recommendation (Meituan, 2026)
 - [[2610.38155]] Floor It, Then Fill It: Simulating Creator Ecosystems for Fair Video-Content Recommendation Systems at Billion User Scale (Meta, 2026)
+- [[2610.41319]] MILES-Rec: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation (Alibaba-inc, 2026)

@@ -419,3 +419,7 @@ Modeling a user's chronological interaction sequence (often with transformers or
 - [[2610.39090]] PALATE: Pretrained Autoregressive LATent Embeddings (Doordash, 2026)
 - [[2610.39175]] PRISM: Personalized Item Representations in User History (Meta, 2026)
 - [[2610.39188]] Read More, Reason Deeper: Latent Workspaces for Long-Sequence Recommendation (Meta, 2026)
+- [[2611.01136]] SIDRec: End-to-End Semantic ID Representation and Modeling for Recommendation (Kuaishou, 2026)
+- [[2611.01977]] EvoRec: A Unified Self-Evolving Agentic Recommender with Dynamic Reflection Trees (Kuaishou, 2026)
+- [[2611.02487]] RecRSI: Mechanism-Guided Discovery of Recommendation Algorithms (Meituan, 2026)
+- [[2611.03272]] Diverse-Teacher On-Policy Distillation for Generative Recommendation (Taobao, Alibaba-inc, 2026)

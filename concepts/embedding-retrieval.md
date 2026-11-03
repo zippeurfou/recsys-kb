@@ -276,3 +276,5 @@ Dense / approximate-nearest-neighbor retrieval over learned embeddings for candi
 - [[2610.36239]] BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals (Walmart, 2026)
 - [[2610.39438]] ATLAS-Bench: An Agentic Tool-Use Benchmark for Local Area Search (Alibaba-inc, 2026)
 - [[2610.39984]] R2QRec: Learning Recommendation Queries from Retrieval Feedback (Kuaishou, 2026)
+- [[2611.00530]] WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search (Tencent, 2026)
+- [[2611.01977]] EvoRec: A Unified Self-Evolving Agentic Recommender with Dynamic Reflection Trees (Kuaishou, 2026)

@@ -103,3 +103,4 @@ Graph neural networks over the user-item (and side-information) interaction grap
 - [[2609.04862]] Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation (Huawei, 2026)
 - [[2610.01533]] Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS) (Huawei, 2026)
 - [[2610.36239]] BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals (Walmart, 2026)
+- [[2611.02487]] RecRSI: Mechanism-Guided Discovery of Recommendation Algorithms (Meituan, 2026)

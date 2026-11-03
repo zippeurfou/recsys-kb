@@ -302,3 +302,6 @@ Discrete, hierarchical item identifiers learned by quantizing item embeddings (e
 - [[2610.34764]] SLIDE: Search-to-List Item Distillation for Single-Rollout Generative Retrieval (Taobao, 2026)
 - [[2610.38378]] Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising (Kuaishou, 2026)
 - [[2610.39273]] PFA: Attention Can Be Progressively Focused in Long-Sequence Generative Recommendation (Alibaba-inc, 2026)
+- [[2611.00530]] WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search (Tencent, 2026)
+- [[2611.01136]] SIDRec: End-to-End Semantic ID Representation and Modeling for Recommendation (Kuaishou, 2026)
+- [[2611.03272]] Diverse-Teacher On-Policy Distillation for Generative Recommendation (Taobao, Alibaba-inc, 2026)
