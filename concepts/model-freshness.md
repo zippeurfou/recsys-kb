@@ -69,3 +69,4 @@ How quickly a deployed recommender absorbs new interactions: retraining cadence,
 - [[2610.26105]] Don't Rewrite the SID Map: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search (Taobao, 2026)
 - [[2610.36890]] Latent Residual Reasoning for Ranking in Generative Recommendation (Meituan, 2026)
 - [[2611.00530]] WeSearch: A Unified Model-Centric Retrieval Framework for WeChat Search (Tencent, 2026)
+- [[2611.02981]] Utility-Aware Generative Recommendation: Utility-Enriched Semantic Codes and Utility-Guided Decoding (Kuaishou, 2026)

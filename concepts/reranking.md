@@ -169,3 +169,6 @@ The cascade stage that rescores an already-retrieved candidate set with a heavie
 - [[2610.38378]] Towards Reliable, Scalable, and Value-Aligned Generative Recommendation for Large-Scale Advertising (Kuaishou, 2026)
 - [[2610.39426]] UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation (Taobao, 2026)
 - [[2610.39438]] ATLAS-Bench: An Agentic Tool-Use Benchmark for Local Area Search (Alibaba-inc, 2026)
+- [[2611.01053]] Efficient Conformal Calibration for Paired Recommendation Decisions (Meta, 2026)
+- [[2611.01129]] HiGenTrans: Hierarchical LLM Knowledge Transfer for Generative Recommendation (Kuaishou, 2026)
+- [[2611.02981]] Utility-Aware Generative Recommendation: Utility-Enriched Semantic Codes and Utility-Guided Decoding (Kuaishou, 2026)

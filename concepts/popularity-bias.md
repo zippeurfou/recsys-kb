@@ -127,4 +127,5 @@ Bias toward popular items in feedback/exposure, and methods to debias training a
 - [[2610.30941]] PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn (Linkedin, 2026)
 - [[2610.38155]] Floor It, Then Fill It: Simulating Creator Ecosystems for Fair Video-Content Recommendation Systems at Billion User Scale (Meta, 2026)
 - [[2610.39426]] UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation (Taobao, 2026)
+- [[2611.00323]] Beyond Semantic IDs: Atomic Creator Tokens for Large-Scale Generative Recommendation (Meta, 2026)
 - [[2611.03272]] Diverse-Teacher On-Policy Distillation for Generative Recommendation (Taobao, Alibaba-inc, 2026)

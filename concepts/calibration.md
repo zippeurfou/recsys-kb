@@ -67,3 +67,4 @@ Aligning predicted scores with true probabilities (e.g. for pCTR), important for
 - [[2610.07810]] SIFT: Search Intent-to-Filter Transformer for Multi-Task Personalized Filter Ranking at Airbnb (Airbnb, 2026)
 - [[2610.32420]] Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion (Meituan, 2026)
 - [[2610.39244]] CASH: A Capability-Aware Subsidy Harness for Advertiser Subsidy Allocation (Kuaishou, 2026)
+- [[2611.01053]] Efficient Conformal Calibration for Paired Recommendation Decisions (Meta, 2026)

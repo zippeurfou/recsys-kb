@@ -77,3 +77,4 @@ Conditional computation that routes each input to specialized expert subnetworks
 - [[2609.03290]] UniCon: A Unified Context-Centric Modeling Paradigm for CTR Prediction (Meituan, 2026)
 - [[2609.16070]] Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning (Tencent, 2026)
 - [[2610.16132]] UniSGR-V2: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation (Taobao, Alibaba-inc, 2026)
+- [[2611.01129]] HiGenTrans: Hierarchical LLM Knowledge Transfer for Generative Recommendation (Kuaishou, 2026)
